@@ -2,9 +2,15 @@ async function parseBody(body) {
   const container = []
 
   Array.from(body.querySelectorAll('tr')).forEach(node => {
+    const playerUrl = node.querySelector('td.player').querySelector('a')
     const result = Array.from(node.querySelectorAll('td')).map(column => {
       return column.textContent.trim().normalize('NFC')
     })
+
+    if (playerUrl) {
+      result.push(playerUrl.href)
+    }
+
     container.push(result)
   })
 
@@ -12,12 +18,14 @@ async function parseBody(body) {
 }
 
 async function parseHeader(head) {
-  return Array.from(head.querySelectorAll('th:not([hidden])')).map(node => {
+  const columns =  Array.from(head.querySelectorAll('th:not([hidden])')).map(node => {
     return {
       column: node.getAttribute('data-field'),
       name: node.textContent.trim() || null
     }
   })
+  columns.push({ column: 'URL', nae: 'Url' })
+  return columns
 }
 
 async function parseTable() {
@@ -44,4 +52,4 @@ async function parseTable() {
   }
 }
 
-parseTable()
+await parseTable()
