@@ -24,7 +24,7 @@ async function parseHeader(head) {
       name: node.textContent.trim() || null
     }
   })
-  columns.push({ column: 'URL', nae: 'Url' })
+  columns.push({ column: 'URL', name: 'Url' })
   return columns
 }
 
