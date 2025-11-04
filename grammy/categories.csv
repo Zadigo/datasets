@@ -478,26 +478,26 @@
 18301,R&B Performance
 18306,Traditional R&B Performance
 18322,Rap Performance
-18343,Country Solo Performance
+18346,Country Solo Performance
 18348,Country Duo/Group Performance
-18379,Jazz Instrumental Album
-18390,Gospel/Contemporary Christian Music Performance
-18402,Contemporary Christian Music Song
-18405,Gospel Album
-18410,Contemporary Christian Music Album
-18418,"Latin Pop, Rock, Or Urban Album"
-18421,Regional Mexican Or Tejano Album
-18426,Banda Or Norteño Album
-18445,Blues Album
-18450,Folk Album
-18458,Regional Roots Music Album
-18466,World Music Album
-18469,Children's Album
-18484,Musical Theater Album
-18498,Song Written For Visual Media
-18588,Instrumental Solo
-18594,Classical Vocal Solo
-18602,Contemporary Classical Composition
+18383,Jazz Instrumental Album
+18393,Gospel/Contemporary Christian Music Performance
+18404,Contemporary Christian Music Song
+18409,Gospel Album
+18415,Contemporary Christian Music Album
+18417,"Latin Pop, Rock, Or Urban Album"
+18425,Regional Mexican Or Tejano Album
+18430,Banda Or Norteño Album
+18449,Blues Album
+18454,Folk Album
+18457,Regional Roots Music Album
+18465,World Music Album
+18473,Children's Album
+18486,Musical Theater Album
+18497,Song Written For Visual Media
+18592,Instrumental Solo
+18593,Classical Vocal Solo
+18601,Contemporary Classical Composition
 18674,Best Hard Rock/Metal Performance Vocal Or Instrumental
 18705,Best Rap Performance
 18715,Best Jazz Fusion Performance
@@ -681,38 +681,38 @@
 23458,Best Classical Performance - Instrumental Soloist or Soloists (With Or Without Orchestra)
 23471,Best Classical Choral Performance
 23474,Best Classical Vocal Soloist Performance (With Or Without Orchestra)
-23500,Female Pop Vocal Performance
-23503,Male Pop Vocal Performance
-23512,Pop Performance By A Duo Or Group With Vocals
-23513,Pop Collaboration With Vocals
-23518,Pop Instrumental Performance
-23523,Pop Instrumental Album
-23528,Pop Vocal Album
+23499,Female Pop Vocal Performance
+23507,Male Pop Vocal Performance
+23511,Pop Performance By A Duo Or Group With Vocals
+23515,Pop Collaboration With Vocals
+23522,Pop Instrumental Performance
+23527,Pop Instrumental Album
+23531,Pop Vocal Album
 23537,Dance Recording
-23538,Electronic/Dance Album
-23543,Traditional Pop Vocal Album
-23548,Solo Rock Vocal Performance
-23553,Rock Performance By A Duo Or Group With Vocals
-23558,Hard Rock Performance
+23542,Electronic/Dance Album
+23547,Traditional Pop Vocal Album
+23552,Solo Rock Vocal Performance
+23557,Rock Performance By A Duo Or Group With Vocals
+23562,Hard Rock Performance
 23563,Metal Performance
-23569,Rock Instrumental Performance
-23576,Rock Song
-23580,Rock Album
-23583,Alternative Music Album
-23592,Female R&B Vocal Performance
-23593,Male R&B Vocal Performance
-23598,R&B Performance By A Duo Or Group With Vocals
-23603,Traditional R&B Vocal Performance
-23608,Urban/Alternative Performance
-23613,R&B Song
-23618,R&B Album
-23624,Contemporary R&B Album
-23628,Rap Solo Performance
-23633,Rap Duo/Group Performance
-23640,Rap/Sung Collaboration
-23644,Rap Song
-23648,Rap Album
-23656,Female Country Vocal Performance
+23572,Rock Instrumental Performance
+23575,Rock Song
+23579,Rock Album
+23587,Alternative Music Album
+23591,Female R&B Vocal Performance
+23595,Male R&B Vocal Performance
+23602,R&B Performance By A Duo Or Group With Vocals
+23607,Traditional R&B Vocal Performance
+23611,Urban/Alternative Performance
+23617,R&B Song
+23622,R&B Album
+23627,Contemporary R&B Album
+23632,Rap Solo Performance
+23637,Rap Duo/Group Performance
+23639,Rap/Sung Collaboration
+23643,Rap Song
+23652,Rap Album
+23655,Female Country Vocal Performance
 23658,Male Country Vocal Performance
 23663,Country Performance By A Duo Or Group With Vocals
 23668,Country Collaboration With Vocal
@@ -753,7 +753,7 @@
 23844,Contemporary World Music Album
 23850,Musical Album For Children
 23854,Spoken Word Album For Children
-23859,Spoken Word Album
+23864,Spoken Word Album
 23866,Comedy Album
 23874,Musical Show Album
 23875,Compilation Soundtrack Album
@@ -769,19 +769,19 @@
 23925,"Engineered Album, Non-Classical"
 23940,Surround Sound Album
 23945,"Engineered Album, Classical"
-23954,Classical Album
-23959,Orchestral Performance
-23964,Opera Recording
-23970,Choral Performance
+23958,Classical Album
+23963,Orchestral Performance
+23968,Opera Recording
+23969,Choral Performance
 23978,Instrumental Soloist(s) Performance (with Orchestr
 23979,Instrumental Soloist Performance (without Orchestr
 23984,Chamber Music Performance
-23989,Small Ensemble Performance
-23994,Classical Vocal Performance
+23993,Small Ensemble Performance
+23998,Classical Vocal Performance
 24003,Classical Contemporary Composition
 24004,Classical Crossover
 24009,Music Video/Short Form
-24014,Music Video/Long Form
+24018,Music Video/Long Form
 24328,Best Regional Mexican Album
 24648,Best Alternative Music Performance
 24672,Best Rap Solo Performance
