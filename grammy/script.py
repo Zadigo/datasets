@@ -80,6 +80,19 @@ def main():
         if ',  restoration engineer' in value:
             value = value.replace(',  restoration engineer',
                                   ' > restoration engineer')
+            
+        if ', soloist' in value:
+            value = value.replace(', soloist', ' > soloist')
+
+        if ', remixer' in value:
+            value = value.replace(', remixer', ' > remixer')
+
+        if ', immersive audio' in value:
+            value = value.replace(', immersive audio', ' > immersive audio')
+
+        if ', album notes writer' in value:
+            value = value.replace(', album notes writer',
+                                  ' > album notes writer')
 
         value = value.replace(',', ';')
 
