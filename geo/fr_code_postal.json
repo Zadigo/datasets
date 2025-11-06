@@ -414,9 +414,9 @@
     },
     {
         "insee": "3077",
-        "commune": "CHIRAT L EGLISE",
+        "commune": "CHIRAT L'EGLISE",
         "code_postal": 3330,
-        "libelle": "CHIRAT L EGLISE",
+        "libelle": "CHIRAT L'EGLISE",
         "gps": "46.2460009301,3.03251610569"
     },
     {
@@ -1639,9 +1639,9 @@
     },
     {
         "insee": "6142",
-        "commune": "TOUET DE L ESCARENE",
+        "commune": "TOUET DE L'ESCARENE",
         "code_postal": 6440,
-        "libelle": "TOUET DE L ESCARENE",
+        "libelle": "TOUET DE L'ESCARENE",
         "gps": "43.8520343234,7.37799210413"
     },
     {
@@ -3543,9 +3543,9 @@
     },
     {
         "insee": "8419",
-        "commune": "SIGNY L ABBAYE",
+        "commune": "SIGNY L'ABBAYE",
         "code_postal": 8460,
-        "libelle": "SIGNY L ABBAYE",
+        "libelle": "SIGNY L'ABBAYE",
         "gps": "49.7029435011,4.40415204398"
     },
     {
@@ -4411,9 +4411,9 @@
     },
     {
         "insee": "4192",
-        "commune": "ST MICHEL L OBSERVATOIRE",
+        "commune": "ST MICHEL L'OBSERVATOIRE",
         "code_postal": 4870,
-        "libelle": "ST MICHEL L OBSERVATOIRE",
+        "libelle": "ST MICHEL L'OBSERVATOIRE",
         "gps": "43.909879406,5.72004315449"
     },
     {
@@ -5587,9 +5587,9 @@
     },
     {
         "insee": "10326",
-        "commune": "ROSNAY L HOPITAL",
+        "commune": "ROSNAY L'HOPITAL",
         "code_postal": 10500,
-        "libelle": "ROSNAY L HOPITAL",
+        "libelle": "ROSNAY L'HOPITAL",
         "gps": "48.4577724478,4.50578895388"
     },
     {
@@ -6966,9 +6966,9 @@
     },
     {
         "insee": "11371",
-        "commune": "SALLES SUR L HERS",
+        "commune": "SALLES SUR L'HERS",
         "code_postal": 11410,
-        "libelle": "SALLES SUR L HERS",
+        "libelle": "SALLES SUR L'HERS",
         "gps": "43.29456777,1.78132422207"
     },
     {
@@ -9325,9 +9325,9 @@
     },
     {
         "insee": "10289",
-        "commune": "PLANCY L ABBAYE",
+        "commune": "PLANCY L'ABBAYE",
         "code_postal": 10380,
-        "libelle": "PLANCY L ABBAYE",
+        "libelle": "PLANCY L'ABBAYE",
         "gps": "48.5851575322,3.98528853809"
     },
     {
@@ -10130,9 +10130,9 @@
     },
     {
         "insee": "14514",
-        "commune": "PONT L EVEQUE",
+        "commune": "PONT L'EVEQUE",
         "code_postal": 14130,
-        "libelle": "PONT L EVEQUE",
+        "libelle": "PONT L'EVEQUE",
         "gps": "49.2805619214,0.187666368193"
     },
     {
@@ -10298,9 +10298,9 @@
     },
     {
         "insee": "14619",
-        "commune": "STE MARIE OUTRE L EAU",
+        "commune": "STE MARIE OUTRE L'EAU",
         "code_postal": 14380,
-        "libelle": "STE MARIE OUTRE L EAU",
+        "libelle": "STE MARIE OUTRE L'EAU",
         "gps": "48.9301625356,-1.02129252507"
     },
     {
@@ -10963,9 +10963,9 @@
     },
     {
         "insee": "15013",
-        "commune": "AURIAC L EGLISE",
+        "commune": "AURIAC L'EGLISE",
         "code_postal": 15500,
-        "libelle": "AURIAC L EGLISE",
+        "libelle": "AURIAC L'EGLISE",
         "gps": "45.264190905,3.12606134453"
     },
     {
@@ -11390,9 +11390,9 @@
     },
     {
         "insee": "12120",
-        "commune": "LAISSAC SEVERAC L EGLISE",
+        "commune": "LAISSAC SEVERAC L'EGLISE",
         "code_postal": 12310,
-        "libelle": "LAISSAC SEVERAC L EGLISE",
+        "libelle": "LAISSAC SEVERAC L'EGLISE",
         "gps": "44.3644570513,2.81804424075"
     },
     {
@@ -11992,9 +11992,9 @@
     },
     {
         "insee": "12286",
-        "commune": "VABRES L ABBAYE",
+        "commune": "VABRES L'ABBAYE",
         "code_postal": 12400,
-        "libelle": "VABRES L ABBAYE",
+        "libelle": "VABRES L'ABBAYE",
         "gps": "43.9213497351,2.81975476984"
     },
     {
@@ -14127,9 +14127,9 @@
     },
     {
         "insee": "14405",
-        "commune": "MARTIGNY SUR L ANTE",
+        "commune": "MARTIGNY SUR L'ANTE",
         "code_postal": 14700,
-        "libelle": "MARTIGNY SUR L ANTE",
+        "libelle": "MARTIGNY SUR L'ANTE",
         "gps": "48.890276343,-0.287046389252"
     },
     {
@@ -14442,16 +14442,16 @@
     },
     {
         "insee": "18101",
-        "commune": "GERMIGNY L EXEMPT",
+        "commune": "GERMIGNY L'EXEMPT",
         "code_postal": 18150,
-        "libelle": "GERMIGNY L EXEMPT",
+        "libelle": "GERMIGNY L'EXEMPT",
         "gps": "46.9149646451,2.88246532896"
     },
     {
         "insee": "14514",
-        "commune": "PONT L EVEQUE",
+        "commune": "PONT L'EVEQUE",
         "code_postal": 14130,
-        "libelle": "PONT L EVEQUE",
+        "libelle": "PONT L'EVEQUE",
         "gps": "49.2805619214,0.187666368193"
     },
     {
@@ -15590,9 +15590,9 @@
     },
     {
         "insee": "19137",
-        "commune": "MEYRIGNAC L EGLISE",
+        "commune": "MEYRIGNAC L'EGLISE",
         "code_postal": 19800,
-        "libelle": "MEYRIGNAC L EGLISE",
+        "libelle": "MEYRIGNAC L'EGLISE",
         "gps": "45.4036167689,1.86043218765"
     },
     {
@@ -19391,9 +19391,9 @@
     },
     {
         "insee": "19234",
-        "commune": "ST PARDOUX L ORTIGIER",
+        "commune": "ST PARDOUX L'ORTIGIER",
         "code_postal": 19270,
-        "libelle": "ST PARDOUX L ORTIGIER",
+        "libelle": "ST PARDOUX L'ORTIGIER",
         "gps": "45.2998663219,1.58155594244"
     },
     {
@@ -20287,9 +20287,9 @@
     },
     {
         "insee": "24236",
-        "commune": "LEGUILLAC DE L AUCHE",
+        "commune": "LEGUILLAC DE L'AUCHE",
         "code_postal": 24110,
-        "libelle": "LEGUILLAC DE L AUCHE",
+        "libelle": "LEGUILLAC DE L'AUCHE",
         "gps": "45.1872234326,0.553068373507"
     },
     {
@@ -20525,9 +20525,9 @@
     },
     {
         "insee": "24350",
-        "commune": "RAZAC SUR L ISLE",
+        "commune": "RAZAC SUR L'ISLE",
         "code_postal": 24430,
-        "libelle": "RAZAC SUR L ISLE",
+        "libelle": "RAZAC SUR L'ISLE",
         "gps": "45.1605883444,0.615843501221"
     },
     {
@@ -21610,9 +21610,9 @@
     },
     {
         "insee": "25150",
-        "commune": "CHEVIGNEY SUR L OGNON",
+        "commune": "CHEVIGNEY SUR L'OGNON",
         "code_postal": 25170,
-        "libelle": "CHEVIGNEY SUR L OGNON",
+        "libelle": "CHEVIGNEY SUR L'OGNON",
         "gps": "47.293137629,5.84651506697"
     },
     {
@@ -21722,9 +21722,9 @@
     },
     {
         "insee": "25186",
-        "commune": "CUSSEY SUR L OGNON",
+        "commune": "CUSSEY SUR L'OGNON",
         "code_postal": 25870,
-        "libelle": "CUSSEY SUR L OGNON",
+        "libelle": "CUSSEY SUR L'OGNON",
         "gps": "47.3277456972,5.94001490559"
     },
     {
@@ -22219,9 +22219,9 @@
     },
     {
         "insee": "22203",
-        "commune": "PLOEUC L HERMITAGE",
+        "commune": "PLOEUC L'HERMITAGE",
         "code_postal": 22150,
-        "libelle": "PLOEUC L HERMITAGE",
+        "libelle": "PLOEUC L'HERMITAGE",
         "gps": "48.3440952237,-2.76649702896"
     },
     {
@@ -22233,9 +22233,9 @@
     },
     {
         "insee": "22203",
-        "commune": "PLOEUC L HERMITAGE",
+        "commune": "PLOEUC L'HERMITAGE",
         "code_postal": 22150,
-        "libelle": "PLOEUC L HERMITAGE",
+        "libelle": "PLOEUC L'HERMITAGE",
         "gps": "48.3440952237,-2.76649702896"
     },
     {
@@ -24809,9 +24809,9 @@
     },
     {
         "insee": "76045",
-        "commune": "AUZOUVILLE L ESNEVAL",
+        "commune": "AUZOUVILLE L'ESNEVAL",
         "code_postal": 76760,
-        "libelle": "AUZOUVILLE L ESNEVAL",
+        "libelle": "AUZOUVILLE L'ESNEVAL",
         "gps": "49.6332091755,0.883721965362"
     },
     {
@@ -24942,9 +24942,9 @@
     },
     {
         "insee": "24444",
-        "commune": "ST LOUIS EN L ISLE",
+        "commune": "ST LOUIS EN L'ISLE",
         "code_postal": 24400,
-        "libelle": "ST LOUIS EN L ISLE",
+        "libelle": "ST LOUIS EN L'ISLE",
         "gps": "45.0621473038,0.388564917962"
     },
     {
@@ -25495,16 +25495,16 @@
     },
     {
         "insee": "76289",
-        "commune": "ST MARTIN DE L IF",
+        "commune": "ST MARTIN DE L'IF",
         "code_postal": 76190,
-        "libelle": "ST MARTIN DE L IF",
+        "libelle": "ST MARTIN DE L'IF",
         "gps": "49.5651631452,0.833069408864"
     },
     {
         "insee": "25108",
-        "commune": "CERNAY L EGLISE",
+        "commune": "CERNAY L'EGLISE",
         "code_postal": 25120,
-        "libelle": "CERNAY L EGLISE",
+        "libelle": "CERNAY L'EGLISE",
         "gps": "47.2506553278,6.83349587828"
     },
     {
@@ -26412,9 +26412,9 @@
     },
     {
         "insee": "76620",
-        "commune": "ST MARTIN L HORTIER",
+        "commune": "ST MARTIN L'HORTIER",
         "code_postal": 76270,
-        "libelle": "ST MARTIN L HORTIER",
+        "libelle": "ST MARTIN L'HORTIER",
         "gps": "49.7458247482,1.40341149871"
     },
     {
@@ -26552,9 +26552,9 @@
     },
     {
         "insee": "76656",
-        "commune": "ST VICTOR L ABBAYE",
+        "commune": "ST VICTOR L'ABBAYE",
         "code_postal": 76890,
-        "libelle": "ST VICTOR L ABBAYE",
+        "libelle": "ST VICTOR L'ABBAYE",
         "gps": "49.664925198,1.1242184406"
     },
     {
@@ -27504,9 +27504,9 @@
     },
     {
         "insee": "77493",
-        "commune": "VERNEUIL L ETANG",
+        "commune": "VERNEUIL L'ETANG",
         "code_postal": 77390,
-        "libelle": "VERNEUIL L ETANG",
+        "libelle": "VERNEUIL L'ETANG",
         "gps": "48.6370893938,2.8323243324"
     },
     {
@@ -29289,9 +29289,9 @@
     },
     {
         "insee": "80530",
-        "commune": "MERICOURT L ABBE",
+        "commune": "MERICOURT L'ABBE",
         "code_postal": 80800,
-        "libelle": "MERICOURT L ABBE",
+        "libelle": "MERICOURT L'ABBE",
         "gps": "49.945066215,2.56298035307"
     },
     {
@@ -29597,9 +29597,9 @@
     },
     {
         "insee": "80754",
-        "commune": "THIEULLOY L ABBAYE",
+        "commune": "THIEULLOY L'ABBAYE",
         "code_postal": 80640,
-        "libelle": "THIEULLOY L ABBAYE",
+        "libelle": "THIEULLOY L'ABBAYE",
         "gps": "49.8202594794,1.94419558034"
     },
     {
@@ -31158,9 +31158,9 @@
     },
     {
         "insee": "85163",
-        "commune": "NOIRMOUTIER EN L ILE",
+        "commune": "NOIRMOUTIER EN L'ILE",
         "code_postal": 85330,
-        "libelle": "NOIRMOUTIER EN L ILE",
+        "libelle": "NOIRMOUTIER EN L'ILE",
         "gps": "47.0086655085,-2.26243620205"
     },
     {
@@ -31340,9 +31340,9 @@
     },
     {
         "insee": "86004",
-        "commune": "ANGLES SUR L ANGLIN",
+        "commune": "ANGLES SUR L'ANGLIN",
         "code_postal": 86260,
-        "libelle": "ANGLES SUR L ANGLIN",
+        "libelle": "ANGLES SUR L'ANGLIN",
         "gps": "46.6986976,0.896253717569"
     },
     {
@@ -32600,9 +32600,9 @@
     },
     {
         "insee": "88348",
-        "commune": "PIERREPONT SUR L ARENTELE",
+        "commune": "PIERREPONT SUR L'ARENTELE",
         "code_postal": 88600,
-        "libelle": "PIERREPONT SUR L ARENTELE",
+        "libelle": "PIERREPONT SUR L'ARENTELE",
         "gps": "48.2640041205,6.660725062"
     },
     {
@@ -34525,9 +34525,9 @@
     },
     {
         "insee": "95572",
-        "commune": "ST OUEN L AUMONE",
+        "commune": "ST OUEN L'AUMONE",
         "code_postal": 95310,
-        "libelle": "ST OUEN L AUMONE",
+        "libelle": "ST OUEN L'AUMONE",
         "gps": "49.0441683455,2.12861303743"
     },
     {
@@ -36513,9 +36513,9 @@
     },
     {
         "insee": "71239",
-        "commune": "ISSY L EVEQUE",
+        "commune": "ISSY L'EVEQUE",
         "code_postal": 71760,
-        "libelle": "ISSY L EVEQUE",
+        "libelle": "ISSY L'EVEQUE",
         "gps": "46.7135521882,4.0005402064"
     },
     {
@@ -37115,9 +37115,9 @@
     },
     {
         "insee": "72150",
-        "commune": "JOUE L ABBE",
+        "commune": "JOUE L'ABBE",
         "code_postal": 72380,
-        "libelle": "JOUE L ABBE",
+        "libelle": "JOUE L'ABBE",
         "gps": "48.1075710093,0.229853801099"
     },
     {
@@ -37234,9 +37234,9 @@
     },
     {
         "insee": "72231",
-        "commune": "PARIGNE L EVEQUE",
+        "commune": "PARIGNE L'EVEQUE",
         "code_postal": 72250,
-        "libelle": "PARIGNE L EVEQUE",
+        "libelle": "PARIGNE L'EVEQUE",
         "gps": "47.9315338021,0.371756176736"
     },
     {
@@ -38459,9 +38459,9 @@
     },
     {
         "insee": "72329",
-        "commune": "SAVIGNE L EVEQUE",
+        "commune": "SAVIGNE L'EVEQUE",
         "code_postal": 72460,
-        "libelle": "SAVIGNE L EVEQUE",
+        "libelle": "SAVIGNE L'EVEQUE",
         "gps": "48.0834488074,0.287812838107"
     },
     {
@@ -39845,9 +39845,9 @@
     },
     {
         "insee": "76227",
-        "commune": "ECTOT L AUBER",
+        "commune": "ECTOT L'AUBER",
         "code_postal": 76760,
-        "libelle": "ECTOT L AUBER",
+        "libelle": "ECTOT L'AUBER",
         "gps": "49.6547186988,0.929975857879"
     },
     {
@@ -39971,16 +39971,16 @@
     },
     {
         "insee": "76305",
-        "commune": "GONFREVILLE L ORCHER",
+        "commune": "GONFREVILLE L'ORCHER",
         "code_postal": 76700,
-        "libelle": "GONFREVILLE L ORCHER",
+        "libelle": "GONFREVILLE L'ORCHER",
         "gps": "49.4860837457,0.221985693724"
     },
     {
         "insee": "76305",
-        "commune": "GONFREVILLE L ORCHER",
+        "commune": "GONFREVILLE L'ORCHER",
         "code_postal": 76700,
-        "libelle": "GONFREVILLE L ORCHER",
+        "libelle": "GONFREVILLE L'ORCHER",
         "gps": "49.4860837457,0.221985693724"
     },
     {
@@ -41385,9 +41385,9 @@
     },
     {
         "insee": "77366",
-        "commune": "LE PLESSIS L EVEQUE",
+        "commune": "LE PLESSIS L'EVEQUE",
         "code_postal": 77165,
-        "libelle": "LE PLESSIS L EVEQUE",
+        "libelle": "LE PLESSIS L'EVEQUE",
         "gps": "49.0072248611,2.79558517777"
     },
     {
@@ -41924,9 +41924,9 @@
     },
     {
         "insee": "78545",
-        "commune": "ST CYR L ECOLE",
+        "commune": "ST CYR L'ECOLE",
         "code_postal": 78210,
-        "libelle": "ST CYR L ECOLE",
+        "libelle": "ST CYR L'ECOLE",
         "gps": "48.8065759294,2.0659250703"
     },
     {
@@ -42183,9 +42183,9 @@
     },
     {
         "insee": "79101",
-        "commune": "COULONGES SUR L AUTIZE",
+        "commune": "COULONGES SUR L'AUTIZE",
         "code_postal": 79160,
-        "libelle": "COULONGES SUR L AUTIZE",
+        "libelle": "COULONGES SUR L'AUTIZE",
         "gps": "46.4828315658,-0.599450293173"
     },
     {
@@ -42722,9 +42722,9 @@
     },
     {
         "insee": "80147",
-        "commune": "BUIGNY L ABBE",
+        "commune": "BUIGNY L'ABBE",
         "code_postal": 80132,
-        "libelle": "BUIGNY L ABBE",
+        "libelle": "BUIGNY L'ABBE",
         "gps": "50.0970703455,1.94454979441"
     },
     {
@@ -43345,16 +43345,16 @@
     },
     {
         "insee": "80586",
-        "commune": "NESLE L HOPITAL",
+        "commune": "NESLE L'HOPITAL",
         "code_postal": 80140,
-        "libelle": "NESLE L HOPITAL",
+        "libelle": "NESLE L'HOPITAL",
         "gps": "49.9141969237,1.69287988387"
     },
     {
         "insee": "80590",
-        "commune": "NEUILLY L HOPITAL",
+        "commune": "NEUILLY L'HOPITAL",
         "code_postal": 80132,
-        "libelle": "NEUILLY L HOPITAL",
+        "libelle": "NEUILLY L'HOPITAL",
         "gps": "50.1693770105,1.88017182256"
     },
     {
@@ -43702,9 +43702,9 @@
     },
     {
         "insee": "80824",
-        "commune": "WIENCOURT L EQUIPEE",
+        "commune": "WIENCOURT L'EQUIPEE",
         "code_postal": 80170,
-        "libelle": "WIENCOURT L EQUIPEE",
+        "libelle": "WIENCOURT L'EQUIPEE",
         "gps": "49.840059378,2.60476090583"
     },
     {
@@ -45242,9 +45242,9 @@
     },
     {
         "insee": "85213",
-        "commune": "RIVES DE L YON",
+        "commune": "RIVES DE L'YON",
         "code_postal": 85310,
-        "libelle": "RIVES DE L YON",
+        "libelle": "RIVES DE L'YON",
         "gps": "46.605637391,-1.3354497172"
     },
     {
@@ -45697,9 +45697,9 @@
     },
     {
         "insee": "86178",
-        "commune": "NIEUIL L ESPOIR",
+        "commune": "NIEUIL L'ESPOIR",
         "code_postal": 86340,
-        "libelle": "NIEUIL L ESPOIR",
+        "libelle": "NIEUIL L'ESPOIR",
         "gps": "46.4856610471,0.464374544179"
     },
     {
@@ -45746,9 +45746,9 @@
     },
     {
         "insee": "86234",
-        "commune": "ST MARTIN L ARS",
+        "commune": "ST MARTIN L'ARS",
         "code_postal": 86350,
-        "libelle": "ST MARTIN L ARS",
+        "libelle": "ST MARTIN L'ARS",
         "gps": "46.2123889925,0.556851383529"
     },
     {
@@ -47258,9 +47258,9 @@
     },
     {
         "insee": "89199",
-        "commune": "GY L EVEQUE",
+        "commune": "GY L'EVEQUE",
         "code_postal": 89580,
-        "libelle": "GY L EVEQUE",
+        "libelle": "GY L'EVEQUE",
         "gps": "47.7133845487,3.53370265252"
     },
     {
@@ -49421,9 +49421,9 @@
     },
     {
         "insee": "50446",
-        "commune": "ST ANDRE DE L EPINE",
+        "commune": "ST ANDRE DE L'EPINE",
         "code_postal": 50680,
-        "libelle": "ST ANDRE DE L EPINE",
+        "libelle": "ST ANDRE DE L'EPINE",
         "gps": "49.1337500931,-1.02272343031"
     },
     {
@@ -49855,9 +49855,9 @@
     },
     {
         "insee": "51290",
-        "commune": "HEILTZ L EVEQUE",
+        "commune": "HEILTZ L'EVEQUE",
         "code_postal": 51340,
-        "libelle": "HEILTZ L EVEQUE",
+        "libelle": "HEILTZ L'EVEQUE",
         "gps": "48.7791762757,4.73816215254"
     },
     {
@@ -50716,9 +50716,9 @@
     },
     {
         "insee": "52348",
-        "commune": "NEUILLY L EVEQUE",
+        "commune": "NEUILLY L'EVEQUE",
         "code_postal": 52360,
-        "libelle": "NEUILLY L EVEQUE",
+        "libelle": "NEUILLY L'EVEQUE",
         "gps": "47.9193052066,5.43856285337"
     },
     {
@@ -53621,9 +53621,9 @@
     },
     {
         "insee": "59593",
-        "commune": "THUN L EVEQUE",
+        "commune": "THUN L'EVEQUE",
         "code_postal": 59141,
-        "libelle": "THUN L EVEQUE",
+        "libelle": "THUN L'EVEQUE",
         "gps": "50.2257650605,3.28109704734"
     },
     {
@@ -53999,9 +53999,9 @@
     },
     {
         "insee": "60316",
-        "commune": "HODENC L EVEQUE",
+        "commune": "HODENC L'EVEQUE",
         "code_postal": 60430,
-        "libelle": "HODENC L EVEQUE",
+        "libelle": "HODENC L'EVEQUE",
         "gps": "49.3361613976,2.14176639228"
     },
     {
@@ -54118,9 +54118,9 @@
     },
     {
         "insee": "60407",
-        "commune": "MONCEAUX L ABBAYE",
+        "commune": "MONCEAUX L'ABBAYE",
         "code_postal": 60220,
-        "libelle": "MONCEAUX L ABBAYE",
+        "libelle": "MONCEAUX L'ABBAYE",
         "gps": "49.6524929678,1.78839949291"
     },
     {
@@ -55756,9 +55756,9 @@
     },
     {
         "insee": "62345",
-        "commune": "FONTAINE L ETALON",
+        "commune": "FONTAINE L'ETALON",
         "code_postal": 62390,
-        "libelle": "FONTAINE L ETALON",
+        "libelle": "FONTAINE L'ETALON",
         "gps": "50.3021964061,2.06687302766"
     },
     {
@@ -55896,9 +55896,9 @@
     },
     {
         "insee": "62448",
-        "commune": "HESDIN L ABBE",
+        "commune": "HESDIN L'ABBE",
         "code_postal": 62360,
-        "libelle": "HESDIN L ABBE",
+        "libelle": "HESDIN L'ABBE",
         "gps": "50.6687608865,1.68795327602"
     },
     {
@@ -56372,9 +56372,9 @@
     },
     {
         "insee": "63045",
-        "commune": "BORT L ETANG",
+        "commune": "BORT L'ETANG",
         "code_postal": 63190,
-        "libelle": "BORT L ETANG",
+        "libelle": "BORT L'ETANG",
         "gps": "45.7812457267,3.43542941153"
     },
     {
@@ -56547,9 +56547,9 @@
     },
     {
         "insee": "63176",
-        "commune": "HEUME L EGLISE",
+        "commune": "HEUME L'EGLISE",
         "code_postal": 63210,
-        "libelle": "HEUME L EGLISE",
+        "libelle": "HEUME L'EGLISE",
         "gps": "45.7212118766,2.72132681759"
     },
     {
@@ -58325,9 +58325,9 @@
     },
     {
         "insee": "66069",
-        "commune": "ESPIRA DE L AGLY",
+        "commune": "ESPIRA DE L'AGLY",
         "code_postal": 66600,
-        "libelle": "ESPIRA DE L AGLY",
+        "libelle": "ESPIRA DE L'AGLY",
         "gps": "42.7964740198,2.82234963668"
     },
     {
@@ -60033,9 +60033,9 @@
     },
     {
         "insee": "33478",
-        "commune": "ST SEURIN SUR L ISLE",
+        "commune": "ST SEURIN SUR L'ISLE",
         "code_postal": 33660,
-        "libelle": "ST SEURIN SUR L ISLE",
+        "libelle": "ST SEURIN SUR L'ISLE",
         "gps": "45.0105769146,-0.0011367508014"
     },
     {
@@ -61328,9 +61328,9 @@
     },
     {
         "insee": "38107",
-        "commune": "CHONAS L AMBALLAN",
+        "commune": "CHONAS L'AMBALLAN",
         "code_postal": 38121,
-        "libelle": "CHONAS L AMBALLAN",
+        "libelle": "CHONAS L'AMBALLAN",
         "gps": "45.464474261,4.80291707656"
     },
     {
@@ -61636,9 +61636,9 @@
     },
     {
         "insee": "38359",
-        "commune": "ST ANTOINE L ABBAYE",
+        "commune": "ST ANTOINE L'ABBAYE",
         "code_postal": 38160,
-        "libelle": "ST ANTOINE L ABBAYE",
+        "libelle": "ST ANTOINE L'ABBAYE",
         "gps": "45.1722353559,5.21609050981"
     },
     {
@@ -62427,9 +62427,9 @@
     },
     {
         "insee": "39356",
-        "commune": "MONTIGNY SUR L AIN",
+        "commune": "MONTIGNY SUR L'AIN",
         "code_postal": 39300,
-        "libelle": "MONTIGNY SUR L AIN",
+        "libelle": "MONTIGNY SUR L'AIN",
         "gps": "46.7050355286,5.79177737951"
     },
     {
@@ -62784,9 +62784,9 @@
     },
     {
         "insee": "40001",
-        "commune": "AIRE SUR L ADOUR",
+        "commune": "AIRE SUR L'ADOUR",
         "code_postal": 40800,
-        "libelle": "AIRE SUR L ADOUR",
+        "libelle": "AIRE SUR L'ADOUR",
         "gps": "43.6983525736,-0.265145513574"
     },
     {
@@ -63554,9 +63554,9 @@
     },
     {
         "insee": "41192",
-        "commune": "LES ROCHES L EVEQUE",
+        "commune": "LES ROCHES L'EVEQUE",
         "code_postal": 41800,
-        "libelle": "LES ROCHES L EVEQUE",
+        "libelle": "LES ROCHES L'EVEQUE",
         "gps": "47.7861085409,0.88757317848"
     },
     {
@@ -63855,9 +63855,9 @@
     },
     {
         "insee": "42087",
-        "commune": "ECOTAY L OLME",
+        "commune": "ECOTAY L'OLME",
         "code_postal": 42600,
-        "libelle": "ECOTAY L OLME",
+        "libelle": "ECOTAY L'OLME",
         "gps": "45.5867257895,4.04549513063"
     },
     {
@@ -64506,9 +64506,9 @@
     },
     {
         "insee": "43233",
-        "commune": "SANSSAC L EGLISE",
+        "commune": "SANSSAC L'EGLISE",
         "code_postal": 43320,
-        "libelle": "SANSSAC L EGLISE",
+        "libelle": "SANSSAC L'EGLISE",
         "gps": "45.0461886154,3.7913435493"
     },
     {
@@ -66011,9 +66011,9 @@
     },
     {
         "insee": "49140",
-        "commune": "FONTEVRAUD L ABBAYE",
+        "commune": "FONTEVRAUD L'ABBAYE",
         "code_postal": 49590,
-        "libelle": "FONTEVRAUD L ABBAYE",
+        "libelle": "FONTEVRAUD L'ABBAYE",
         "gps": "47.1843477154,0.03384269066"
     },
     {
@@ -67166,9 +67166,9 @@
     },
     {
         "insee": "27350",
-        "commune": "ILLIERS L EVEQUE",
+        "commune": "ILLIERS L'EVEQUE",
         "code_postal": 27770,
-        "libelle": "ILLIERS L EVEQUE",
+        "libelle": "ILLIERS L'EVEQUE",
         "gps": "48.8249944319,1.25958790614"
     },
     {
@@ -67243,9 +67243,9 @@
     },
     {
         "insee": "27406",
-        "commune": "MESNIL SUR L ESTREE",
+        "commune": "MESNIL SUR L'ESTREE",
         "code_postal": 27650,
-        "libelle": "MESNIL SUR L ESTREE",
+        "libelle": "MESNIL SUR L'ESTREE",
         "gps": "48.7767004178,1.29009142642"
     },
     {
@@ -67264,9 +67264,9 @@
     },
     {
         "insee": "27414",
-        "commune": "MONTREUIL L ARGILLE",
+        "commune": "MONTREUIL L'ARGILLE",
         "code_postal": 27390,
-        "libelle": "MONTREUIL L ARGILLE",
+        "libelle": "MONTREUIL L'ARGILLE",
         "gps": "48.9396490466,0.468484360386"
     },
     {
@@ -67306,9 +67306,9 @@
     },
     {
         "insee": "27440",
-        "commune": "NOTRE DAME DE L ISLE",
+        "commune": "NOTRE DAME DE L'ISLE",
         "code_postal": 27940,
-        "libelle": "NOTRE DAME DE L ISLE",
+        "libelle": "NOTRE DAME DE L'ISLE",
         "gps": "49.1559698641,1.44753514433"
     },
     {
@@ -67355,9 +67355,9 @@
     },
     {
         "insee": "27469",
-        "commune": "PONT DE L ARCHE",
+        "commune": "PONT DE L'ARCHE",
         "code_postal": 27340,
-        "libelle": "PONT DE L ARCHE",
+        "libelle": "PONT DE L'ARCHE",
         "gps": "49.2909189807,1.14424790108"
     },
     {
@@ -67453,9 +67453,9 @@
     },
     {
         "insee": "27538",
-        "commune": "ST ETIENNE L ALLIER",
+        "commune": "ST ETIENNE L'ALLIER",
         "code_postal": 27450,
-        "libelle": "ST ETIENNE L ALLIER",
+        "libelle": "ST ETIENNE L'ALLIER",
         "gps": "49.266311791,0.557474976869"
     },
     {
@@ -67586,16 +67586,16 @@
     },
     {
         "insee": "27638",
-        "commune": "LE THUIT DE L OISON",
+        "commune": "LE THUIT DE L'OISON",
         "code_postal": 27370,
-        "libelle": "LE THUIT DE L OISON",
+        "libelle": "LE THUIT DE L'OISON",
         "gps": "49.2568957879,0.939183220001"
     },
     {
         "insee": "27638",
-        "commune": "LE THUIT DE L OISON",
+        "commune": "LE THUIT DE L'OISON",
         "code_postal": 27370,
-        "libelle": "LE THUIT DE L OISON",
+        "libelle": "LE THUIT DE L'OISON",
         "gps": "49.2568957879,0.939183220001"
     },
     {
@@ -69483,9 +69483,9 @@
     },
     {
         "insee": "30141",
-        "commune": "LAUDUN L ARDOISE",
+        "commune": "LAUDUN L'ARDOISE",
         "code_postal": 30290,
-        "libelle": "LAUDUN L ARDOISE",
+        "libelle": "LAUDUN L'ARDOISE",
         "gps": "44.1029568271,4.66389513091"
     },
     {
@@ -70995,9 +70995,9 @@
     },
     {
         "insee": "32197",
-        "commune": "LARROQUE SUR L OSSE",
+        "commune": "LARROQUE SUR L'OSSE",
         "code_postal": 32100,
-        "libelle": "LARROQUE SUR L OSSE",
+        "libelle": "LARROQUE SUR L'OSSE",
         "gps": "43.9755473747,0.282230658284"
     },
     {
@@ -71898,9 +71898,9 @@
     },
     {
         "insee": "33373",
-        "commune": "ST ANTOINE SUR L ISLE",
+        "commune": "ST ANTOINE SUR L'ISLE",
         "code_postal": 33660,
-        "libelle": "ST ANTOINE SUR L ISLE",
+        "libelle": "ST ANTOINE SUR L'ISLE",
         "gps": "45.0470360982,0.0461113956176"
     },
     {
@@ -72185,9 +72185,9 @@
     },
     {
         "insee": "34196",
-        "commune": "PEGAIROLLES DE L ESCALETTE",
+        "commune": "PEGAIROLLES DE L'ESCALETTE",
         "code_postal": 34700,
-        "libelle": "PEGAIROLLES DE L ESCALETTE",
+        "libelle": "PEGAIROLLES DE L'ESCALETTE",
         "gps": "43.8129638311,3.33457368813"
     },
     {
@@ -72248,9 +72248,9 @@
     },
     {
         "insee": "34273",
-        "commune": "ST MARTIN DE L ARCON",
+        "commune": "ST MARTIN DE L'ARCON",
         "code_postal": 34390,
-        "libelle": "ST MARTIN DE L ARCON",
+        "libelle": "ST MARTIN DE L'ARCON",
         "gps": "43.5800016675,2.98506078379"
     },
     {
@@ -72822,9 +72822,9 @@
     },
     {
         "insee": "44180",
-        "commune": "VALLONS DE L ERDRE",
+        "commune": "VALLONS DE L'ERDRE",
         "code_postal": 44540,
-        "libelle": "VALLONS DE L ERDRE",
+        "libelle": "VALLONS DE L'ERDRE",
         "gps": "47.5309227299,-1.19441075506"
     },
     {
@@ -73291,9 +73291,9 @@
     },
     {
         "insee": "45273",
-        "commune": "ST DENIS DE L HOTEL",
+        "commune": "ST DENIS DE L'HOTEL",
         "code_postal": 45550,
-        "libelle": "ST DENIS DE L HOTEL",
+        "libelle": "ST DENIS DE L'HOTEL",
         "gps": "47.8835425588,2.15388829188"
     },
     {
@@ -77764,9 +77764,9 @@
     },
     {
         "insee": "2512",
-        "commune": "MONTIGNY L ALLIER",
+        "commune": "MONTIGNY L'ALLIER",
         "code_postal": 2810,
-        "libelle": "MONTIGNY L ALLIER",
+        "libelle": "MONTIGNY L'ALLIER",
         "gps": "49.1221418457,3.10744372815"
     },
     {
@@ -78086,9 +78086,9 @@
     },
     {
         "insee": "69127",
-        "commune": "MARCY L ETOILE",
+        "commune": "MARCY L'ETOILE",
         "code_postal": 69280,
-        "libelle": "MARCY L ETOILE",
+        "libelle": "MARCY L'ETOILE",
         "gps": "45.7852649435,4.71250416429"
     },
     {
@@ -78212,9 +78212,9 @@
     },
     {
         "insee": "69203",
-        "commune": "ST GENIS L ARGENTIERE",
+        "commune": "ST GENIS L'ARGENTIERE",
         "code_postal": 69610,
-        "libelle": "ST GENIS L ARGENTIERE",
+        "libelle": "ST GENIS L'ARGENTIERE",
         "gps": "45.7133172246,4.49538138887"
     },
     {
@@ -80837,9 +80837,9 @@
     },
     {
         "insee": "3182",
-        "commune": "MONTEIGNET SUR L ANDELOT",
+        "commune": "MONTEIGNET SUR L'ANDELOT",
         "code_postal": 3800,
-        "libelle": "MONTEIGNET SUR L ANDELOT",
+        "libelle": "MONTEIGNET SUR L'ANDELOT",
         "gps": "46.1150007655,3.24811283769"
     },
     {
@@ -81369,9 +81369,9 @@
     },
     {
         "insee": "4192",
-        "commune": "ST MICHEL L OBSERVATOIRE",
+        "commune": "ST MICHEL L'OBSERVATOIRE",
         "code_postal": 4870,
-        "libelle": "ST MICHEL L OBSERVATOIRE",
+        "libelle": "ST MICHEL L'OBSERVATOIRE",
         "gps": "43.909879406,5.72004315449"
     },
     {
@@ -82146,9 +82146,9 @@
     },
     {
         "insee": "7168",
-        "commune": "ORGNAC L AVEN",
+        "commune": "ORGNAC L'AVEN",
         "code_postal": 7150,
-        "libelle": "ORGNAC L AVEN",
+        "libelle": "ORGNAC L'AVEN",
         "gps": "44.3101002443,4.42369715287"
     },
     {
@@ -82706,9 +82706,9 @@
     },
     {
         "insee": "8225",
-        "commune": "HERPY L ARLESIENNE",
+        "commune": "HERPY L'ARLESIENNE",
         "code_postal": 8360,
-        "libelle": "HERPY L ARLESIENNE",
+        "libelle": "HERPY L'ARLESIENNE",
         "gps": "49.5259538637,4.18823352667"
     },
     {
@@ -83294,9 +83294,9 @@
     },
     {
         "insee": "9139",
-        "commune": "L HOSPITALET PRES L ANDORRE",
+        "commune": "L HOSPITALET PRES L'ANDORRE",
         "code_postal": 9390,
-        "libelle": "L HOSPITALET PRES L ANDORRE",
+        "libelle": "L HOSPITALET PRES L'ANDORRE",
         "gps": "42.595464483,1.7777228207"
     },
     {
@@ -84316,9 +84316,9 @@
     },
     {
         "insee": "11065",
-        "commune": "CAMPS SUR L AGLY",
+        "commune": "CAMPS SUR L'AGLY",
         "code_postal": 11190,
-        "libelle": "CAMPS SUR L AGLY",
+        "libelle": "CAMPS SUR L'AGLY",
         "gps": "42.8638864709,2.41909357872"
     },
     {
@@ -85366,9 +85366,9 @@
     },
     {
         "insee": "11336",
-        "commune": "STE COLOMBE SUR L HERS",
+        "commune": "STE COLOMBE SUR L'HERS",
         "code_postal": 11230,
-        "libelle": "STE COLOMBE SUR L HERS",
+        "libelle": "STE COLOMBE SUR L'HERS",
         "gps": "42.9464872452,1.96310689852"
     },
     {
@@ -90308,9 +90308,9 @@
     },
     {
         "insee": "31241",
-        "commune": "IZAUT DE L HOTEL",
+        "commune": "IZAUT DE L'HOTEL",
         "code_postal": 31160,
-        "libelle": "IZAUT DE L HOTEL",
+        "libelle": "IZAUT DE L'HOTEL",
         "gps": "43.0131099513,0.749757075075"
     },
     {
@@ -92275,9 +92275,9 @@
     },
     {
         "insee": "17284",
-        "commune": "PONT L ABBE D'ARNOULT",
+        "commune": "PONT L'ABBE D'ARNOULT",
         "code_postal": 17250,
-        "libelle": "PONT L ABBE D'ARNOULT",
+        "libelle": "PONT L'ABBE D'ARNOULT",
         "gps": "45.8257228994,-0.865695822843"
     },
     {
@@ -92499,9 +92499,9 @@
     },
     {
         "insee": "17384",
-        "commune": "ST PIERRE DE L ISLE",
+        "commune": "ST PIERRE DE L'ISLE",
         "code_postal": 17330,
-        "libelle": "ST PIERRE DE L ISLE",
+        "libelle": "ST PIERRE DE L'ISLE",
         "gps": "46.0285452845,-0.444536284605"
     },
     {
@@ -93899,9 +93899,9 @@
     },
     {
         "insee": "19188",
-        "commune": "ST BONNET L ENFANTIER",
+        "commune": "ST BONNET L'ENFANTIER",
         "code_postal": 19410,
-        "libelle": "ST BONNET L ENFANTIER",
+        "libelle": "ST BONNET L'ENFANTIER",
         "gps": "45.29973714,1.52644911921"
     },
     {
@@ -94319,9 +94319,9 @@
     },
     {
         "insee": "34253",
-        "commune": "ST FELIX DE L HERAS",
+        "commune": "ST FELIX DE L'HERAS",
         "code_postal": 34520,
-        "libelle": "ST FELIX DE L HERAS",
+        "libelle": "ST FELIX DE L'HERAS",
         "gps": "43.8393766952,3.31453583361"
     },
     {
@@ -95656,9 +95656,9 @@
     },
     {
         "insee": "21494",
-        "commune": "PONCEY SUR L IGNON",
+        "commune": "PONCEY SUR L'IGNON",
         "code_postal": 21440,
-        "libelle": "PONCEY SUR L IGNON",
+        "libelle": "PONCEY SUR L'IGNON",
         "gps": "47.4903530445,4.75222297541"
     },
     {
@@ -97007,9 +97007,9 @@
     },
     {
         "insee": "22288",
-        "commune": "ST ETIENNE DU GUE DE L ISLE",
+        "commune": "ST ETIENNE DU GUE DE L'ISLE",
         "code_postal": 22210,
-        "libelle": "ST ETIENNE DU GUE DE L ISLE",
+        "libelle": "ST ETIENNE DU GUE DE L'ISLE",
         "gps": "48.0856987745,-2.64402858884"
     },
     {
@@ -97511,9 +97511,9 @@
     },
     {
         "insee": "38278",
-        "commune": "NOTRE DAME DE L OSIER",
+        "commune": "NOTRE DAME DE L'OSIER",
         "code_postal": 38470,
-        "libelle": "NOTRE DAME DE L OSIER",
+        "libelle": "NOTRE DAME DE L'OSIER",
         "gps": "45.2381695946,5.41516438736"
     },
     {
@@ -98036,9 +98036,9 @@
     },
     {
         "insee": "23115",
-        "commune": "MAGNAT L ETRANGE",
+        "commune": "MAGNAT L'ETRANGE",
         "code_postal": 23260,
-        "libelle": "MAGNAT L ETRANGE",
+        "libelle": "MAGNAT L'ETRANGE",
         "gps": "45.795032018,2.26882619571"
     },
     {
@@ -98435,9 +98435,9 @@
     },
     {
         "insee": "24134",
-        "commune": "CORGNAC SUR L ISLE",
+        "commune": "CORGNAC SUR L'ISLE",
         "code_postal": 24800,
-        "libelle": "CORGNAC SUR L ISLE",
+        "libelle": "CORGNAC SUR L'ISLE",
         "gps": "45.3733273094,0.944659017976"
     },
     {
@@ -99177,9 +99177,9 @@
     },
     {
         "insee": "24256",
-        "commune": "MARSAC SUR L ISLE",
+        "commune": "MARSAC SUR L'ISLE",
         "code_postal": 24430,
-        "libelle": "MARSAC SUR L ISLE",
+        "libelle": "MARSAC SUR L'ISLE",
         "gps": "45.1820442564,0.651480923403"
     },
     {
@@ -99485,9 +99485,9 @@
     },
     {
         "insee": "24386",
-        "commune": "ST CERNIN DE L HERM",
+        "commune": "ST CERNIN DE L'HERM",
         "code_postal": 24550,
-        "libelle": "ST CERNIN DE L HERM",
+        "libelle": "ST CERNIN DE L'HERM",
         "gps": "44.6540649921,1.04585610677"
     },
     {
@@ -99562,9 +99562,9 @@
     },
     {
         "insee": "24457",
-        "commune": "ST MARTIN L ASTIER",
+        "commune": "ST MARTIN L'ASTIER",
         "code_postal": 24400,
-        "libelle": "ST MARTIN L ASTIER",
+        "libelle": "ST MARTIN L'ASTIER",
         "gps": "45.0589553311,0.323281642748"
     },
     {
@@ -99639,9 +99639,9 @@
     },
     {
         "insee": "24513",
-        "commune": "ST VINCENT SUR L ISLE",
+        "commune": "ST VINCENT SUR L'ISLE",
         "code_postal": 24420,
-        "libelle": "ST VINCENT SUR L ISLE",
+        "libelle": "ST VINCENT SUR L'ISLE",
         "gps": "45.2416009556,0.899777757535"
     },
     {
@@ -100325,9 +100325,9 @@
     },
     {
         "insee": "40080",
-        "commune": "CAZERES SUR L ADOUR",
+        "commune": "CAZERES SUR L'ADOUR",
         "code_postal": 40270,
-        "libelle": "CAZERES SUR L ADOUR",
+        "libelle": "CAZERES SUR L'ADOUR",
         "gps": "43.7643443034,-0.284507617354"
     },
     {
@@ -100619,9 +100619,9 @@
     },
     {
         "insee": "40306",
-        "commune": "SORDE L ABBAYE",
+        "commune": "SORDE L'ABBAYE",
         "code_postal": 40300,
-        "libelle": "SORDE L ABBAYE",
+        "libelle": "SORDE L'ABBAYE",
         "gps": "43.5226484038,-1.04772749452"
     },
     {
@@ -101627,9 +101627,9 @@
     },
     {
         "insee": "50384",
-        "commune": "OCTEVILLE L AVENEL",
+        "commune": "OCTEVILLE L'AVENEL",
         "code_postal": 50630,
-        "libelle": "OCTEVILLE L AVENEL",
+        "libelle": "OCTEVILLE L'AVENEL",
         "gps": "49.5468058643,-1.36608867195"
     },
     {
@@ -104518,30 +104518,30 @@
     },
     {
         "insee": "44180",
-        "commune": "VALLONS DE L ERDRE",
+        "commune": "VALLONS DE L'ERDRE",
         "code_postal": 44540,
-        "libelle": "VALLONS DE L ERDRE",
+        "libelle": "VALLONS DE L'ERDRE",
         "gps": "47.5309227299,-1.19441075506"
     },
     {
         "insee": "44180",
-        "commune": "VALLONS DE L ERDRE",
+        "commune": "VALLONS DE L'ERDRE",
         "code_postal": 44540,
-        "libelle": "VALLONS DE L ERDRE",
+        "libelle": "VALLONS DE L'ERDRE",
         "gps": "47.5309227299,-1.19441075506"
     },
     {
         "insee": "44180",
-        "commune": "VALLONS DE L ERDRE",
+        "commune": "VALLONS DE L'ERDRE",
         "code_postal": 44540,
-        "libelle": "VALLONS DE L ERDRE",
+        "libelle": "VALLONS DE L'ERDRE",
         "gps": "47.5309227299,-1.19441075506"
     },
     {
         "insee": "44180",
-        "commune": "VALLONS DE L ERDRE",
+        "commune": "VALLONS DE L'ERDRE",
         "code_postal": 44540,
-        "libelle": "VALLONS DE L ERDRE",
+        "libelle": "VALLONS DE L'ERDRE",
         "gps": "47.5309227299,-1.19441075506"
     },
     {
@@ -106415,9 +106415,9 @@
     },
     {
         "insee": "46231",
-        "commune": "PUY L EVEQUE",
+        "commune": "PUY L'EVEQUE",
         "code_postal": 46700,
-        "libelle": "PUY L EVEQUE",
+        "libelle": "PUY L'EVEQUE",
         "gps": "44.5166104791,1.13576954751"
     },
     {
@@ -108578,9 +108578,9 @@
     },
     {
         "insee": "58299",
-        "commune": "TRUCY L ORGUEILLEUX",
+        "commune": "TRUCY L'ORGUEILLEUX",
         "code_postal": 58460,
-        "libelle": "TRUCY L ORGUEILLEUX",
+        "libelle": "TRUCY L'ORGUEILLEUX",
         "gps": "47.4516802367,3.40054273995"
     },
     {
@@ -109642,9 +109642,9 @@
     },
     {
         "insee": "2555",
-        "commune": "NOGENT L ARTAUD",
+        "commune": "NOGENT L'ARTAUD",
         "code_postal": 2310,
-        "libelle": "NOGENT L ARTAUD",
+        "libelle": "NOGENT L'ARTAUD",
         "gps": "48.9426222247,3.332802902"
     },
     {
@@ -112589,9 +112589,9 @@
     },
     {
         "insee": "7154",
-        "commune": "MAZAN L ABBAYE",
+        "commune": "MAZAN L'ABBAYE",
         "code_postal": 7510,
-        "libelle": "MAZAN L ABBAYE",
+        "libelle": "MAZAN L'ABBAYE",
         "gps": "44.7246364592,4.08102609773"
     },
     {
@@ -114689,9 +114689,9 @@
     },
     {
         "insee": "62199",
-        "commune": "CAMBLAIN L ABBE",
+        "commune": "CAMBLAIN L'ABBE",
         "code_postal": 62690,
-        "libelle": "CAMBLAIN L ABBE",
+        "libelle": "CAMBLAIN L'ABBE",
         "gps": "50.3732152487,2.63610604156"
     },
     {
@@ -114948,9 +114948,9 @@
     },
     {
         "insee": "9043",
-        "commune": "LA BASTIDE SUR L HERS",
+        "commune": "LA BASTIDE SUR L'HERS",
         "code_postal": 9600,
-        "libelle": "LA BASTIDE SUR L HERS",
+        "libelle": "LA BASTIDE SUR L'HERS",
         "gps": "42.9509022615,1.89982042742"
     },
     {
@@ -116733,9 +116733,9 @@
     },
     {
         "insee": "62859",
-        "commune": "VILLERS L HOPITAL",
+        "commune": "VILLERS L'HOPITAL",
         "code_postal": 62390,
-        "libelle": "VILLERS L HOPITAL",
+        "libelle": "VILLERS L'HOPITAL",
         "gps": "50.2291696538,2.21010808284"
     },
     {
@@ -116754,9 +116754,9 @@
     },
     {
         "insee": "10250",
-        "commune": "MONTIER EN L ISLE",
+        "commune": "MONTIER EN L'ISLE",
         "code_postal": 10200,
-        "libelle": "MONTIER EN L ISLE",
+        "libelle": "MONTIER EN L'ISLE",
         "gps": "48.2695334218,4.68288952065"
     },
     {
@@ -116880,9 +116880,9 @@
     },
     {
         "insee": "10289",
-        "commune": "PLANCY L ABBAYE",
+        "commune": "PLANCY L'ABBAYE",
         "code_postal": 10380,
-        "libelle": "PLANCY L ABBAYE",
+        "libelle": "PLANCY L'ABBAYE",
         "gps": "48.5851575322,3.98528853809"
     },
     {
@@ -118497,9 +118497,9 @@
     },
     {
         "insee": "11275",
-        "commune": "PAYRA SUR L HERS",
+        "commune": "PAYRA SUR L'HERS",
         "code_postal": 11410,
-        "libelle": "PAYRA SUR L HERS",
+        "libelle": "PAYRA SUR L'HERS",
         "gps": "43.2622935263,1.87477238509"
     },
     {
@@ -118973,9 +118973,9 @@
     },
     {
         "insee": "12120",
-        "commune": "LAISSAC SEVERAC L EGLISE",
+        "commune": "LAISSAC SEVERAC L'EGLISE",
         "code_postal": 12310,
-        "libelle": "LAISSAC SEVERAC L EGLISE",
+        "libelle": "LAISSAC SEVERAC L'EGLISE",
         "gps": "44.3644570513,2.81804424075"
     },
     {
@@ -119799,9 +119799,9 @@
     },
     {
         "insee": "65100",
-        "commune": "BORDERES SUR L ECHEZ",
+        "commune": "BORDERES SUR L'ECHEZ",
         "code_postal": 65320,
-        "libelle": "BORDERES SUR L ECHEZ",
+        "libelle": "BORDERES SUR L'ECHEZ",
         "gps": "43.2654849206,0.0424725726856"
     },
     {
@@ -122088,9 +122088,9 @@
     },
     {
         "insee": "14467",
-        "commune": "NORON L ABBAYE",
+        "commune": "NORON L'ABBAYE",
         "code_postal": 14700,
-        "libelle": "NORON L ABBAYE",
+        "libelle": "NORON L'ABBAYE",
         "gps": "48.8960398002,-0.247654065673"
     },
     {
@@ -124321,9 +124321,9 @@
     },
     {
         "insee": "34182",
-        "commune": "NEZIGNAN L EVEQUE",
+        "commune": "NEZIGNAN L'EVEQUE",
         "code_postal": 34120,
-        "libelle": "NEZIGNAN L EVEQUE",
+        "libelle": "NEZIGNAN L'EVEQUE",
         "gps": "43.4214743639,3.4038201049"
     },
     {
@@ -124993,9 +124993,9 @@
     },
     {
         "insee": "34335",
-        "commune": "VILLEMAGNE L ARGENTIERE",
+        "commune": "VILLEMAGNE L'ARGENTIERE",
         "code_postal": 34600,
-        "libelle": "VILLEMAGNE L ARGENTIERE",
+        "libelle": "VILLEMAGNE L'ARGENTIERE",
         "gps": "43.6189067153,3.12143240976"
     },
     {
@@ -125980,9 +125980,9 @@
     },
     {
         "insee": "18108",
-        "commune": "LA GUERCHE SUR L AUBOIS",
+        "commune": "LA GUERCHE SUR L'AUBOIS",
         "code_postal": 18150,
-        "libelle": "LA GUERCHE SUR L AUBOIS",
+        "libelle": "LA GUERCHE SUR L'AUBOIS",
         "gps": "46.9518824158,2.94540320329"
     },
     {
@@ -127646,9 +127646,9 @@
     },
     {
         "insee": "39038",
-        "commune": "BARESIA SUR L AIN",
+        "commune": "BARESIA SUR L'AIN",
         "code_postal": 39130,
-        "libelle": "BARESIA SUR L AIN",
+        "libelle": "BARESIA SUR L'AIN",
         "gps": "46.5423863314,5.70324307586"
     },
     {
@@ -130425,9 +130425,9 @@
     },
     {
         "insee": "41178",
-        "commune": "LE PLESSIS L ECHELLE",
+        "commune": "LE PLESSIS L'ECHELLE",
         "code_postal": 41370,
-        "libelle": "LE PLESSIS L ECHELLE",
+        "libelle": "LE PLESSIS L'ECHELLE",
         "gps": "47.8112764958,1.42478155888"
     },
     {
@@ -130887,9 +130887,9 @@
     },
     {
         "insee": "23021",
-        "commune": "BENEVENT L ABBAYE",
+        "commune": "BENEVENT L'ABBAYE",
         "code_postal": 23210,
-        "libelle": "BENEVENT L ABBAYE",
+        "libelle": "BENEVENT L'ABBAYE",
         "gps": "46.1177051494,1.62940216696"
     },
     {
@@ -132609,9 +132609,9 @@
     },
     {
         "insee": "24442",
-        "commune": "ST LEON SUR L ISLE",
+        "commune": "ST LEON SUR L'ISLE",
         "code_postal": 24110,
-        "libelle": "ST LEON SUR L ISLE",
+        "libelle": "ST LEON SUR L'ISLE",
         "gps": "45.1169557791,0.49957697448"
     },
     {
@@ -136508,9 +136508,9 @@
     },
     {
         "insee": "49038",
-        "commune": "BOURG L EVEQUE",
+        "commune": "BOURG L'EVEQUE",
         "code_postal": 49520,
-        "libelle": "BOURG L EVEQUE",
+        "libelle": "BOURG L'EVEQUE",
         "gps": "47.7329044493,-1.01480048811"
     },
     {
@@ -139273,9 +139273,9 @@
     },
     {
         "insee": "27414",
-        "commune": "MONTREUIL L ARGILLE",
+        "commune": "MONTREUIL L'ARGILLE",
         "code_postal": 27390,
-        "libelle": "MONTREUIL L ARGILLE",
+        "libelle": "MONTREUIL L'ARGILLE",
         "gps": "48.9396490466,0.468484360386"
     },
     {
@@ -140246,9 +140246,9 @@
     },
     {
         "insee": "58248",
-        "commune": "ST LAURENT L ABBAYE",
+        "commune": "ST LAURENT L'ABBAYE",
         "code_postal": 58150,
-        "libelle": "ST LAURENT L ABBAYE",
+        "libelle": "ST LAURENT L'ABBAYE",
         "gps": "47.3370394747,2.99458105958"
     },
     {
@@ -140442,9 +140442,9 @@
     },
     {
         "insee": "28164",
-        "commune": "FRESNAY L EVEQUE",
+        "commune": "FRESNAY L'EVEQUE",
         "code_postal": 28310,
-        "libelle": "FRESNAY L EVEQUE",
+        "libelle": "FRESNAY L'EVEQUE",
         "gps": "48.2584598646,1.81447858393"
     },
     {
@@ -140932,9 +140932,9 @@
     },
     {
         "insee": "59144",
-        "commune": "CHATEAU L ABBAYE",
+        "commune": "CHATEAU L'ABBAYE",
         "code_postal": 59230,
-        "libelle": "CHATEAU L ABBAYE",
+        "libelle": "CHATEAU L'ABBAYE",
         "gps": "50.4858024683,3.47414949128"
     },
     {
@@ -143060,9 +143060,9 @@
     },
     {
         "insee": "30141",
-        "commune": "LAUDUN L ARDOISE",
+        "commune": "LAUDUN L'ARDOISE",
         "code_postal": 30290,
-        "libelle": "LAUDUN L ARDOISE",
+        "libelle": "LAUDUN L'ARDOISE",
         "gps": "44.1029568271,4.66389513091"
     },
     {
@@ -143298,9 +143298,9 @@
     },
     {
         "insee": "60421",
-        "commune": "MONT L EVEQUE",
+        "commune": "MONT L'EVEQUE",
         "code_postal": 60300,
-        "libelle": "MONT L EVEQUE",
+        "libelle": "MONT L'EVEQUE",
         "gps": "49.1904259616,2.6339267851"
     },
     {
@@ -143424,9 +143424,9 @@
     },
     {
         "insee": "60506",
-        "commune": "PONT L EVEQUE",
+        "commune": "PONT L'EVEQUE",
         "code_postal": 60400,
-        "libelle": "PONT L EVEQUE",
+        "libelle": "PONT L'EVEQUE",
         "gps": "49.5627550625,2.98667327051"
     },
     {
@@ -143571,9 +143571,9 @@
     },
     {
         "insee": "60595",
-        "commune": "ST REMY EN L EAU",
+        "commune": "ST REMY EN L'EAU",
         "code_postal": 60130,
-        "libelle": "ST REMY EN L EAU",
+        "libelle": "ST REMY EN L'EAU",
         "gps": "49.4703008041,2.42414502443"
     },
     {
@@ -143928,9 +143928,9 @@
     },
     {
         "insee": "30250",
-        "commune": "ST ETIENNE DE L OLM",
+        "commune": "ST ETIENNE DE L'OLM",
         "code_postal": 30360,
-        "libelle": "ST ETIENNE DE L OLM",
+        "libelle": "ST ETIENNE DE L'OLM",
         "gps": "44.0631842726,4.183408258"
     },
     {
@@ -147057,9 +147057,9 @@
     },
     {
         "insee": "33088",
-        "commune": "CAMPS SUR L ISLE",
+        "commune": "CAMPS SUR L'ISLE",
         "code_postal": 33660,
-        "libelle": "CAMPS SUR L ISLE",
+        "libelle": "CAMPS SUR L'ISLE",
         "gps": "45.016429862,-0.0351593823599"
     },
     {
@@ -147449,9 +147449,9 @@
     },
     {
         "insee": "33259",
-        "commune": "LUGON ET L ILE DU CARNAY",
+        "commune": "LUGON ET L'ILE DU CARNAY",
         "code_postal": 33240,
-        "libelle": "LUGON ET L ILE DU CARNAY",
+        "libelle": "LUGON ET L'ILE DU CARNAY",
         "gps": "44.9523815308,-0.354697747394"
     },
     {
@@ -152986,9 +152986,9 @@
     },
     {
         "insee": "51416",
-        "commune": "ORBAIS L ABBAYE",
+        "commune": "ORBAIS L'ABBAYE",
         "code_postal": 51270,
-        "libelle": "ORBAIS L ABBAYE",
+        "libelle": "ORBAIS L'ABBAYE",
         "gps": "48.9434307489,3.69982605989"
     },
     {
@@ -153042,9 +153042,9 @@
     },
     {
         "insee": "51539",
-        "commune": "SOGNY EN L ANGLE",
+        "commune": "SOGNY EN L'ANGLE",
         "code_postal": 51340,
-        "libelle": "SOGNY EN L ANGLE",
+        "libelle": "SOGNY EN L'ANGLE",
         "gps": "48.816895594,4.80749859782"
     },
     {
@@ -153161,9 +153161,9 @@
     },
     {
         "insee": "52109",
-        "commune": "CHARMES EN L ANGLE",
+        "commune": "CHARMES EN L'ANGLE",
         "code_postal": 52110,
-        "libelle": "CHARMES EN L ANGLE",
+        "libelle": "CHARMES EN L'ANGLE",
         "gps": "48.3590507638,4.99706046425"
     },
     {
@@ -153805,9 +153805,9 @@
     },
     {
         "insee": "54076",
-        "commune": "BLAINVILLE SUR L EAU",
+        "commune": "BLAINVILLE SUR L'EAU",
         "code_postal": 54360,
-        "libelle": "BLAINVILLE SUR L EAU",
+        "libelle": "BLAINVILLE SUR L'EAU",
         "gps": "48.5501857312,6.41522344884"
     },
     {
@@ -154932,9 +154932,9 @@
     },
     {
         "insee": "51583",
-        "commune": "TROIS FONTAINES L ABBAYE",
+        "commune": "TROIS FONTAINES L'ABBAYE",
         "code_postal": 51340,
-        "libelle": "TROIS FONTAINES L ABBAYE",
+        "libelle": "TROIS FONTAINES L'ABBAYE",
         "gps": "48.7106542315,4.9541795358"
     },
     {
@@ -155079,9 +155079,9 @@
     },
     {
         "insee": "52151",
-        "commune": "COUR L EVEQUE",
+        "commune": "COUR L'EVEQUE",
         "code_postal": 52210,
-        "libelle": "COUR L EVEQUE",
+        "libelle": "COUR L'EVEQUE",
         "gps": "47.9767999819,4.982031793"
     },
     {
@@ -156619,9 +156619,9 @@
     },
     {
         "insee": "54379",
-        "commune": "MONT L ETROIT",
+        "commune": "MONT L'ETROIT",
         "code_postal": 54170,
-        "libelle": "MONT L ETROIT",
+        "libelle": "MONT L'ETROIT",
         "gps": "48.4986857514,5.78282069784"
     },
     {
@@ -159811,9 +159811,9 @@
     },
     {
         "insee": "26105",
-        "commune": "CORNILLON SUR L OULE",
+        "commune": "CORNILLON SUR L'OULE",
         "code_postal": 26510,
-        "libelle": "CORNILLON SUR L OULE",
+        "libelle": "CORNILLON SUR L'OULE",
         "gps": "44.4553268167,5.36026006175"
     },
     {
@@ -160105,9 +160105,9 @@
     },
     {
         "insee": "26189",
-        "commune": "MONTAUBAN SUR L OUVEZE",
+        "commune": "MONTAUBAN SUR L'OUVEZE",
         "code_postal": 26170,
-        "libelle": "MONTAUBAN SUR L OUVEZE",
+        "libelle": "MONTAUBAN SUR L'OUVEZE",
         "gps": "44.2773478714,5.51851244253"
     },
     {
@@ -160280,9 +160280,9 @@
     },
     {
         "insee": "26301",
-        "commune": "ST DONAT SUR L HERBASSE",
+        "commune": "ST DONAT SUR L'HERBASSE",
         "code_postal": 26260,
-        "libelle": "ST DONAT SUR L HERBASSE",
+        "libelle": "ST DONAT SUR L'HERBASSE",
         "gps": "45.1260127512,4.98461565912"
     },
     {
@@ -160378,9 +160378,9 @@
     },
     {
         "insee": "26347",
-        "commune": "TAIN L HERMITAGE",
+        "commune": "TAIN L'HERMITAGE",
         "code_postal": 26600,
-        "libelle": "TAIN L HERMITAGE",
+        "libelle": "TAIN L'HERMITAGE",
         "gps": "45.0710728431,4.85070614193"
     },
     {
@@ -160700,9 +160700,9 @@
     },
     {
         "insee": "59532",
-        "commune": "ST GEORGES SUR L AA",
+        "commune": "ST GEORGES SUR L'AA",
         "code_postal": 59820,
-        "libelle": "ST GEORGES SUR L AA",
+        "libelle": "ST GEORGES SUR L'AA",
         "gps": "50.967052608,2.15668818231"
     },
     {
@@ -161281,9 +161281,9 @@
     },
     {
         "insee": "63034",
-        "commune": "BEAUREGARD L EVEQUE",
+        "commune": "BEAUREGARD L'EVEQUE",
         "code_postal": 63116,
-        "libelle": "BEAUREGARD L EVEQUE",
+        "libelle": "BEAUREGARD L'EVEQUE",
         "gps": "45.8137742226,3.29884607281"
     },
     {
@@ -164634,9 +164634,9 @@
     },
     {
         "insee": "26077",
-        "commune": "CHARMES SUR L HERBASSE",
+        "commune": "CHARMES SUR L'HERBASSE",
         "code_postal": 26260,
-        "libelle": "CHARMES SUR L HERBASSE",
+        "libelle": "CHARMES SUR L'HERBASSE",
         "gps": "45.1571098565,5.0153381269"
     },
     {
@@ -165054,9 +165054,9 @@
     },
     {
         "insee": "26229",
-        "commune": "LA PENNE SUR L OUVEZE",
+        "commune": "LA PENNE SUR L'OUVEZE",
         "code_postal": 26170,
-        "libelle": "LA PENNE SUR L OUVEZE",
+        "libelle": "LA PENNE SUR L'OUVEZE",
         "gps": "44.2503681815,5.23252395755"
     },
     {
@@ -167105,9 +167105,9 @@
     },
     {
         "insee": "78576",
-        "commune": "ST REMY L HONORE",
+        "commune": "ST REMY L'HONORE",
         "code_postal": 78690,
-        "libelle": "ST REMY L HONORE",
+        "libelle": "ST REMY L'HONORE",
         "gps": "48.7487507773,1.87573805831"
     },
     {
@@ -167420,9 +167420,9 @@
     },
     {
         "insee": "79116",
-        "commune": "FAYE L ABBESSE",
+        "commune": "FAYE L'ABBESSE",
         "code_postal": 79350,
-        "libelle": "FAYE L ABBESSE",
+        "libelle": "FAYE L'ABBESSE",
         "gps": "46.8344255301,-0.343663613449"
     },
     {
@@ -168281,9 +168281,9 @@
     },
     {
         "insee": "80065",
-        "commune": "BEAUCOURT SUR L ANCRE",
+        "commune": "BEAUCOURT SUR L'ANCRE",
         "code_postal": 80300,
-        "libelle": "BEAUCOURT SUR L ANCRE",
+        "libelle": "BEAUCOURT SUR L'ANCRE",
         "gps": "50.0848116723,2.68398023051"
     },
     {
@@ -168512,9 +168512,9 @@
     },
     {
         "insee": "80151",
-        "commune": "BUIRE SUR L ANCRE",
+        "commune": "BUIRE SUR L'ANCRE",
         "code_postal": 80300,
-        "libelle": "BUIRE SUR L ANCRE",
+        "libelle": "BUIRE SUR L'ANCRE",
         "gps": "49.9748538247,2.59295688367"
     },
     {
@@ -168855,9 +168855,9 @@
     },
     {
         "insee": "80331",
-        "commune": "FOREST L ABBAYE",
+        "commune": "FOREST L'ABBAYE",
         "code_postal": 80150,
-        "libelle": "FOREST L ABBAYE",
+        "libelle": "FOREST L'ABBAYE",
         "gps": "50.2032978868,1.83242600147"
     },
     {
@@ -170304,9 +170304,9 @@
     },
     {
         "insee": "80771",
-        "commune": "UGNY L EQUIPEE",
+        "commune": "UGNY L'EQUIPEE",
         "code_postal": 80400,
-        "libelle": "UGNY L EQUIPEE",
+        "libelle": "UGNY L'EQUIPEE",
         "gps": "49.8148197837,3.06721029435"
     },
     {
@@ -170836,9 +170836,9 @@
     },
     {
         "insee": "76014",
-        "commune": "ANGERVILLE L ORCHER",
+        "commune": "ANGERVILLE L'ORCHER",
         "code_postal": 76280,
-        "libelle": "ANGERVILLE L ORCHER",
+        "libelle": "ANGERVILLE L'ORCHER",
         "gps": "49.5867004346,0.292626408663"
     },
     {
@@ -170850,9 +170850,9 @@
     },
     {
         "insee": "76017",
-        "commune": "ANGLESQUEVILLE L ESNEVAL",
+        "commune": "ANGLESQUEVILLE L'ESNEVAL",
         "code_postal": 76280,
-        "libelle": "ANGLESQUEVILLE L ESNEVAL",
+        "libelle": "ANGLESQUEVILLE L'ESNEVAL",
         "gps": "49.6304546019,0.235444303485"
     },
     {
@@ -170927,9 +170927,9 @@
     },
     {
         "insee": "81132",
-        "commune": "GUITALENS L ALBAREDE",
+        "commune": "GUITALENS L'ALBAREDE",
         "code_postal": 81220,
-        "libelle": "GUITALENS L ALBAREDE",
+        "libelle": "GUITALENS L'ALBAREDE",
         "gps": "43.6378592707,2.04358289042"
     },
     {
@@ -171158,9 +171158,9 @@
     },
     {
         "insee": "76111",
-        "commune": "BOIS L EVEQUE",
+        "commune": "BOIS L'EVEQUE",
         "code_postal": 76160,
-        "libelle": "BOIS L EVEQUE",
+        "libelle": "BOIS L'EVEQUE",
         "gps": "49.4524985039,1.25560190393"
     },
     {
@@ -171648,9 +171648,9 @@
     },
     {
         "insee": "76289",
-        "commune": "ST MARTIN DE L IF",
+        "commune": "ST MARTIN DE L'IF",
         "code_postal": 76190,
-        "libelle": "ST MARTIN DE L IF",
+        "libelle": "ST MARTIN DE L'IF",
         "gps": "49.5651631452,0.833069408864"
     },
     {
@@ -171690,9 +171690,9 @@
     },
     {
         "insee": "76305",
-        "commune": "GONFREVILLE L ORCHER",
+        "commune": "GONFREVILLE L'ORCHER",
         "code_postal": 76700,
-        "libelle": "GONFREVILLE L ORCHER",
+        "libelle": "GONFREVILLE L'ORCHER",
         "gps": "49.4860837457,0.221985693724"
     },
     {
@@ -171788,9 +171788,9 @@
     },
     {
         "insee": "76346",
-        "commune": "HAUTOT L AUVRAY",
+        "commune": "HAUTOT L'AUVRAY",
         "code_postal": 76450,
-        "libelle": "HAUTOT L AUVRAY",
+        "libelle": "HAUTOT L'AUVRAY",
         "gps": "49.765302786,0.755290722175"
     },
     {
@@ -173510,9 +173510,9 @@
     },
     {
         "insee": "85213",
-        "commune": "RIVES DE L YON",
+        "commune": "RIVES DE L'YON",
         "code_postal": 85310,
-        "libelle": "RIVES DE L YON",
+        "libelle": "RIVES DE L'YON",
         "gps": "46.605637391,-1.3354497172"
     },
     {
@@ -173748,9 +173748,9 @@
     },
     {
         "insee": "85255",
-        "commune": "ST MICHEL EN L HERM",
+        "commune": "ST MICHEL EN L'HERM",
         "code_postal": 85580,
-        "libelle": "ST MICHEL EN L HERM",
+        "libelle": "ST MICHEL EN L'HERM",
         "gps": "46.3366903175,-1.2483968538"
     },
     {
@@ -174896,9 +174896,9 @@
     },
     {
         "insee": "87127",
-        "commune": "LA ROCHE L ABEILLE",
+        "commune": "LA ROCHE L'ABEILLE",
         "code_postal": 87800,
-        "libelle": "LA ROCHE L ABEILLE",
+        "libelle": "LA ROCHE L'ABEILLE",
         "gps": "45.5937573874,1.25816254853"
     },
     {
@@ -175064,9 +175064,9 @@
     },
     {
         "insee": "78420",
-        "commune": "MONTFORT L AMAURY",
+        "commune": "MONTFORT L'AMAURY",
         "code_postal": 78490,
-        "libelle": "MONTFORT L AMAURY",
+        "libelle": "MONTFORT L'AMAURY",
         "gps": "48.771347152,1.80894544858"
     },
     {
@@ -176212,9 +176212,9 @@
     },
     {
         "insee": "79270",
-        "commune": "ST MAIXENT L ECOLE",
+        "commune": "ST MAIXENT L'ECOLE",
         "code_postal": 79400,
-        "libelle": "ST MAIXENT L ECOLE",
+        "libelle": "ST MAIXENT L'ECOLE",
         "gps": "46.4128319027,-0.210238265156"
     },
     {
@@ -176492,9 +176492,9 @@
     },
     {
         "insee": "80066",
-        "commune": "BEAUCOURT SUR L HALLUE",
+        "commune": "BEAUCOURT SUR L'HALLUE",
         "code_postal": 80260,
-        "libelle": "BEAUCOURT SUR L HALLUE",
+        "libelle": "BEAUCOURT SUR L'HALLUE",
         "gps": "49.9982031782,2.42756312859"
     },
     {
@@ -177773,9 +177773,9 @@
     },
     {
         "insee": "89461",
-        "commune": "VILLENEUVE L ARCHEVEQUE",
+        "commune": "VILLENEUVE L'ARCHEVEQUE",
         "code_postal": 89190,
-        "libelle": "VILLENEUVE L ARCHEVEQUE",
+        "libelle": "VILLENEUVE L'ARCHEVEQUE",
         "gps": "48.2355837478,3.56315804862"
     },
     {
@@ -178081,9 +178081,9 @@
     },
     {
         "insee": "90090",
-        "commune": "ST DIZIER L EVEQUE",
+        "commune": "ST DIZIER L'EVEQUE",
         "code_postal": 90100,
-        "libelle": "ST DIZIER L EVEQUE",
+        "libelle": "ST DIZIER L'EVEQUE",
         "gps": "47.4674300962,6.96107878975"
     },
     {
@@ -178907,9 +178907,9 @@
     },
     {
         "insee": "81132",
-        "commune": "GUITALENS L ALBAREDE",
+        "commune": "GUITALENS L'ALBAREDE",
         "code_postal": 81220,
-        "libelle": "GUITALENS L ALBAREDE",
+        "libelle": "GUITALENS L'ALBAREDE",
         "gps": "43.6378592707,2.04358289042"
     },
     {
@@ -181231,9 +181231,9 @@
     },
     {
         "insee": "86226",
-        "commune": "ST JULIEN L ARS",
+        "commune": "ST JULIEN L'ARS",
         "code_postal": 86800,
-        "libelle": "ST JULIEN L ARS",
+        "libelle": "ST JULIEN L'ARS",
         "gps": "46.5546778015,0.506618351155"
     },
     {
@@ -181385,9 +181385,9 @@
     },
     {
         "insee": "87021",
-        "commune": "BOSMIE L AIGUILLE",
+        "commune": "BOSMIE L'AIGUILLE",
         "code_postal": 87110,
-        "libelle": "BOSMIE L AIGUILLE",
+        "libelle": "BOSMIE L'AIGUILLE",
         "gps": "45.7655936715,1.20427660043"
     },
     {
@@ -182428,9 +182428,9 @@
     },
     {
         "insee": "88372",
-        "commune": "RAON L ETAPE",
+        "commune": "RAON L'ETAPE",
         "code_postal": 88110,
-        "libelle": "RAON L ETAPE",
+        "libelle": "RAON L'ETAPE",
         "gps": "48.4079337645,6.86032429623"
     },
     {
@@ -182442,9 +182442,9 @@
     },
     {
         "insee": "88372",
-        "commune": "RAON L ETAPE",
+        "commune": "RAON L'ETAPE",
         "code_postal": 88110,
-        "libelle": "RAON L ETAPE",
+        "libelle": "RAON L'ETAPE",
         "gps": "48.4079337645,6.86032429623"
     },
     {
@@ -182827,9 +182827,9 @@
     },
     {
         "insee": "27477",
-        "commune": "PRESSAGNY L ORGUEILLEUX",
+        "commune": "PRESSAGNY L'ORGUEILLEUX",
         "code_postal": 27510,
-        "libelle": "PRESSAGNY L ORGUEILLEUX",
+        "libelle": "PRESSAGNY L'ORGUEILLEUX",
         "gps": "49.1308034237,1.46515135716"
     },
     {
@@ -184563,9 +184563,9 @@
     },
     {
         "insee": "90045",
-        "commune": "FECHE L EGLISE",
+        "commune": "FECHE L'EGLISE",
         "code_postal": 90100,
-        "libelle": "FECHE L EGLISE",
+        "libelle": "FECHE L'EGLISE",
         "gps": "47.5021767416,6.95588031238"
     },
     {
@@ -185389,9 +185389,9 @@
     },
     {
         "insee": "29220",
-        "commune": "PONT L ABBE",
+        "commune": "PONT L'ABBE",
         "code_postal": 29120,
-        "libelle": "PONT L ABBE",
+        "libelle": "PONT L'ABBE",
         "gps": "47.8654885488,-4.21962319652"
     },
     {
@@ -185984,9 +185984,9 @@
     },
     {
         "insee": "97116",
-        "commune": "MORNE A L EAU",
+        "commune": "MORNE A L'EAU",
         "code_postal": 97111,
-        "libelle": "MORNE A L EAU",
+        "libelle": "MORNE A L'EAU",
         "gps": "16.3240215714,-61.470417696"
     },
     {
@@ -190205,9 +190205,9 @@
     },
     {
         "insee": "38359",
-        "commune": "ST ANTOINE L ABBAYE",
+        "commune": "ST ANTOINE L'ABBAYE",
         "code_postal": 38160,
-        "libelle": "ST ANTOINE L ABBAYE",
+        "libelle": "ST ANTOINE L'ABBAYE",
         "gps": "45.1722353559,5.21609050981"
     },
     {
@@ -190282,9 +190282,9 @@
     },
     {
         "insee": "38406",
-        "commune": "ST JULIEN DE L HERMS",
+        "commune": "ST JULIEN DE L'HERMS",
         "code_postal": 38122,
-        "libelle": "ST JULIEN DE L HERMS",
+        "libelle": "ST JULIEN DE L'HERMS",
         "gps": "45.4314158549,5.08605594007"
     },
     {
@@ -191528,9 +191528,9 @@
     },
     {
         "insee": "40117",
-        "commune": "GRENADE SUR L ADOUR",
+        "commune": "GRENADE SUR L'ADOUR",
         "code_postal": 40270,
-        "libelle": "GRENADE SUR L ADOUR",
+        "libelle": "GRENADE SUR L'ADOUR",
         "gps": "43.792570586,-0.422528940509"
     },
     {
@@ -191794,9 +191794,9 @@
     },
     {
         "insee": "40230",
-        "commune": "PONTONX SUR L ADOUR",
+        "commune": "PONTONX SUR L'ADOUR",
         "code_postal": 40465,
-        "libelle": "PONTONX SUR L ADOUR",
+        "libelle": "PONTONX SUR L'ADOUR",
         "gps": "43.7980252651,-0.940526888731"
     },
     {
@@ -196512,9 +196512,9 @@
     },
     {
         "insee": "51022",
-        "commune": "AULNAY L AITRE",
+        "commune": "AULNAY L'AITRE",
         "code_postal": 51240,
-        "libelle": "AULNAY L AITRE",
+        "libelle": "AULNAY L'AITRE",
         "gps": "48.8259358805,4.56822017278"
     },
     {
@@ -196799,9 +196799,9 @@
     },
     {
         "insee": "51373",
-        "commune": "MONCETZ L ABBAYE",
+        "commune": "MONCETZ L'ABBAYE",
         "code_postal": 51290,
-        "libelle": "MONCETZ L ABBAYE",
+        "libelle": "MONCETZ L'ABBAYE",
         "gps": "48.6489508753,4.66277584236"
     },
     {
@@ -196897,9 +196897,9 @@
     },
     {
         "insee": "51503",
-        "commune": "ST MARTIN L HEUREUX",
+        "commune": "ST MARTIN L'HEUREUX",
         "code_postal": 51490,
-        "libelle": "ST MARTIN L HEUREUX",
+        "libelle": "ST MARTIN L'HEUREUX",
         "gps": "49.2434551487,4.376331789"
     },
     {
@@ -197877,9 +197877,9 @@
     },
     {
         "insee": "54170",
-        "commune": "DOMPTAIL EN L AIR",
+        "commune": "DOMPTAIL EN L'AIR",
         "code_postal": 54290,
-        "libelle": "DOMPTAIL EN L AIR",
+        "libelle": "DOMPTAIL EN L'AIR",
         "gps": "48.5112118028,6.33509789172"
     },
     {
@@ -198157,9 +198157,9 @@
     },
     {
         "insee": "55008",
-        "commune": "AMEL SUR L ETANG",
+        "commune": "AMEL SUR L'ETANG",
         "code_postal": 55230,
-        "libelle": "AMEL SUR L ETANG",
+        "libelle": "AMEL SUR L'ETANG",
         "gps": "49.2572264224,5.64725124448"
     },
     {
@@ -200593,9 +200593,9 @@
     },
     {
         "insee": "61232",
-        "commune": "LONLAY L ABBAYE",
+        "commune": "LONLAY L'ABBAYE",
         "code_postal": 61700,
-        "libelle": "LONLAY L ABBAYE",
+        "libelle": "LONLAY L'ABBAYE",
         "gps": "48.6502297145,-0.704744112776"
     },
     {
@@ -200880,9 +200880,9 @@
     },
     {
         "insee": "61427",
-        "commune": "ST MARTIN L AIGUILLON",
+        "commune": "ST MARTIN L'AIGUILLON",
         "code_postal": 61320,
-        "libelle": "ST MARTIN L AIGUILLON",
+        "libelle": "ST MARTIN L'AIGUILLON",
         "gps": "48.6028213138,-0.17990137206"
     },
     {
@@ -200971,9 +200971,9 @@
     },
     {
         "insee": "61483",
-        "commune": "BAGNOLES DE L ORNE NORMANDIE",
+        "commune": "BAGNOLES DE L'ORNE NORMANDIE",
         "code_postal": 61140,
-        "libelle": "BAGNOLES DE L ORNE NORMANDIE",
+        "libelle": "BAGNOLES DE L'ORNE NORMANDIE",
         "gps": "48.5556585202,-0.419510749596"
     },
     {
@@ -204093,9 +204093,9 @@
     },
     {
         "insee": "65200",
-        "commune": "GERMS SUR L OUSSOUET",
+        "commune": "GERMS SUR L'OUSSOUET",
         "code_postal": 65200,
-        "libelle": "GERMS SUR L OUSSOUET",
+        "libelle": "GERMS SUR L'OUSSOUET",
         "gps": "43.0391620559,0.0597615644896"
     },
     {
@@ -206501,9 +206501,9 @@
     },
     {
         "insee": "50455",
-        "commune": "ST CLAIR SUR L ELLE",
+        "commune": "ST CLAIR SUR L'ELLE",
         "code_postal": 50680,
-        "libelle": "ST CLAIR SUR L ELLE",
+        "libelle": "ST CLAIR SUR L'ELLE",
         "gps": "49.1851844677,-1.04046067538"
     },
     {
@@ -206802,9 +206802,9 @@
     },
     {
         "insee": "51403",
-        "commune": "NOGENT L ABBESSE",
+        "commune": "NOGENT L'ABBESSE",
         "code_postal": 51420,
-        "libelle": "NOGENT L ABBESSE",
+        "libelle": "NOGENT L'ABBESSE",
         "gps": "49.2464581849,4.16004589535"
     },
     {
@@ -209357,9 +209357,9 @@
     },
     {
         "insee": "59112",
-        "commune": "BRUAY SUR L ESCAUT",
+        "commune": "BRUAY SUR L'ESCAUT",
         "code_postal": 59860,
-        "libelle": "BRUAY SUR L ESCAUT",
+        "libelle": "BRUAY SUR L'ESCAUT",
         "gps": "50.3973093421,3.53909152804"
     },
     {
@@ -210372,9 +210372,9 @@
     },
     {
         "insee": "33193",
-        "commune": "GRAYAN ET L HOPITAL",
+        "commune": "GRAYAN ET L'HOPITAL",
         "code_postal": 33590,
-        "libelle": "GRAYAN ET L HOPITAL",
+        "libelle": "GRAYAN ET L'HOPITAL",
         "gps": "45.4351862635,-1.10881933696"
     },
     {
@@ -210575,9 +210575,9 @@
     },
     {
         "insee": "33509",
-        "commune": "SAVIGNAC DE L ISLE",
+        "commune": "SAVIGNAC DE L'ISLE",
         "code_postal": 33910,
-        "libelle": "SAVIGNAC DE L ISLE",
+        "libelle": "SAVIGNAC DE L'ISLE",
         "gps": "44.9865629262,-0.24028093176"
     },
     {
@@ -214005,9 +214005,9 @@
     },
     {
         "insee": "26292",
-        "commune": "ST AUBAN SUR L OUVEZE",
+        "commune": "ST AUBAN SUR L'OUVEZE",
         "code_postal": 26170,
-        "libelle": "ST AUBAN SUR L OUVEZE",
+        "libelle": "ST AUBAN SUR L'OUVEZE",
         "gps": "44.2973942019,5.43012241748"
     },
     {
@@ -214642,9 +214642,9 @@
     },
     {
         "insee": "2532",
-        "commune": "MOY DE L AISNE",
+        "commune": "MOY DE L'AISNE",
         "code_postal": 2610,
-        "libelle": "MOY DE L AISNE",
+        "libelle": "MOY DE L'AISNE",
         "gps": "49.750274961,3.35100553228"
     },
     {
@@ -215125,9 +215125,9 @@
     },
     {
         "insee": "69225",
-        "commune": "ST MARCEL L ECLAIRE",
+        "commune": "ST MARCEL L'ECLAIRE",
         "code_postal": 69170,
-        "libelle": "ST MARCEL L ECLAIRE",
+        "libelle": "ST MARCEL L'ECLAIRE",
         "gps": "45.8745331983,4.42248122756"
     },
     {
@@ -217022,9 +217022,9 @@
     },
     {
         "insee": "72072",
-        "commune": "CHATEAU L HERMITAGE",
+        "commune": "CHATEAU L'HERMITAGE",
         "code_postal": 72510,
-        "libelle": "CHATEAU L HERMITAGE",
+        "libelle": "CHATEAU L'HERMITAGE",
         "gps": "47.8022785256,0.199179125064"
     },
     {
@@ -217421,9 +217421,9 @@
     },
     {
         "insee": "72386",
-        "commune": "YVRE L EVEQUE",
+        "commune": "YVRE L'EVEQUE",
         "code_postal": 72530,
-        "libelle": "YVRE L EVEQUE",
+        "libelle": "YVRE L'EVEQUE",
         "gps": "48.0234127838,0.282137902604"
     },
     {
@@ -218646,9 +218646,9 @@
     },
     {
         "insee": "76196",
-        "commune": "CRIQUETOT L ESNEVAL",
+        "commune": "CRIQUETOT L'ESNEVAL",
         "code_postal": 76280,
-        "libelle": "CRIQUETOT L ESNEVAL",
+        "libelle": "CRIQUETOT L'ESNEVAL",
         "gps": "49.6368976314,0.267256823933"
     },
     {
@@ -218772,16 +218772,16 @@
     },
     {
         "insee": "76289",
-        "commune": "ST MARTIN DE L IF",
+        "commune": "ST MARTIN DE L'IF",
         "code_postal": 76190,
-        "libelle": "ST MARTIN DE L IF",
+        "libelle": "ST MARTIN DE L'IF",
         "gps": "49.5651631452,0.833069408864"
     },
     {
         "insee": "76289",
-        "commune": "ST MARTIN DE L IF",
+        "commune": "ST MARTIN DE L'IF",
         "code_postal": 76190,
-        "libelle": "ST MARTIN DE L IF",
+        "libelle": "ST MARTIN DE L'IF",
         "gps": "49.5651631452,0.833069408864"
     },
     {
@@ -219052,9 +219052,9 @@
     },
     {
         "insee": "76491",
-        "commune": "OUVILLE L ABBAYE",
+        "commune": "OUVILLE L'ABBAYE",
         "code_postal": 76760,
-        "libelle": "OUVILLE L ABBAYE",
+        "libelle": "OUVILLE L'ABBAYE",
         "gps": "49.6944501885,0.866542166561"
     },
     {
@@ -219829,9 +219829,9 @@
     },
     {
         "insee": "77203",
-        "commune": "GERMIGNY L EVEQUE",
+        "commune": "GERMIGNY L'EVEQUE",
         "code_postal": 77910,
-        "libelle": "GERMIGNY L EVEQUE",
+        "libelle": "GERMIGNY L'EVEQUE",
         "gps": "48.9859507813,2.95833193991"
     },
     {
@@ -223770,9 +223770,9 @@
     },
     {
         "insee": "80469",
-        "commune": "LAWARDE MAUGER L HORTOY",
+        "commune": "LAWARDE MAUGER L'HORTOY",
         "code_postal": 80250,
-        "libelle": "LAWARDE MAUGER L HORTOY",
+        "libelle": "LAWARDE MAUGER L'HORTOY",
         "gps": "49.712060298,2.27144968439"
     },
     {
@@ -223924,9 +223924,9 @@
     },
     {
         "insee": "80562",
-        "commune": "MONTIGNY SUR L HALLUE",
+        "commune": "MONTIGNY SUR L'HALLUE",
         "code_postal": 80260,
-        "libelle": "MONTIGNY SUR L HALLUE",
+        "libelle": "MONTIGNY SUR L'HALLUE",
         "gps": "49.9854644167,2.42235764909"
     },
     {
@@ -224318,7 +224318,7 @@
         "insee": "80744",
         "commune": "TAILLY",
         "code_postal": 80270,
-        "libelle": "TAILLY L ARBRE A MOUCHES",
+        "libelle": "TAILLY L'ARBRE A MOUCHES",
         "gps": "49.9346024966,1.94785661524"
     },
     {
@@ -224890,9 +224890,9 @@
     },
     {
         "insee": "58085",
-        "commune": "CORVOL L ORGUEILLEUX",
+        "commune": "CORVOL L'ORGUEILLEUX",
         "code_postal": 58460,
-        "libelle": "CORVOL L ORGUEILLEUX",
+        "libelle": "CORVOL L'ORGUEILLEUX",
         "gps": "47.4328581251,3.36750754848"
     },
     {
@@ -224995,9 +224995,9 @@
     },
     {
         "insee": "58157",
-        "commune": "MARIGNY L EGLISE",
+        "commune": "MARIGNY L'EGLISE",
         "code_postal": 58140,
-        "libelle": "MARIGNY L EGLISE",
+        "libelle": "MARIGNY L'EGLISE",
         "gps": "47.3451872372,3.94113791416"
     },
     {
@@ -225793,9 +225793,9 @@
     },
     {
         "insee": "83001",
-        "commune": "LES ADRETS DE L ESTEREL",
+        "commune": "LES ADRETS DE L'ESTEREL",
         "code_postal": 83600,
-        "libelle": "LES ADRETS DE L ESTEREL",
+        "libelle": "LES ADRETS DE L'ESTEREL",
         "gps": "43.5356229284,6.8110879666"
     },
     {
@@ -226031,16 +226031,16 @@
     },
     {
         "insee": "59153",
-        "commune": "CONDE SUR L ESCAUT",
+        "commune": "CONDE SUR L'ESCAUT",
         "code_postal": 59163,
-        "libelle": "CONDE SUR L ESCAUT",
+        "libelle": "CONDE SUR L'ESCAUT",
         "gps": "50.4678612037,3.60589087978"
     },
     {
         "insee": "59161",
-        "commune": "CREVECOEUR SUR L ESCAUT",
+        "commune": "CREVECOEUR SUR L'ESCAUT",
         "code_postal": 59258,
-        "libelle": "CREVECOEUR SUR L ESCAUT",
+        "libelle": "CREVECOEUR SUR L'ESCAUT",
         "gps": "50.0727577904,3.26867770233"
     },
     {
@@ -229251,9 +229251,9 @@
     },
     {
         "insee": "88092",
-        "commune": "CHARMOIS L ORGUEILLEUX",
+        "commune": "CHARMOIS L'ORGUEILLEUX",
         "code_postal": 88270,
-        "libelle": "CHARMOIS L ORGUEILLEUX",
+        "libelle": "CHARMOIS L'ORGUEILLEUX",
         "gps": "48.0912574478,6.26183235463"
     },
     {
@@ -229916,9 +229916,9 @@
     },
     {
         "insee": "61323",
-        "commune": "LE PAS ST L HOMER",
+        "commune": "LE PAS ST L'HOMER",
         "code_postal": 61290,
-        "libelle": "LE PAS ST L HOMER",
+        "libelle": "LE PAS ST L'HOMER",
         "gps": "48.4935203875,0.928175992686"
     },
     {
@@ -230161,9 +230161,9 @@
     },
     {
         "insee": "61483",
-        "commune": "BAGNOLES DE L ORNE NORMANDIE",
+        "commune": "BAGNOLES DE L'ORNE NORMANDIE",
         "code_postal": 61600,
-        "libelle": "BAGNOLES DE L ORNE NORMANDIE",
+        "libelle": "BAGNOLES DE L'ORNE NORMANDIE",
         "gps": "48.5556585202,-0.419510749596"
     },
     {
@@ -232709,9 +232709,9 @@
     },
     {
         "insee": "62882",
-        "commune": "WAVRANS SUR L AA",
+        "commune": "WAVRANS SUR L'AA",
         "code_postal": 62380,
-        "libelle": "WAVRANS SUR L AA",
+        "libelle": "WAVRANS SUR L'AA",
         "gps": "50.6749530079,2.13817752788"
     },
     {
@@ -232821,9 +232821,9 @@
     },
     {
         "insee": "63043",
-        "commune": "BLOT L EGLISE",
+        "commune": "BLOT L'EGLISE",
         "code_postal": 63440,
-        "libelle": "BLOT L EGLISE",
+        "libelle": "BLOT L'EGLISE",
         "gps": "46.0337566478,2.95773350422"
     },
     {
@@ -232975,9 +232975,9 @@
     },
     {
         "insee": "63139",
-        "commune": "DORE L EGLISE",
+        "commune": "DORE L'EGLISE",
         "code_postal": 63220,
-        "libelle": "DORE L EGLISE",
+        "libelle": "DORE L'EGLISE",
         "gps": "45.3776442028,3.75676812672"
     },
     {
@@ -233080,9 +233080,9 @@
     },
     {
         "insee": "95078",
-        "commune": "BOISSY L AILLERIE",
+        "commune": "BOISSY L'AILLERIE",
         "code_postal": 95650,
-        "libelle": "BOISSY L AILLERIE",
+        "libelle": "BOISSY L'AILLERIE",
         "gps": "49.0831174161,2.03269283542"
     },
     {
@@ -233675,9 +233675,9 @@
     },
     {
         "insee": "63343",
-        "commune": "ST FLOUR L ETANG",
+        "commune": "ST FLOUR L'ETANG",
         "code_postal": 63520,
-        "libelle": "ST FLOUR L ETANG",
+        "libelle": "ST FLOUR L'ETANG",
         "gps": "45.7110854172,3.51007845153"
     },
     {
@@ -233731,9 +233731,9 @@
     },
     {
         "insee": "63353",
-        "commune": "ST GERMAIN L HERM",
+        "commune": "ST GERMAIN L'HERM",
         "code_postal": 63630,
-        "libelle": "ST GERMAIN L HERM",
+        "libelle": "ST GERMAIN L'HERM",
         "gps": "45.4628350355,3.54468862687"
     },
     {
@@ -235803,9 +235803,9 @@
     },
     {
         "insee": "3036",
-        "commune": "BOURBON L ARCHAMBAULT",
+        "commune": "BOURBON L'ARCHAMBAULT",
         "code_postal": 3160,
-        "libelle": "BOURBON L ARCHAMBAULT",
+        "libelle": "BOURBON L'ARCHAMBAULT",
         "gps": "46.5836819113,3.05141625983"
     },
     {
@@ -240017,9 +240017,9 @@
     },
     {
         "insee": "68065",
-        "commune": "CHAVANNES SUR L ETANG",
+        "commune": "CHAVANNES SUR L'ETANG",
         "code_postal": 68210,
-        "libelle": "CHAVANNES SUR L ETANG",
+        "libelle": "CHAVANNES SUR L'ETANG",
         "gps": "47.6396468352,7.03103737458"
     },
     {
@@ -240374,9 +240374,9 @@
     },
     {
         "insee": "8419",
-        "commune": "SIGNY L ABBAYE",
+        "commune": "SIGNY L'ABBAYE",
         "code_postal": 8460,
-        "libelle": "SIGNY L ABBAYE",
+        "libelle": "SIGNY L'ABBAYE",
         "gps": "49.7029435011,4.40415204398"
     },
     {
@@ -240794,9 +240794,9 @@
     },
     {
         "insee": "27251",
-        "commune": "FONTAINE L ABBE",
+        "commune": "FONTAINE L'ABBE",
         "code_postal": 27470,
-        "libelle": "FONTAINE L ABBE",
+        "libelle": "FONTAINE L'ABBE",
         "gps": "49.0883291785,0.687966226442"
     },
     {
@@ -241158,9 +241158,9 @@
     },
     {
         "insee": "27507",
-        "commune": "ST ANDRE DE L EURE",
+        "commune": "ST ANDRE DE L'EURE",
         "code_postal": 27220,
-        "libelle": "ST ANDRE DE L EURE",
+        "libelle": "ST ANDRE DE L'EURE",
         "gps": "48.9026554238,1.27831847187"
     },
     {
@@ -242012,9 +242012,9 @@
     },
     {
         "insee": "27638",
-        "commune": "LE THUIT DE L OISON",
+        "commune": "LE THUIT DE L'OISON",
         "code_postal": 27370,
-        "libelle": "LE THUIT DE L OISON",
+        "libelle": "LE THUIT DE L'OISON",
         "gps": "49.2568957879,0.939183220001"
     },
     {
@@ -242145,9 +242145,9 @@
     },
     {
         "insee": "28022",
-        "commune": "BAILLEAU L EVEQUE",
+        "commune": "BAILLEAU L'EVEQUE",
         "code_postal": 28300,
-        "libelle": "BAILLEAU L EVEQUE",
+        "libelle": "BAILLEAU L'EVEQUE",
         "gps": "48.4875827521,1.39655721577"
     },
     {
@@ -244301,9 +244301,9 @@
     },
     {
         "insee": "11283",
-        "commune": "PEYREFITTE SUR L HERS",
+        "commune": "PEYREFITTE SUR L'HERS",
         "code_postal": 11420,
-        "libelle": "PEYREFITTE SUR L HERS",
+        "libelle": "PEYREFITTE SUR L'HERS",
         "gps": "43.2460152327,1.81716569517"
     },
     {
@@ -244413,9 +244413,9 @@
     },
     {
         "insee": "11380",
-        "commune": "SONNAC SUR L HERS",
+        "commune": "SONNAC SUR L'HERS",
         "code_postal": 11230,
-        "libelle": "SONNAC SUR L HERS",
+        "libelle": "SONNAC SUR L'HERS",
         "gps": "43.0152206316,2.00202806625"
     },
     {
@@ -245757,9 +245757,9 @@
     },
     {
         "insee": "13014",
-        "commune": "BERRE L ETANG",
+        "commune": "BERRE L'ETANG",
         "code_postal": 13130,
-        "libelle": "BERRE L ETANG",
+        "libelle": "BERRE L'ETANG",
         "gps": "43.5036442498,5.1606136975"
     },
     {
@@ -247122,9 +247122,9 @@
     },
     {
         "insee": "14138",
-        "commune": "CARTIGNY L EPINAY",
+        "commune": "CARTIGNY L'EPINAY",
         "code_postal": 14330,
-        "libelle": "CARTIGNY L EPINAY",
+        "libelle": "CARTIGNY L'EPINAY",
         "gps": "49.2392752495,-1.00695398636"
     },
     {
@@ -247339,9 +247339,9 @@
     },
     {
         "insee": "32080",
-        "commune": "CASTELNAU SUR L AUVIGNON",
+        "commune": "CASTELNAU SUR L'AUVIGNON",
         "code_postal": 32100,
-        "libelle": "CASTELNAU SUR L AUVIGNON",
+        "libelle": "CASTELNAU SUR L'AUVIGNON",
         "gps": "43.9635207971,0.471654890782"
     },
     {
@@ -250083,9 +250083,9 @@
     },
     {
         "insee": "34079",
-        "commune": "CLERMONT L HERAULT",
+        "commune": "CLERMONT L'HERAULT",
         "code_postal": 34800,
-        "libelle": "CLERMONT L HERAULT",
+        "libelle": "CLERMONT L'HERAULT",
         "gps": "43.6338885209,3.41317415682"
     },
     {
@@ -250944,9 +250944,9 @@
     },
     {
         "insee": "17350",
-        "commune": "ST JULIEN DE L ESCAP",
+        "commune": "ST JULIEN DE L'ESCAP",
         "code_postal": 17400,
-        "libelle": "ST JULIEN DE L ESCAP",
+        "libelle": "ST JULIEN DE L'ESCAP",
         "gps": "45.9286301344,-0.485268545942"
     },
     {
@@ -251315,9 +251315,9 @@
     },
     {
         "insee": "18118",
-        "commune": "JOUET SUR L AUBOIS",
+        "commune": "JOUET SUR L'AUBOIS",
         "code_postal": 18320,
-        "libelle": "JOUET SUR L AUBOIS",
+        "libelle": "JOUET SUR L'AUBOIS",
         "gps": "47.0454813599,3.00331831093"
     },
     {
@@ -252421,9 +252421,9 @@
     },
     {
         "insee": "38425",
-        "commune": "ST MAURICE L EXIL",
+        "commune": "ST MAURICE L'EXIL",
         "code_postal": 38550,
-        "libelle": "ST MAURICE L EXIL",
+        "libelle": "ST MAURICE L'EXIL",
         "gps": "45.3920113826,4.7770444785"
     },
     {
@@ -254248,9 +254248,9 @@
     },
     {
         "insee": "21482",
-        "commune": "PERRIGNY SUR L OGNON",
+        "commune": "PERRIGNY SUR L'OGNON",
         "code_postal": 21270,
-        "libelle": "PERRIGNY SUR L OGNON",
+        "libelle": "PERRIGNY SUR L'OGNON",
         "gps": "47.3052827359,5.4638499105"
     },
     {
@@ -254395,9 +254395,9 @@
     },
     {
         "insee": "21573",
-        "commune": "ST SEINE L ABBAYE",
+        "commune": "ST SEINE L'ABBAYE",
         "code_postal": 21440,
-        "libelle": "ST SEINE L ABBAYE",
+        "libelle": "ST SEINE L'ABBAYE",
         "gps": "47.4414380051,4.7823076914"
     },
     {
@@ -255725,9 +255725,9 @@
     },
     {
         "insee": "22305",
-        "commune": "ST JOUAN DE L ISLE",
+        "commune": "ST JOUAN DE L'ISLE",
         "code_postal": 22350,
-        "libelle": "ST JOUAN DE L ISLE",
+        "libelle": "ST JOUAN DE L'ISLE",
         "gps": "48.266340555,-2.17849741496"
     },
     {
@@ -256056,7 +256056,7 @@
         "insee": "22384",
         "commune": "UZEL",
         "code_postal": 22460,
-        "libelle": "UZEL PRES L OUST",
+        "libelle": "UZEL PRES L'OUST",
         "gps": "48.2806260052,-2.84761696775"
     },
     {
@@ -257083,9 +257083,9 @@
     },
     {
         "insee": "24115",
-        "commune": "CHATEAU L EVEQUE",
+        "commune": "CHATEAU L'EVEQUE",
         "code_postal": 24460,
-        "libelle": "CHATEAU L EVEQUE",
+        "libelle": "CHATEAU L'EVEQUE",
         "gps": "45.2584930468,0.686400919033"
     },
     {
@@ -258231,9 +258231,9 @@
     },
     {
         "insee": "24521",
-        "commune": "SARLIAC SUR L ISLE",
+        "commune": "SARLIAC SUR L'ISLE",
         "code_postal": 24420,
-        "libelle": "SARLIAC SUR L ISLE",
+        "libelle": "SARLIAC SUR L'ISLE",
         "gps": "45.2398639331,0.866391236032"
     },
     {
@@ -258560,9 +258560,9 @@
     },
     {
         "insee": "44180",
-        "commune": "VALLONS DE L ERDRE",
+        "commune": "VALLONS DE L'ERDRE",
         "code_postal": 44540,
-        "libelle": "VALLONS DE L ERDRE",
+        "libelle": "VALLONS DE L'ERDRE",
         "gps": "47.5309227299,-1.19441075506"
     },
     {
@@ -262200,9 +262200,9 @@
     },
     {
         "insee": "48048",
-        "commune": "CHEYLARD L EVEQUE",
+        "commune": "CHEYLARD L'EVEQUE",
         "code_postal": 48300,
-        "libelle": "CHEYLARD L EVEQUE",
+        "libelle": "CHEYLARD L'EVEQUE",
         "gps": "44.6315294707,3.80974114923"
     },
     {
@@ -268108,9 +268108,9 @@
     },
     {
         "insee": "26250",
-        "commune": "PONT DE L ISERE",
+        "commune": "PONT DE L'ISERE",
         "code_postal": 26600,
-        "libelle": "PONT DE L ISERE",
+        "libelle": "PONT DE L'ISERE",
         "gps": "45.015193999,4.88159850923"
     },
     {
@@ -268808,9 +268808,9 @@
     },
     {
         "insee": "69086",
-        "commune": "FLEURIEUX SUR L ARBRESLE",
+        "commune": "FLEURIEUX SUR L'ARBRESLE",
         "code_postal": 69210,
-        "libelle": "FLEURIEUX SUR L ARBRESLE",
+        "libelle": "FLEURIEUX SUR L'ARBRESLE",
         "gps": "45.8393590284,4.65229651357"
     },
     {
@@ -269928,9 +269928,9 @@
     },
     {
         "insee": "70575",
-        "commune": "VORAY SUR L OGNON",
+        "commune": "VORAY SUR L'OGNON",
         "code_postal": 70190,
-        "libelle": "VORAY SUR L OGNON",
+        "libelle": "VORAY SUR L'OGNON",
         "gps": "47.3499834337,6.01396560488"
     },
     {
@@ -270327,9 +270327,9 @@
     },
     {
         "insee": "71266",
-        "commune": "LUCENAY L EVEQUE",
+        "commune": "LUCENAY L'EVEQUE",
         "code_postal": 71540,
-        "libelle": "LUCENAY L EVEQUE",
+        "libelle": "LUCENAY L'EVEQUE",
         "gps": "47.0840697933,4.26102089354"
     },
     {
@@ -270775,9 +270775,9 @@
     },
     {
         "insee": "71554",
-        "commune": "VARENNE L ARCONCE",
+        "commune": "VARENNE L'ARCONCE",
         "code_postal": 71110,
-        "libelle": "VARENNE L ARCONCE",
+        "libelle": "VARENNE L'ARCONCE",
         "gps": "46.3412494667,4.15697497877"
     },
     {
@@ -271867,9 +271867,9 @@
     },
     {
         "insee": "69201",
-        "commune": "STE FOY L ARGENTIERE",
+        "commune": "STE FOY L'ARGENTIERE",
         "code_postal": 69610,
-        "libelle": "STE FOY L ARGENTIERE",
+        "libelle": "STE FOY L'ARGENTIERE",
         "gps": "45.7046028711,4.4705436953"
     },
     {
@@ -272574,9 +272574,9 @@
     },
     {
         "insee": "70420",
-        "commune": "PONT SUR L OGNON",
+        "commune": "PONT SUR L'OGNON",
         "code_postal": 70110,
-        "libelle": "PONT SUR L OGNON",
+        "libelle": "PONT SUR L'OGNON",
         "gps": "47.5189006507,6.38822321386"
     },
     {
@@ -273253,9 +273253,9 @@
     },
     {
         "insee": "71307",
-        "commune": "MONTCEAUX L ETOILE",
+        "commune": "MONTCEAUX L'ETOILE",
         "code_postal": 71110,
-        "libelle": "MONTCEAUX L ETOILE",
+        "libelle": "MONTCEAUX L'ETOILE",
         "gps": "46.3564508429,4.04500323823"
     },
     {
@@ -273323,9 +273323,9 @@
     },
     {
         "insee": "71343",
-        "commune": "PARIS L HOPITAL",
+        "commune": "PARIS L'HOPITAL",
         "code_postal": 71150,
-        "libelle": "PARIS L HOPITAL",
+        "libelle": "PARIS L'HOPITAL",
         "gps": "46.9127885575,4.63958573146"
     },
     {
@@ -273960,9 +273960,9 @@
     },
     {
         "insee": "72248",
-        "commune": "PRUILLE L EGUILLE",
+        "commune": "PRUILLE L'EGUILLE",
         "code_postal": 72150,
-        "libelle": "PRUILLE L EGUILLE",
+        "libelle": "PRUILLE L'EGUILLE",
         "gps": "47.8385530465,0.421797610193"
     },
     {
