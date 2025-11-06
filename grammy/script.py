@@ -89,7 +89,9 @@ def main():
             if value != '':
                 df = pandas.read_csv(BASE_DIR / 'tmp/fixes.csv')
 
-                if linenumber in df.line.values:
+                if linenumber in list(df.line.values):
+                    df.loc[df.line == linenumber, 'producers'] = value
+                    df.to_csv(BASE_DIR / 'tmp/fixes.csv', index=False)
                     continue
 
                 s = pandas.Series([linenumber, value], index=[
