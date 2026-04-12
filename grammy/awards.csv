@@ -1,0 +1,767 @@
+award,is_album,is_song,is_artist
+Album Of The Year,True,False,False
+Best Album Cover,True,False,False
+Best Arrangement,False,False,False
+Best Classical Performance - Chamber Music (Including Chamber Orchestra),False,False,False
+Best Classical Performance - Instrumentalist (Other Than Concerto-Scale Accompaniment),False,False,False
+Best Classical Performance - Instrumentalist (With Concerto Scale Accompaniment),False,False,False
+Best Classical Performance - Operatic Or Choral,False,False,False
+Best Classical Performance - Orchestra,False,False,False
+Best Classical Performance - Vocal Soloist (With Or Without Orchestra),False,False,False
+Best Comedy Performance,False,False,False
+Best Country & Western Performance,False,False,False
+Best Engineered Record (Classical),False,False,False
+Best Engineered Record - Non-Classical,False,False,False
+"Best Jazz Performance, Group",False,False,False
+"Best Jazz Performance, Individual",False,False,False
+Best Musical Composition First Recorded And Released In 1958 (Over 5 Minutes Duration),False,False,False
+Best Original Cast Album (Broadway Or TV),True,False,False
+Best Performance By A Vocal Group Or Chorus,False,False,False
+Best Performance By An Orchestra,False,False,False
+"Best Performance, Documentary Or Spoken Word",False,False,False
+Best Recording For Children,False,False,False
+Best Rhythm & Blues Performance,False,False,False
+"Best Sound Track Album, Dramatic Picture Score Or Original Cast",True,False,False
+"Best Vocal Performance, Female",False,False,False
+"Best Vocal Performance, Male",False,False,False
+Record Of The Year,False,False,False
+Song Of The Year,False,True,False
+Best Broadway Show Album,True,False,False
+Best Classical Performance - Concerto Or Instrumental Soloist (Other Than Full Orchestral Accompaniment),False,False,False
+Best Classical Performance - Concerto Or Instrumental Soloist (With Full Orchestral Accompaniment),False,False,False
+Best Classical Performance - Opera Cast Or Choral,False,False,False
+Best Comedy Performance - Spoken Word,False,False,False
+Best Engineering Contribution - Classical Recording,False,False,False
+Best Engineering Contribution - Novelty Recording,False,False,False
+Best Jazz Performance - Group,False,False,False
+Best Jazz Performance - Soloist,False,False,False
+Best Musical Composition First Recorded And Released In 1959 (More Than 5 Minutes Duration),False,False,False
+Best New Artist Of 1959,False,False,True
+Best Performance - Documentary Or Spoken Word (Other Than Comedy),False,False,False
+Best Performance - Folk,False,False,False
+"Best Performance By A ""Top 40"" Artist",False,False,True
+Best Performance By A Dance Band,False,False,False
+Best Sound Track Album - Background Score From A Motion Picture Or Television,True,False,False
+"Best Sound Track Album, Original Cast - Motion Picture Or Television",True,False,False
+Best Album Created For Children,True,False,False
+Best Classical Opera Production,False,False,False
+Best Classical Performance - Choral (Including Oratorio),False,False,False
+Best Classical Performance - Concerto Or Instrumental Soloist,False,False,False
+Best Classical Performance - Instrumental Soloist Or Duo (Other Than With Orchestral Accompaniment),False,False,False
+Best Classical Performance - Vocal Or Instrumental - Chamber Music,False,False,False
+Best Classical Performance - Vocal Soloist,False,False,False
+Best Contemporary Classical Composition,False,False,False
+Best Engineering Contribution - Popular Recording,False,False,False
+Best Jazz Composition Of More Than Five Minutes Duration,False,False,False
+Best Jazz Performance Large Group,False,False,False
+Best Jazz Performance Solo Or Small Group,False,False,False
+Best New Artist Of 1960,False,False,True
+Best Performance By A Band For Dancing,False,False,False
+Best Performance By A Pop Single Artist,False,False,True
+Best Performance By A Vocal Group (2 To 6),False,False,False
+Best Show Album (Original Cast),True,False,False
+Best Sound Track Album Or Recording Of Original Cast From Motion Picture Or Television,True,False,False
+Best Soundtrack Album Or Recording Of Music Score From A Motion Picture Of Television,True,False,False
+"Best Vocal Performance Single Record Or Track, Female",False,False,False
+"Best Vocal Performance Single Record Or Track, Male",False,False,False
+Album Of The Year (Other Than Classical),True,False,False
+Album Of The Year - Classical,True,False,False
+Best Album Cover (Other Than Classical),True,False,False
+Best Classical Performance - Chamber Music,False,False,False
+Best Classical Performance - Choral (Other Than Opera),False,False,False
+Best Classical Performance - Instrumental Soloist (With Orchestra),False,False,False
+Best Classical Performance - Instrumental Soloist Or Duo (Without Orchestra),False,False,False
+Best Country & Western Recording,False,False,False
+Best Documentary Or Spoken Word Recording (Other Than Comedy),False,False,False
+Best Folk Recording,False,False,False
+Best Gospel Or Other Religious Recording,False,False,False
+Best Instrumental Theme Or Instrumental Version Of Song,False,True,False
+Best Jazz Performance - Large Group (Instrumental),False,False,False
+Best Jazz Performance - Soloist Or Small Group (Instrumental),False,False,False
+Best New Artist Of 1961,False,False,True
+Best Opera Recording,False,False,False
+Best Original Cast Show Album,True,False,False
+Best Original Jazz Composition,False,False,False
+Best Performance By A Vocal Group,False,False,False
+Best Performance By An Orchestra - For Dancing,False,False,False
+Best Rhythm & Blues Recording,False,False,False
+Best Rock & Roll Recording,False,False,False
+"Best Solo Vocal Performance, Female",False,False,False
+"Best Solo Vocal Performance, Male",False,False,False
+Best Sound Track Album Or Recording Of Score From Motion Picture Of Television,True,False,False
+Best Album Cover - Classical,True,False,False
+Best Background Arrangement,False,False,False
+Best Classical Composition By Contemporary Composer,False,False,False
+Best Classical Performance - Instrumental Soloist Or Soloists (With Orchestra),False,False,False
+Best Engineered Recording - Classical,False,False,False
+Best Engineering Contribution - Other Than Novelty And Other Than Classical,False,False,False
+Best Instrumental Arrangement,False,False,False
+Best Instrumental Theme,False,False,False
+Best New Artist Of 1962,False,False,True
+Best Performance By An Orchestra For Dancing,False,False,False
+Best Album Notes,True,False,False
+Best Background Arrangement (Behind vocalist or instrumentalist),False,False,False
+Best Classical Composition By A Contemporary Composer,False,False,False
+"Best Documentary, Spoken Word Or Drama Recording (Other Than Comedy)",False,False,False
+Best Engineered Recording - Other Than Classical,False,False,False
+Best Gospel Or Other Religious Recording (Musical),False,False,False
+Best Instrumental Jazz Performance - Large Group,False,False,False
+Best Instrumental Jazz Performance - Soloist Or Small Group,False,False,False
+Best New Artist Of 1963,False,False,True
+Best Original Score From A Motion Picture Or Television Show,False,False,False
+Best Score From An Original Cast Show Album,True,False,False
+Most Promising New Classical Recording Artist,False,False,True
+Best Accompaniment Arrangement For Vocalist(s) Or Instrumentalist(s),False,False,False
+Best Album Cover - Other Than Classical,True,False,False
+Best Chamber Performance - Instrumental,False,False,False
+Best Choral Performance (Other Than Opera),False,False,False
+Best Composition By A Contemporary Composer,False,False,False
+Best Country & Western Album,True,False,False
+Best Country & Western Single,False,False,False
+Best Country & Western Song,False,True,False
+Best Country & Western Vocal Performance - Female,False,False,False
+Best Country & Western Vocal Performance - Male,False,False,False
+Best Engineered Recording,False,False,False
+Best Instrumental Composition (Other Than Jazz),False,False,False
+Best Instrumental Jazz Performance - Large Group Or Soloist With Large Group,False,False,False
+Best Instrumental Jazz Performance - Small Group Or Soloist With Small Group,False,False,False
+Best Instrumental Performance - Non-Jazz,False,False,False
+Best New Artist Of 1964,False,False,True
+Best New Country & Western Artist Of 1964,False,False,True
+Best Original Score Written For A Motion Picture Or Television Show,False,False,False
+Best Performance - Instrumental Soloist Or Soloists (With Orchestra),False,False,False
+Best Performance - Instrumental Soloist Or Soloists (Without Orchestra),False,False,False
+Best Performance - Orchestra,False,False,False
+Best Vocal Soloist Performance (With Or Without Orchestra),False,False,False
+Album Of The Year -- Classical,True,False,False
+Best Album Cover - Photography,True,False,False
+Best Arrangement Accompanying A Vocalist Or Instrumentalist,False,False,False
+Best Classical Chamber Music Performance - Instrumental Or Vocal,False,False,False
+Best Classical Choral Performance (Other Than Opera),False,False,False
+Best Classical Contemporary Composition,False,False,False
+Best Classical Performance - Instrumental Soloist Or Soloists (Without Orchestra),False,False,False
+Best Classical Vocal Soloist Performance,False,False,False
+Best Contemporary (R&R) Single,False,False,False
+Best Engineered Recording - Non-Classical,False,False,False
+"Best Engineered Recording, Classical",False,False,False
+"Best Instrumental Performance, Non-Jazz",False,False,False
+Best New Artist,False,False,True
+Best New Country & Western Artist,False,False,True
+Best Spoken Word Or Drama Recording,False,False,False
+"Best Album Cover, Photography",True,False,False
+Best Chamber Music Performance - Instrumental Or Vocal,False,False,False
+Best Classical Choral Performance,False,False,False
+Best Classical Performance - Instrumental Soloist or Soloists (With Or Without Orchestra),False,False,False
+Best Classical Vocal Soloist Performance (With Or Without Orchestra),False,False,False
+Best Contemporary (R&R) Recording,False,False,False
+"Best Country & Western Vocal Performance, Male",False,False,False
+Best Engineered Recording - Non Classical,False,False,False
+Best Instrumental Jazz Performance - Group Or Soloist With Group,False,False,False
+Best Instrumental Performance (Other Than Jazz),False,False,False
+"Best Rhythm & Blues Group Performance, Vocal Or Instrumental",False,False,False
+"Best Rhythm & Blues Solo Vocal Performance, Male Or Female",False,False,False
+Best Sacred Recording (Musical),False,False,False
+"Best Spoken Word, Documentary Or Drama Recording",False,False,False
+"Album Of The Year, Classical",True,False,False
+Best Arrangement Accompanying Vocalist(s) Or Instrumentalist(s),False,False,False
+Best Chamber Music Performance,False,False,False
+Best Classical Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra),False,False,False
+Best Comedy Recording,False,False,False
+Best Contemporary Single,False,False,False
+"Best Country & Western Performance Duet, Trio Or Group (Vocal Or Instrumental)_",False,False,False
+"Best Country & Western Solo Vocal Performance, Female",False,False,False
+"Best Country & Western Solo Vocal Performance, Male",False,False,False
+Best Folk Performance,False,False,False
+Best Gospel Performance,False,False,False
+"Best Instrumental Jazz Performance, Small Group Or Soloist With Small Group",False,False,False
+Best Instrumental Performance,False,False,False
+Best Original Score Written For A Motion Picture Or A Television Show,False,False,False
+"Best Rhythm & Blues Solo Vocal Performance, Female",False,False,False
+"Best Rhythm & Blues Solo Vocal Performance, Male",False,False,False
+Best Sacred Performance,False,False,False
+Best Arrangement Accompanying Vocalist(s),False,False,False
+"Best Contemporary-Pop Vocal Performance, Female",False,False,False
+"Best Country Performance, Duo Or Group - Vocal Or Instrumental",False,False,False
+Best Country Song,False,True,False
+"Best Country Vocal Performance, Female",False,False,False
+"Best Country Vocal Performance, Male",False,False,False
+Best Engineered Recording (Non-Classical),False,False,False
+Best New Artist Of The Year,False,False,True
+Best Original Score Written For A Motion Picture Or A Television Special,False,False,False
+Best Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra),False,False,False
+"Best Rhythm & Blues Performance By A Duo Or Group, Vocal Or Instrumental",False,False,False
+Best Rhythm & Blues Song,False,True,False
+"Best Rhythm & Blues Vocal Performance, Female",False,False,False
+"Best Rhythm & Blues Vocal Performance, Male",False,False,False
+Best Soul Gospel Performance,False,False,False
+Best Spoken Word Recording,False,False,False
+Best Vocal Soloist Performance,False,False,False
+"Best Choral Performance, Classical (Other Than Opera)",False,False,False
+"Best Classical Performance, Orchestra",False,False,False
+"Best Contemporary Vocal Performance, Female",False,False,False
+Best Country Instrumental Performance,False,False,False
+Best Country Performance By A Duo Or Group With Vocal,False,False,False
+"Best Instrumental Jazz Performance, Large Group Or Soloist With Large Group",False,False,False
+Best R&B Instrumental Performance,False,False,False
+Best R&B Vocal Performance By A Duo Or Group,False,False,False
+"Best R&B Vocal Performance, Female",False,False,False
+"Best R&B Vocal Performance, Male",False,False,False
+Best Sacred Performance (Non-Classical),False,False,False
+"Best Vocal Soloist Performance, Classical",False,False,False
+Best Country Vocal Performance By A Duo Or Group,False,False,False
+Best Ethnic Or Traditional Recording (Including Traditional Blues),False,False,False
+Best Gospel Performance (Other Than Soul Gospel),False,False,False
+Best Instrumental Composition,False,False,False
+Best Jazz Performance - Large Group Or Soloist With Large Group,False,False,False
+Best Jazz Performance - Small Group Or Soloist With Small Group,False,False,False
+"Best R&B Performance By A Duo Or Group, Vocal Or Instrumental",False,False,False
+Best Sacred Performance (Musical),False,False,False
+"Best Choral Performance, Classical",False,False,False
+Best Ethnic Or Traditional Recording,False,False,False
+Best Jazz Performance By A Big Band,False,False,False
+Best Jazz Performance By A Group,False,False,False
+Best Jazz Performance By A Soloist,False,False,False
+Best Pop Instrumental Performance,False,False,False
+"Best Pop Vocal Performance By Duo, Group Or Chorus",False,False,False
+"Best Pop Vocal Performance, Female",False,False,False
+"Best Pop Vocal Performance, Male",False,False,False
+Best R&B Vocal Performance By A Group,False,False,False
+"Best Choral Performance, (Other Than Opera)",False,False,False
+Best Engineered Recording (Classical),False,False,False
+Best Inspirational Performance,False,False,False
+Best Pop Instrumental Performance By An Instrumental Performer,False,False,False
+"Best Pop Vocal Performance By A Duo, Group Or Chorus",False,False,False
+"Best R&B Vocal Performance By A Duo, Group Or Chorus",False,False,False
+Album Of Best Original Score Written For A Motion Picture Or A Television Special,True,False,False
+Best Album Package,True,False,False
+Best Classical Performance Instrumental Soloist Or Soloists (With Orchestra),False,False,False
+Best Classical Performance Instrumental Soloist Or Soloists (Without Orchestra),False,False,False
+Best Score From The Original Cast Show Album,True,False,False
+Best Inspirational Performance (Non-Classical),False,False,False
+Producer Of The Year,False,False,False
+Best Cast Show Album,True,False,False
+Best Ethnic Traditional Recording,False,False,False
+Best Latin Recording,False,False,False
+Best Pop Vocal Performance By A Group,False,False,False
+Best Producer Of The Year,False,False,False
+Album Of The Year Classical,True,False,False
+"Best Arrangement For Voices (Duo, Group Or Chorus)",False,False,False
+Best Classical Orchestral Performance,False,False,False
+"Best Classical Performance, Instrumental Soloist Or Soloists (With Orchestra)",False,False,False
+Best Jazz Performance By A Soloist (Instrumental),False,False,False
+Best Jazz Vocal Performance,False,False,False
+Best Arrangement For Voices,False,False,False
+"Best Gospel Performance, Contemporary Or Insprirational",False,False,False
+"Best Gospel Performance, Traditional",False,False,False
+"Best Soul Gospel Performance, Contemporary",False,False,False
+"Best Soul Gospel Performance, Traditional",False,False,False
+Album Of the Year,True,False,False
+Best Album Of Original Score Written For A Motion Picture Or A Television Special,True,False,False
+"Best Classical Performance, Instrumental Soloist(s) (With Orchestra)",False,False,False
+"Best Classical Performance, Instrumental Soloist(s) (Without Orchestra)",False,False,False
+"Best Gospel Performance, Contemporary Or Inspirational",False,False,False
+Best Historical Repackage Album,True,False,False
+"Best Jazz Instrumental Performance, Big Band",False,False,False
+"Best Jazz Instrumental Performance, Group",False,False,False
+"Best Jazz Instrumental Performance, Soloist",False,False,False
+Best Arrangement Accompanying Vocals,False,False,False
+Best Classical Album,True,False,False
+Best Classical Orchestral Recording,False,False,False
+Best Disco Recording,False,False,False
+Best Historical Album,True,False,False
+"Best Jazz Fusion Performance, Vocal Or Instrumental",False,False,False
+Best Rock Instrumental Performance,False,False,False
+Best Rock Vocal Performance By A Duo Or Group,False,False,False
+"Best Rock Vocal Performance, Female",False,False,False
+"Best Rock Vocal Performance, Male",False,False,False
+Classical Producer Of The Year,False,False,False
+"Producer Of The Year, Non-Classical",False,False,False
+Best Country Performance Duo Or Group,False,False,False
+Best Historical Reissue Record,False,False,False
+"Best Jazz Vocal Performance, Female",False,False,False
+"Best Jazz Vocal Performance, Male",False,False,False
+Best Pop Performance By A Duo Or Group With Vocal,False,False,False
+Best R&B Performance By A Duo Or Group With Vocal,False,False,False
+Best Rock Performance By A Duo Or Group With Vocal,False,False,False
+Producer Of The Year (Non-Classical),False,False,False
+Best Arrangement On An Instrumental Recording,False,False,False
+Best Gospel Performance Contemporary Or Inspirational,False,False,False
+Best Instrumental Arrangement Accompanying Vocal(s),False,False,False
+"Best Jazz Vocal Performance, Duo Or Group",False,False,False
+Best Vocal Arrangement For Two Or More Voices,False,False,False
+Video Of The Year,False,False,False
+"Best Classical Performance, Instrumental Soloist Or Soloists (Without Orchestra)",False,False,False
+Best Ethnic Or Traditional Folk Recording,False,False,False
+"Best Gospel Performance, Contemporary",False,False,False
+Best Jazz Vocal Performance Duo Or Group,False,False,False
+Best Traditional Blues Recording,False,False,False
+Best Arrangement On An Instrumental,False,False,False
+Best Classical Vocal Performance,False,False,False
+Best Gospel Performance By A Duo Or Group,False,False,False
+"Best Gospel Performance, Female",False,False,False
+"Best Gospel Performance, Male",False,False,False
+"Best Jazz Instrumental Performance, SOLO",False,False,False
+Best Latin Pop Performance,False,False,False
+Best Mexican-American Performance,False,False,False
+Best New Country Song,False,True,False
+"Best Recording For Children - Single or Album, Musical or Spoken",True,False,False
+Best Soul Gospel Performance By A Duo Or Group,False,False,False
+"Best Soul Gospel Performance, Female",False,False,False
+"Best Soul Gospel Performance, Male",False,False,False
+Best Spoken Word Or Non-Musical Recording,False,False,False
+Best Tropical Latin Performance,False,False,False
+Best Video Album,True,False,False
+"Best Video, Short Form",False,False,False
+Best Jazz Vocal,False,False,False
+Best New Classical Composition,False,False,False
+Best Reggae Recording,False,False,False
+Best Video,False,False,False
+Best Contemporary Composition,False,False,False
+"Best Country Instrumental Performance (Orchestra, Group Or Soloist)",False,False,False
+Best Country Vocal Performance - Female,False,False,False
+Best Gospel Performance - Male,False,False,False
+"Best Gospel Performance By A Duo Or Group, Choir Or Chorus",False,False,False
+Best Jazz Vocal Performance - Female,False,False,False
+Best Jazz Vocal Performance - Male,False,False,False
+"Best Music Video, Long Form",False,False,False
+"Best Music Video, Short Form",False,False,False
+Best New Classical Artist,False,False,True
+Best Polka Recording,False,False,False
+"Best Pop Instrumental Performance (Orchestra, Group Or Soloist)",False,False,False
+"Best R&B Instrumental Performance (Orchestra, Group Or Soloist)",False,False,False
+Best Rock Vocal Performance - Female,False,False,False
+Best Soul Gospel Performance - Male,False,False,False
+"Best Soul Gospel Performance By A Duo, Group, Choir or Chorus - Singles, Albums or Tracks",True,False,False
+Best Contemporary Folk Recording,False,False,False
+"Best Country Instrumental Performance, (Orchestra, Group Or Soloist)",False,False,False
+"Best Country Vocal Solo Performance, Male",False,False,False
+Best Instrumental Arrangement Accompanying Vocals,False,False,False
+Best Musical Cast Show Album,True,False,False
+Best New Age Recording,False,False,False
+"Best Pop Instrumental Performance, (Orchestra, Group Or Soloist)",False,False,False
+"Best Rock Instrumental Performance, (Orchestra, Group Or Soloist)",False,False,False
+"Best Soul Gospel Performance By A Duo, Group, Choir Or Chorus",False,False,False
+Best Traditional Folk Recording,False,False,False
+Best Album Or Original Instrumental Background Score Written For A Motion Picture Or Television,True,False,False
+Best Classical Performance - Instrumental Soloist(s) (With Orchestra),False,False,False
+Best Classical Performance - Instrumental Soloist(s) (Without Orchestra),False,False,False
+Best Concept Music Video,False,False,False
+Best Contemporary Blues Recording,False,False,False
+"Best Country Instrumental Performance (Orchestra, Group Of Soloist)",False,False,False
+"Best Country Vocal Performance, Duet",False,False,False
+Best Instrumental Jazz Performance (Group),False,False,False
+Best New Age Performance,False,False,False
+Best Orchestral Recording,False,False,False
+Best Performance Music Video,False,False,False
+"Best Rock Instrumental Performance (Orchestra, Group Or Soloist)",False,False,False
+"Best Rock Vocal Performance, Female, Male",False,False,False
+Best Song Written Specifically For A Motion Picture Or Television,False,True,False
+"Best Soul Gospel Performance By A Duo Or Group, Choir Or Chorus",False,False,False
+"Producer Of The Year, (Non-Classical)",False,False,False
+Best Album Of Original Instrumental Background Score Written For A Motion Picture Or Television,True,False,False
+Best Bluegrass Recording (Vocal Or Instrumental),False,False,False
+Best Country Vocal Collaboration,False,False,False
+Best Hard Rock/Metal Performance Vocal Or Instrumental,False,False,False
+Best Instrumental Composition (other than Jazz),False,False,False
+Best Jazz Fusion Performance,False,False,False
+Best Jazz Instrumental Performance Soloist (On A Jazz Recording),False,False,False
+Best Rap Performance,False,False,False
+Best Bluegrass Recording,False,False,False
+"Best Classical Performance, Instrumental Soloist (With Orchestra)",False,False,False
+"Best Classical Performance, Instrumental Soloist (Without Orchestra)",False,False,False
+"Best Gospel Vocal Performance By A Duo, Group, Choir Or Chorus",False,False,False
+"Best Gospel Vocal Performance, Female",False,False,False
+"Best Gospel Vocal Performance, Male",False,False,False
+Best Hard Rock Performance,False,False,False
+"Best Jazz Instrumental Performance, Soloist (On A Jazz Recording)",False,False,False
+Best Metal Performance,False,False,False
+Best Music Video - Long Form,False,False,False
+Best Music Video - Short Form,False,False,False
+Best Orchestral Performance,False,False,False
+"Best Soul Gospel Vocal Performance By A Duo, Group, Choir Or Chorus",False,False,False
+"Best Soul Gospel Vocal Performance, Female, Male",False,False,False
+Best Alternative Music Performance,False,False,False
+Best Chamber Music Or Other Small Ensemble Performance,False,False,False
+Best Contemporary Soul Gospel Album,True,False,False
+Best Gospel Album By A Choir Or Chorus,True,False,False
+Best Instrumental Composition Written For A Motion Picture Or For Television,False,False,False
+Best Pop Gospel Album,True,False,False
+Best Rap Performance By A Duo Or Group,False,False,False
+Best Rap Solo Performance,False,False,False
+Best Rock/Contemporary Gospel Album,True,False,False
+Best Song Written Specifically For A Motion Picture Or For Television,False,True,False
+Best Southern Gospel Album,True,False,False
+Best Traditional Soul Gospel Performance,False,False,False
+Best Album For Children,True,False,False
+Best Alternative Music Album,True,False,False
+Best Bluegrass Album,True,False,False
+Best Classical Performance Instrumental Solo With Orchestra,False,False,False
+Best Classical Performance Instrumental Solo Without Orchestra,False,False,False
+Best Classical Vocal Soloist,False,False,False
+Best Comedy Album,True,False,False
+Best Contemporary Blues Album,True,False,False
+Best Contemporary Folk Album,True,False,False
+Best Contemporary Jazz Performance,False,False,False
+Best Country Performance By A Duo Group With Vocal,False,False,False
+Best Engineered Album - Non-Classical,True,False,False
+Best Gospel Album By Choir Or Chorus,True,False,False
+Best Hard Rock Performance With Vocal,False,False,False
+Best Jazz Instrumental Solo,False,False,False
+Best Large Jazz Ensemble Performance,False,False,False
+Best Latin Pop Album,True,False,False
+Best Mexican-American Album,True,False,False
+Best Musical Show Album,True,False,False
+Best New Age Album,True,False,False
+Best Performance Of A Choral Work,False,False,False
+Best Polka Album,True,False,False
+Best Reggae Album,True,False,False
+Best Rock Song,False,True,False
+"Best Rock Vocal Performance, Solo",False,False,False
+Best Spoken Word Or Non-Musical Album,True,False,False
+Best Traditional Blues Album,True,False,False
+Best Traditional Folk Album,True,False,False
+Best Traditional Pop Performance,False,False,False
+Best Traditional Soul Gospel Album,True,False,False
+Best Tropical Latin Album,True,False,False
+Best World Music Album,True,False,False
+Best Classical Performance - Instrumental Solo With Orchestra,False,False,False
+Best Classical Performance - Instrumental Solo Without Orchestra,False,False,False
+Best Contemporary Jazz Performance (Instrumental),False,False,False
+"Best Jazz Instrumental Performance, Individual Or Group",False,False,False
+Best Traditional Pop Vocal Performance,False,False,False
+Best Classical Performance-Instrumental Soloist (Without Orchestra),False,False,False
+Best Classical Performance-Instrumental Soloist(s) (With Orchestra),False,False,False
+Best Metal Performance With Vocal,False,False,False
+Best Music Video-Long Form,False,False,False
+Best Musical Album For Children,True,False,False
+Best Pop/Contemporary Gospel Album,True,False,False
+Best Recording Package,False,False,False
+Best Rock Gospel Album,True,False,False
+"Best Southern Gospel, Country Gospel Or Bluegrass Gospel Album",True,False,False
+Best Spoken Comedy Album,True,False,False
+Best Spoken Word Album For Children,True,False,False
+Best Choral Performance,False,False,False
+Best Classical Engineered Recording,False,False,False
+Best Country Album,True,False,False
+"Best Engineered Album, - Non-Classical",True,False,False
+Best Female Country Vocal Performance,False,False,False
+Best Female Pop Vocal Performance,False,False,False
+Best Female R&B Vocal Performance,False,False,False
+Best Female Rock Vocal Performance,False,False,False
+Best Instrumental Arrangement With Accompanying Vocals,False,False,False
+Best Instrumental Soloist Performance (With Orchestra),False,False,False
+Best Instrumental Soloist Performance (Without Orchestra),False,False,False
+Best Latin Jazz Performance,False,False,False
+Best Male Country Vocal Performance,False,False,False
+Best Male Pop Vocal Performance,False,False,False
+Best Male R&B Vocal Performance,False,False,False
+Best Male Rock Vocal Performance,False,False,False
+Best Pop Album,True,False,False
+Best Pop Perf. By A Duo Of Group With Vocal,False,False,False
+Best Pop Vocal Collaboration,False,False,False
+Best R&B Album,True,False,False
+Best Recording Package - Boxed,False,False,False
+Best Rock Album,True,False,False
+"Best Southern Gospel, Country Gospel Or Bluegrass Album",True,False,False
+Best Country Collaboration With Vocals,False,False,False
+Best Instrumental Arrangement With Accompanying Vocal(s),False,False,False
+Best Instrumental Soloist(s) Performance (With Orchestra),False,False,False
+Best Mexican-American/Tejano Music Performance,False,False,False
+Best Pop Collaboration With Vocals,False,False,False
+Best Rap Album,True,False,False
+"Best Southern Gospel, Country Gospel or Bluegrass Gospel Album",True,False,False
+Best Small Ensemble Performance (With or Without Conductor),False,False,False
+Best Boxed Recording Package,False,False,False
+Best Dance Recording,False,False,False
+"Best Engineered Album, Classical",True,False,False
+Best Gospel Choir Or Chorus Album,True,False,False
+Best Latin Rock/Alternative Performance,False,False,False
+Best Long Form Music Video,False,False,False
+Best Short Form Music Video,False,False,False
+Best Small Ensemble Performance (With Or Without Conductor),False,False,False
+"Best Southern, Country Or Bluegrass Gospel Album",True,False,False
+Best Spoken Word Album,True,False,False
+"Producer Of The Year, Classical",False,False,False
+"Remixer Of The Year, Non-Classical",False,False,False
+Best Classical Crossover Album,True,False,False
+Best Mexican-American Music Performance,False,False,False
+Best Song Written For A Motion Picture Or For Television,False,True,False
+"Best Southern, Country, Or Bluegrass Gospel Album",True,False,False
+Best Tejano Music Performance,False,False,False
+Best Traditional R&B Vocal Performance,False,False,False
+"Remixer Of The Year, Non-classical",False,False,False
+Best Instrumental Arrangement Accompanying Vocalist(s),False,False,False
+"Best Instrumental Composition Written For A Motion Picture, Television Or Other Visual Media.",False,False,False
+"Best Jazz Instrumental Performance, Individual or Group",False,False,False
+Best Merengue Performance,False,False,False
+Best Salsa Performance,False,False,False
+"Best Song Written For A Motion Picture, Television Or Other Visual Media.",False,True,False
+Best Soundtrack Album,True,False,False
+Best Tejano Performance,False,False,False
+Best Traditional Tropical Latin Performance,False,False,False
+"Remixer of the Year, Non-Classical",False,False,False
+"Best Compilation Soundtrack Album For A Motion Picture, Television Or Other Visual Media",True,False,False
+Best Contemporary Jazz Album,True,False,False
+"Best Engineered Album, Non-Classical",True,False,False
+Best Instrumental Arrangement Accompanying A Vocalist(s),False,False,False
+Best Instrumental Soloist Performance (without Orchestra),False,False,False
+Best Instrumental Soloist(s) Performance (with Orchestra),False,False,False
+"Best Jazz Instrumental Album, Individual or Group",True,False,False
+Best Jazz Vocal Album,True,False,False
+Best Large Jazz Ensemble Album,True,False,False
+Best Latin Jazz Album,True,False,False
+Best Latin Rock/Alternative Album,True,False,False
+Best Merengue Album,True,False,False
+Best Mexican/Mexican-American Album,True,False,False
+Best Native American Music Album,True,False,False
+Best Pop Instrumental Album,True,False,False
+Best Pop Vocal Album,True,False,False
+Best R&B Song,False,True,False
+Best Salsa Album,True,False,False
+"Best Score Soundtrack Album For A Motion Picture, Television Or Other Visual Media",True,False,False
+Best Small Ensemble Performance (with or without Conductor),False,False,False
+"Best Southern, Country, or Bluegrass Gospel Album",True,False,False
+Best Spoken Word Album for Children,True,False,False
+Best Tejano Album,True,False,False
+Best Traditional Pop Vocal Album,True,False,False
+Best Traditional R&B Vocal Album,True,False,False
+Best Traditional Tropical Latin Album,True,False,False
+Best Rap/Sung Collaboration,False,False,False
+"Best Remixed Recording, Non-Classical",False,False,False
+Best Boxed Or Special Limited Edition Package,False,False,False
+Best Contemporary R&B Album,True,False,False
+Best Female Rap Solo Performance,False,False,False
+Best Male Rap Solo Performance,False,False,False
+"Best Song Written For A Motion Picture, Television Or Other Visual Media",False,True,False
+Best Urban/Alternative Performance,False,False,False
+Best Contemporary World Music Album,True,False,False
+Best R&B Performance By A Duo Or Group With Vocals,False,False,False
+Best Rap Song,False,True,False
+Best Salsa/Merengue Album,True,False,False
+Best Traditional World Music Album,True,False,False
+Best Electronic/Dance Album,True,False,False
+Best Hawaiian Music Album,True,False,False
+Best Solo Rock Vocal Performance,False,False,False
+Best Surround Sound Album,True,False,False
+"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",True,False,False
+Best Gospel Song,False,True,False
+"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",True,False,False
+"Best Song Written For Motion Picture, Television Or Other Visual Media",False,True,False
+Best Banda Album,True,False,False
+Best Contemporary Folk/Americana Album,True,False,False
+Best Contemporary R&B Gospel Album,True,False,False
+"Best Latin Rock, Alternative Or Urban Album",True,False,False
+Best Norteño Album,True,False,False
+Best Rock Or Rap Gospel Album,True,False,False
+Best Small Ensemble Performance,False,False,False
+"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)",True,False,False
+Best Traditional Gospel Album,True,False,False
+Best Country Performance By A Duo Or Group With Vocals,False,False,False
+Best Latin Rock Or Alternative Album,True,False,False
+Best Latin Urban Album,True,False,False
+Best Pop Performance By A Duo Or Group With Vocals,False,False,False
+Best Rock Performance By A Duo Or Group With Vocals,False,False,False
+Best Zydeco Or Cajun Music Album,True,False,False
+Best Regional Mexican Album,True,False,False
+Best Americana Album,True,False,False
+Best Improvised Jazz Solo,False,False,False
+Album Notes,True,False,False
+Alternative Music Album,True,False,False
+Americana Album,True,False,False
+Banda Album,True,False,False
+Bluegrass Album,True,False,False
+Boxed Or Special Limited Edition Package,False,False,False
+Chamber Music Performance,False,False,False
+Choral Performance,False,False,False
+Classical Album,True,False,False
+Classical Contemporary Composition,False,False,False
+Classical Crossover,False,False,False
+Classical Vocal Performance,False,False,False
+Comedy Album,True,False,False
+Compilation Soundtrack Album,True,False,False
+Contemporary Blues Album,True,False,False
+Contemporary Folk Album,True,False,False
+Contemporary Jazz Album,True,False,False
+Contemporary R&B Album,True,False,False
+Contemporary R&B Gospel Album,True,False,False
+Contemporary World Music Album,True,False,False
+Country Album,True,False,False
+Country Collaboration With Vocal,False,False,False
+Country Instrumental Performance,False,False,False
+Country Performance By A Duo Or Group With Vocals,False,False,False
+Country Song,False,True,False
+Dance Recording,False,False,False
+Electronic/Dance Album,True,False,False
+"Engineered Album, Classical",True,False,False
+"Engineered Album, Non-Classical",True,False,False
+Female Country Vocal Performance,False,False,False
+Female Pop Vocal Performance,False,False,False
+Female R&B Vocal Performance,False,False,False
+Gospel Performance,False,False,False
+Gospel Song,False,True,False
+Hard Rock Performance,False,False,False
+Hawaiian Music Album,True,False,False
+Historical Album,True,False,False
+Improvised Jazz Solo,False,False,False
+Instrumental Arrangement,False,False,False
+Instrumental Arrangement With Vocalist(s),False,False,False
+Instrumental Composition,False,False,False
+Instrumental Soloist Performance (without Orchestr,False,False,False
+Instrumental Soloist(s) Performance (with Orchestr,False,False,False
+"Jazz Instrumental Album, Individual or Group",True,False,False
+Jazz Vocal Album,True,False,False
+Large Jazz Ensemble Album,True,False,False
+Latin Jazz Album,True,False,False
+Latin Pop Album,True,False,False
+"Latin Rock, Alternative Or Urban Album",True,False,False
+Male Country Vocal Performance,False,False,False
+Male Pop Vocal Performance,False,False,False
+Male R&B Vocal Performance,False,False,False
+Metal Performance,False,False,False
+Music Video/Long Form,False,False,False
+Music Video/Short Form,False,False,False
+Musical Album For Children,True,False,False
+Musical Show Album,True,False,False
+Native American Music Album,True,False,False
+New Age Album,True,False,False
+Norteño Album,True,False,False
+Opera Recording,False,False,False
+Orchestral Performance,False,False,False
+Pop Collaboration With Vocals,False,False,False
+Pop Instrumental Album,True,False,False
+Pop Instrumental Performance,False,False,False
+Pop Performance By A Duo Or Group With Vocals,False,False,False
+Pop Vocal Album,True,False,False
+Pop/Contemporary Gospel Album,True,False,False
+R&B Album,True,False,False
+R&B Performance By A Duo Or Group With Vocals,False,False,False
+R&B Song,False,True,False
+Rap Album,True,False,False
+Rap Duo/Group Performance,False,False,False
+Rap Solo Performance,False,False,False
+Rap Song,False,True,False
+Rap/Sung Collaboration,False,False,False
+Recording Package,False,False,False
+Reggae Album,True,False,False
+Rock Album,True,False,False
+Rock Instrumental Performance,False,False,False
+Rock Or Rap Gospel Album,True,False,False
+Rock Performance By A Duo Or Group With Vocals,False,False,False
+Rock Song,False,True,False
+Score Soundtrack Album,True,False,False
+Small Ensemble Performance,False,False,False
+Solo Rock Vocal Performance,False,False,False
+Song MP/TV/OVM,False,True,False
+"Southern, Country, Or Bluegrass Gospel Album",True,False,False
+Spoken Word Album,True,False,False
+Spoken Word Album For Children,True,False,False
+Surround Sound Album,True,False,False
+Tejano Album,True,False,False
+Traditional Blues Album,True,False,False
+Traditional Folk Album,True,False,False
+Traditional Gospel Album,True,False,False
+Traditional Pop Vocal Album,True,False,False
+Traditional R&B Vocal Performance,False,False,False
+Traditional World Music Album,True,False,False
+Tropical Latin Album,True,False,False
+Urban/Alternative Performance,False,False,False
+Zydeco Or Cajun Music album,True,False,False
+Banda Or Norteño Album,True,False,False
+Blues Album,True,False,False
+Children's Album,True,False,False
+Classical Vocal Solo,False,False,False
+Contemporary Christian Music Album,True,False,False
+Contemporary Christian Music Song,False,True,False
+Contemporary Classical Composition,False,False,False
+Country Duo/Group Performance,False,False,False
+Country Solo Performance,False,False,False
+Dance/Electronica Album,True,False,False
+Folk Album,True,False,False
+Gospel Album,True,False,False
+Gospel/Contemporary Christian Music Performance,False,False,False
+Hard Rock/Metal Performance,False,False,False
+Instrumental Solo,False,False,False
+Jazz Instrumental Album,True,False,False
+"Latin Pop, Rock, Or Urban Album",True,False,False
+Musical Theater Album,True,False,False
+Pop Duo/Group Performance,False,False,False
+Pop Solo Performance,False,False,False
+R&B Performance,False,False,False
+Rap Performance,False,False,False
+Regional Mexican Or Tejano Album,True,False,False
+Regional Roots Music Album,True,False,False
+Rock Performance,False,False,False
+Song Written For Visual Media,False,True,False
+Traditional R&B Performance,False,False,False
+World Music Album,True,False,False
+Best Blues Album,True,False,False
+Best Chamber Music/Small Ensemble Performance,False,False,False
+Best Children's Album,True,False,False
+Best Classical Compendium,False,False,False
+Best Classical Instrumental Solo,False,False,False
+Best Classical Vocal Solo,False,False,False
+Best Compilation Soundtrack For Visual Media,False,False,False
+Best Contemporary Christian Music Album,True,False,False
+Best Contemporary Christian Music Song,False,True,False
+Best Country Duo/Group Performance,False,False,False
+Best Country Solo Performance,False,False,False
+Best Dance/Electronica Album,True,False,False
+Best Folk Album,True,False,False
+Best Gospel Album,True,False,False
+Best Gospel/Contemporary Christian Music Performance,False,False,False
+Best Hard Rock/Metal Performance,False,False,False
+Best Jazz Instrumental Album,True,False,False
+"Best Latin Rock, Urban or Alternative Album",True,False,False
+Best Musical Theater Album,True,False,False
+Best Pop Duo/Group Performance,False,False,False
+Best Pop Solo Performance,False,False,False
+Best R&B Performance,False,False,False
+Best Regional Mexican Music Album (Including Tejano),True,False,False
+Best Regional Roots Music Album,True,False,False
+Best Rock Performance,False,False,False
+Best Score Soundtrack For Visual Media,False,False,False
+Best Song Written For Visual Media,False,True,False
+"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",True,False,False
+Best Traditional R&B Performance,False,False,False
+Best Urban Contemporary Album,True,False,False
+Best American Roots Song,False,True,False
+Best Music Film,False,False,False
+Best Music Video,False,False,False
+Best American Roots Performance,False,False,False
+"Best Arrangement, Instrumental or A Cappella",False,False,False
+"Best Arrangement, Instruments and Vocals",False,False,False
+Best Classical Solo Vocal Album,True,False,False
+Best Contemporary Christian Music Performance/Song,False,True,False
+Best Contemporary Instrumental Album,True,False,False
+Best Dance/Electronic Album,True,False,False
+Best Gospel Performance/Song,False,True,False
+Best Roots Gospel Album,True,False,False
+Best Remixed Recording,False,False,False
+Best Rap/Sung Performance,False,False,False
+Best Immersive Audio Album,True,False,False
+Best Children's Music Album,True,False,False
+Best Global Music Album,True,False,False
+Best Latin Pop or Urban Album,True,False,False
+Best Latin Rock or Alternative Album,True,False,False
+Best Melodic Rap Performance,False,False,False
+Best Progressive R&B Album,True,False,False
+Best Dance/Electronic Music Album,True,False,False
+Best Dance/Electronic Recording,False,False,False
+Best Global Music Performance,False,False,False
+Best Música Urbana Album,True,False,False
+Best Americana Performance,False,False,False
+"Best Audio Book, Narration, and Storytelling Recording",False,False,False
+"Best New Age, Ambient, or Chant Album",True,False,False
+Best Score Soundtrack For Visual Media (Includes Film And Television),False,False,False
+Best Score Soundtrack for Video Games and Other Interactive Media,False,False,False
+Best Spoken Word Poetry Album,True,False,False
+"Songwriter of the Year, Non-Classical",False,True,False
+Best African Music Performance,False,False,False
+Best Alternative Jazz Album,True,False,False
+Best Jazz Performance,False,False,False
+Best Música Mexicana Album (Including Tejano),True,False,False
+Best Pop Dance Recording,False,False,False
+Best Dance Pop Recording,False,False,False
+Best Contemporary Country Album,True,False,False
+Best Traditional Country Album,True,False,False
+"Songwriter Of The Year, Non-Classical",False,True,False
