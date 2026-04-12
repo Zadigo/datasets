@@ -1,0 +1,41 @@
+GP - Games Played
+W - Wins
+L - Losses
+MIN - Minutes Played
+OFFRTG - Offensive Rating
+DEFRTG - Defensive Rating
+NETRTGNet Rating
+
+AST% - Assist Percentage
+AST/TO - Assist to Turnover Ratio
+AST RATIO - Assist Ratio
+
+OREB% - Offensive Rebounding Percentage
+DREB% - Defensive Rebounding Percentage
+REB% - Rebounding Percentage
+TO RATIO - Turnover Ratio
+EFG% - Effective Field Goal Percentage
+TS% - True Shooting Percentage
+USG% - Usage Percentage
+PACE - Pace
+PIE - Player Impact Estimate
+POSS - Possessions
+
+%FGA 2PT - Percent of Field Goals Attempted (2 Pointers)%FGA
+%FGA 3PT - Percent of Field Goals Attempted (3 Pointers)%PTS
+%PTS 2PT - Percent of Points (2 Pointers)
+
+%PTS 2PT MR - Percent of Points (Mid-Range)
+%PTS 3PT - Percent of Points (3 Pointers)
+%PTS FBPs - Percent of Points (Fast Break Points)
+%PTS FT - Percent of Points (Free Throws)
+%PTS OFFTO - Percent of Points (Off Turnovers)
+
+%PTS PITP - Percent of Points (Points in the Paint)
+2FGM %AST - Percent of 2 Point Field Goals Made Assisted
+2FGM %UAST - Percent of 2 Point Field Goals Made Unassisted
+3FGM %AST - Percent of 3 Point Field Goals Made
+
+%UAST - Percent of 3 Point Field Goals Made Unassisted
+FGM %AST - Percent of Point Field Goals Made Assisted
+FGM %UAST - Percent of Point Field Goals Made Unassisted
