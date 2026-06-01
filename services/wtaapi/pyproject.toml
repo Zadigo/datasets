@@ -1,0 +1,33 @@
+[project]
+name = "wta"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi[standard]>=0.136.3",
+    "httpx>=0.28.1",
+    "pydantic>=2.13.4",
+    "redis>=8.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-aio>=2.1.7",
+    "pytest-cov>=7.1.0",
+    "pytest-env>=1.6.0",
+    "pytest-playwright>=0.8.0",
+]
+
+[tool.pyright]
+typeCheckingMode = "off"
+reportMissingImports = true
+reportUntypedBaseClass = true
+
+[tool.pytest_env]
+env_files = [".env", ".env.test"]
+
+[tool.pytest.ini_options]
+addopts = "--cov=wta --cov-report=xml --cov-report=html"

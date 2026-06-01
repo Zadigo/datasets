@@ -1,3 +1,10 @@
 {
     "jupyter.debugJustMyCode": true,
+    "python-envs.pythonProjects": [
+        {
+            "path": "services/wtaapi",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
 }
