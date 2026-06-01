@@ -1,0 +1,59 @@
+{
+    "001": {
+        "name": "World",
+        "children": {
+            "002": {
+                "name": "Africa",
+                "children": {
+                    "014": "Eastern Africa",
+                    "017": "Middle Africa",
+                    "015": "Northern Africa",
+                    "018": "Southern Africa",
+                    "011": "Western Africa"
+                }
+            },
+            "019": {
+                "name": "Americas",
+                "children": {
+                    "021": "Northern America",
+                    "419": {
+                        "name": "Latin America and the Caribbean",
+                        "children": {
+                            "029": "Caribbean",
+                            "013": "Central America",
+                            "005": "South America"
+                        }
+                    }
+                }
+            },
+            "142": {
+                "name": "Asia",
+                "children": {
+                    "143": "Central Asia",
+                    "030": "Eastern Asia",
+                    "035": "South-Eastern Asia",
+                    "034": "Southern Asia",
+                    "145": "Western Asia"
+                }
+            },
+            "150": {
+                "name": "Europe",
+                "children": {
+                    "151": "Eastern Europe",
+                    "154": "Northern Europe",
+                    "039": "Southern Europe",
+                    "155": "Western Europe"
+                }
+            },
+            "009": {
+                "name": "Oceania",
+                "children": {
+                    "053": "Australia and New Zealand",
+                    "054": "Melanesia",
+                    "057": "Micronesia",
+                    "061": "Polynesia"
+                }
+            }
+        }
+    }
+}
