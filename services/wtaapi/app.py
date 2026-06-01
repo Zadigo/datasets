@@ -1,9 +1,11 @@
+from typing import Optional
+
 import redis
 import json
 from fastapi import FastAPI
 import dotenv
 import pathlib
-from wtaapi.models import ResponseModel
+from models import ResponseModel
 from contextlib import asynccontextmanager
 
 dotenv.load_dotenv('.env')
@@ -11,32 +13,6 @@ dotenv.load_dotenv('.env')
 DB_KEY = 'wta-players'
 
 DATA_DIR = pathlib.Path(dotenv.get_key('.env', 'DATA_DIR'))
-
-
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    # Initialize Redis client and load data into Redis
-    db = get_redis_client()
-    files = DATA_DIR.glob("*.json")
-    for file in files:
-        db.hset(
-            f'{DB_KEY}:{file.stem}',
-            mapping={
-                'path': str(file),
-                'name': file.stem,
-                'player_name': file.stem.replace('_', ' ').replace('corrected', '').strip(),
-                'content': None
-            }
-        )
-    yield
-
-
-app = FastAPI(
-    title="WTA data explorer",
-    summary="A simple API to explore WTA data",
-    description="A simple API to explore WTA data",
-    lifespan=lifespan
-)
 
 
 def get_redis_client() -> redis.Redis:
@@ -49,34 +25,62 @@ def get_redis_client() -> redis.Redis:
     return client
 
 
-@app.get("/v1/players", response_model=ResponseModel)
-async def root(player: str = None) -> ResponseModel:
-    if player is None:
-        return ResponseModel(results=[{"message": "Please provide a player name to search for."}])
+async def load_files():
+    db = get_redis_client()
+    files = DATA_DIR.glob("*.json")
+    for file in files:
+        db.hset(
+            f'{DB_KEY}:{file.stem}',
+            mapping={
+                'path': str(file),
+                'name': file.stem,
+                'player_name': file.stem.replace('_', ' ').replace('corrected', '').strip(),
+                'content': b''
+            }
+        )
 
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Initialize Redis client and load data into Redis
+    await load_files()
+    yield
+
+
+app = FastAPI(
+    title="WTA data explorer",
+    summary="A simple API to explore WTA data",
+    description="A simple API to explore WTA data",
+    lifespan=lifespan
+)
+
+
+@app.get("/v1/players", response_model=ResponseModel)
+async def root() -> ResponseModel:
+    return ResponseModel(results=[{"message": "Welcome to the WTA data explorer API! Use /v1/players/{player_name} to get player data."}])
+
+
+@app.get("/v1/players/{player_name}", response_model=ResponseModel)
+async def get_player(player_name: str):
     # Try to get the content from Redis. If it doesn't exist,
     # load it from the file and store it in Redis for future requests.
     db = get_redis_client()
-    content = db.hget(f'{DB_KEY}:{player}_corrected', 'content')
-    if content is None:
-        path = db.hget(f'{DB_KEY}:{player}_corrected', 'path')
-        if path is None:
-            return ResponseModel(results=[{"message": f"No data found for player: {player}"}])
+    key = f'{DB_KEY}:{player_name}_corrected'
+    content = db.hget(key, 'content')
+    if content == b'':
+        path = db.hget(key, 'path')
+        if path == b'':
+            return ResponseModel(results=[{"message": f"No data found for player: {player_name}"}])
 
         # Load the content from the file and store
         # it in Redis for future requests
         path = pathlib.Path(path.decode('utf-8'))
         with path.open() as f:
             content = json.load(f)
-            db.hset(
-                f'{DB_KEY}:{player}_corrected',
+            db.hsetex(
+                key,
+                exat=(15 * 60),  # Cache for 15 minutes
                 mapping={'content': json.dumps(content)}
             )
 
-    json_data = json.loads(content)
-    return ResponseModel(results=json_data)
-
-
-@app.get("/v1/players/{player_id}")
-async def get_player(player_id: int):
-    return {"message": f"Player ID: {player_id}"}
+    return ResponseModel(results=content)
