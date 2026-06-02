@@ -64,3 +64,38 @@ class PlayerModel(pydantic.BaseModel):
 
 class ResponseModel(pydantic.BaseModel):
     results: list[PlayerModel | dict[str, Any]]
+
+
+class FlatPlayerModel(PlayerModel, PlayerModelMatchModel):
+    """A model that combines the fields of PlayerModel and 
+    PlayerModelMatchModel for flattened data."""
+
+    tour_code_alpha_2: Optional[str] = Field(None)
+    tour_code_alpha_3: Optional[str] = Field(None)
+    tour_country_code_m49: Optional[int] = Field(None)
+    tour_region_code: Optional[str] = Field(None)
+    tour_region: Optional[str] = Field(None)
+    tour_subregion: Optional[str] = Field(None)
+    tour_fifa: Optional[str] = Field(None)
+
+
+class StatisticsModel(pydantic.BaseModel):
+    years: list[int] = Field(default_factory=lambda: [])
+    min_year: Optional[int] = Field(None)
+    max_year: Optional[int] = Field(None)
+    surfaces: list[str] = Field(default_factory=lambda: [])
+    levels: list[str] = Field(default_factory=lambda: [])
+    cities: list[str] = Field(default_factory=lambda: [])
+    countries: list[str] = Field(default_factory=lambda: [])
+    code_alpha_2: list[str] = Field(default_factory=lambda: [])
+    code_alpha_3: list[str] = Field(default_factory=lambda: [])
+    country_code_m49: list[int] = Field(default_factory=lambda: [])
+    number_of_matches: int = Field(..., ge=0)
+    number_of_tournaments: int = Field(..., ge=0)
+    wins: int = Field(..., ge=0)
+    losses: int = Field(..., ge=0)
+    wins_by_surface: dict[str, int] = Field(default_factory=lambda: {})
+    losses_by_surface: dict[str, int] = Field(default_factory=lambda: {})
+    min_date: Optional[str] = Field(None)
+    max_date: Optional[str] = Field(None)
+    win_percentage: float = Field(..., ge=0.0, le=100.0)

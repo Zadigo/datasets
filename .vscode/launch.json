@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Services: WTA API",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "uvicorn",
+            "cwd": "${workspaceFolder}/services/wtaapi",
+            "envFile": "${workspaceFolder}/services/wtaapi/.env",
+            "args": [
+                "app:app",
+                "--reload"
+            ],
+            "jinja": true,
+            "presentation": {
+                "hidden": false,
+                "group": "Python",
+                "order": 1
+            }
+        }
+    ]
+}
