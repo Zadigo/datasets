@@ -25,6 +25,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         4,
@@ -73,6 +74,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -116,6 +118,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -164,6 +167,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -216,6 +220,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -264,6 +269,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -307,6 +313,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -369,6 +376,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         4,
@@ -417,6 +425,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -465,6 +474,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -508,6 +518,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -572,6 +583,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -620,6 +632,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -663,6 +676,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -725,6 +739,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -773,6 +788,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -816,6 +832,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -864,6 +881,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -912,6 +930,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -964,6 +983,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -1012,6 +1032,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -1074,6 +1095,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -1120,6 +1142,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -1163,6 +1186,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -1225,6 +1249,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         4,
@@ -1273,6 +1298,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -1316,6 +1342,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         2,
@@ -1364,6 +1391,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -1407,6 +1435,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -1469,6 +1498,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -1512,6 +1542,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -1574,6 +1605,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         1,
@@ -1617,6 +1649,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -1665,6 +1698,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -1717,6 +1751,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -1760,6 +1795,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -1833,6 +1869,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -1876,6 +1913,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         1,
@@ -1926,6 +1964,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -1969,6 +2008,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2042,6 +2082,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -2085,6 +2126,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         3,
@@ -2137,6 +2179,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2209,6 +2252,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2256,6 +2300,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2299,6 +2344,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2342,6 +2388,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2385,6 +2432,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2428,6 +2476,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -2490,6 +2539,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         1,
@@ -2537,6 +2587,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2580,6 +2631,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         4,
@@ -2628,6 +2680,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2676,6 +2729,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2719,6 +2773,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -2781,6 +2836,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -2824,6 +2880,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -2867,6 +2924,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -2910,6 +2968,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -2988,6 +3047,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -3036,6 +3096,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -3079,6 +3140,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -3111,6 +3173,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -3154,6 +3217,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -3216,6 +3280,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         1,
@@ -3259,6 +3324,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -3307,6 +3373,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -3359,6 +3426,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -3421,6 +3489,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -3499,6 +3568,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -3542,6 +3612,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -3604,6 +3675,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -3652,6 +3724,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -3695,6 +3768,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -3747,6 +3821,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -3790,6 +3865,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -3833,6 +3909,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -3876,6 +3953,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -3949,6 +4027,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -3992,6 +4071,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -4040,6 +4120,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -4083,6 +4164,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -4131,6 +4213,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -4174,6 +4257,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -4222,6 +4306,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -4284,6 +4369,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         3,
@@ -4327,6 +4413,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -4370,6 +4457,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -4413,6 +4501,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -4456,6 +4545,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -4503,6 +4593,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         0,
@@ -4551,6 +4642,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -4615,6 +4707,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -4658,6 +4751,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -4701,6 +4795,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -4763,6 +4858,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -4806,6 +4902,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -4849,6 +4946,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -4896,6 +4994,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -4958,6 +5057,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -5006,6 +5106,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -5049,6 +5150,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -5097,6 +5199,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -5159,6 +5262,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -5206,6 +5310,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -5268,6 +5373,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -5311,6 +5417,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -5373,6 +5480,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -5418,6 +5526,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -5466,6 +5575,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -5509,6 +5619,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -5557,6 +5668,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -5634,6 +5746,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -5677,6 +5790,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -5720,6 +5834,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -5763,6 +5878,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -5806,6 +5922,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -5879,6 +5996,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         3,
@@ -5927,6 +6045,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -5970,6 +6089,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -6013,6 +6133,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -6060,6 +6181,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -6132,6 +6254,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -6180,6 +6303,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -6223,6 +6347,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -6266,6 +6391,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -6309,6 +6435,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -6371,6 +6498,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -6414,6 +6542,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -6464,6 +6593,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -6512,6 +6642,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -6558,6 +6689,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -6606,6 +6738,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -6649,6 +6782,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -6711,6 +6845,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -6763,6 +6898,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -6811,6 +6947,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -6854,6 +6991,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -6927,6 +7065,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -6975,6 +7114,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -7037,6 +7177,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -7080,6 +7221,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -7123,6 +7265,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -7185,6 +7328,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -7228,6 +7372,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -7271,6 +7416,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -7342,6 +7488,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -7389,6 +7536,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -7437,6 +7585,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -7480,6 +7629,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -7562,6 +7712,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         5,
@@ -7609,6 +7760,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -7650,6 +7802,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -7693,6 +7846,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -7755,6 +7909,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -7798,6 +7953,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -7846,6 +8002,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -7889,6 +8046,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -7932,6 +8090,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -7975,6 +8134,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -8048,6 +8208,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -8091,6 +8252,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -8134,6 +8296,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -8184,6 +8347,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -8232,6 +8396,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -8275,6 +8440,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -8337,6 +8503,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -8389,6 +8556,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -8432,6 +8600,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -8475,6 +8644,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -8539,6 +8709,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -8587,6 +8758,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -8639,6 +8811,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -8701,6 +8874,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -8749,6 +8923,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -8792,6 +8967,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -8835,6 +9011,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -8897,6 +9074,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         4,
@@ -8945,6 +9123,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -8988,6 +9167,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -9031,6 +9211,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -9074,6 +9255,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         2,
@@ -9122,6 +9304,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -9184,6 +9367,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -9232,6 +9416,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -9280,6 +9465,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -9323,6 +9509,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -9385,6 +9572,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -9428,6 +9616,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -9490,6 +9679,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -9533,6 +9723,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -9581,6 +9772,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -9624,6 +9816,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -9671,6 +9864,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -9718,6 +9912,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -9791,6 +9986,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -9839,6 +10035,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -9886,6 +10083,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -9929,6 +10127,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -9972,6 +10171,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -10049,6 +10249,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -10096,6 +10297,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         0,
@@ -10139,6 +10341,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -10182,6 +10385,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         5,
@@ -10262,6 +10466,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -10305,6 +10510,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -10348,6 +10554,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -10391,6 +10598,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -10439,6 +10647,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -10512,6 +10721,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -10560,6 +10770,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -10603,6 +10814,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -10646,6 +10858,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -10694,6 +10907,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -10742,6 +10956,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -10785,6 +11000,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -10863,6 +11079,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -10906,6 +11123,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -10954,6 +11172,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -10997,6 +11216,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11040,6 +11260,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11083,6 +11304,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -11145,6 +11367,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -11197,6 +11420,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11240,6 +11464,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11288,6 +11513,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -11350,6 +11576,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11393,6 +11620,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11436,6 +11664,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11479,6 +11708,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11526,6 +11756,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -11588,6 +11819,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -11675,6 +11907,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -11722,6 +11955,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11769,6 +12003,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11817,6 +12052,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -11899,6 +12135,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -11942,6 +12179,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -12015,6 +12253,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -12058,6 +12297,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -12101,6 +12341,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -12149,6 +12390,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -12192,6 +12434,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -12270,6 +12513,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -12318,6 +12562,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -12361,6 +12606,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -12423,6 +12669,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -12468,6 +12715,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -12513,6 +12761,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -12577,6 +12826,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -12620,6 +12870,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -12698,6 +12949,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -12769,6 +13021,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -12817,6 +13070,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -12860,6 +13114,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -12922,6 +13177,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -12965,6 +13221,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13013,6 +13270,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13056,6 +13314,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13101,6 +13360,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -13163,6 +13423,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -13206,6 +13467,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13253,6 +13515,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -13285,6 +13548,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13328,6 +13592,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -13390,6 +13655,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -13438,6 +13704,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -13481,6 +13748,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -13543,6 +13811,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -13586,6 +13855,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13633,6 +13903,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -13681,6 +13952,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13754,6 +14026,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13797,6 +14070,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13840,6 +14114,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13883,6 +14158,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -13930,6 +14206,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -14003,6 +14280,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -14074,6 +14352,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -14117,6 +14396,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -14160,6 +14440,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -14232,6 +14513,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -14280,6 +14562,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -14323,6 +14606,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -14366,6 +14650,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -14431,6 +14716,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         0,
@@ -14474,6 +14760,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -14522,6 +14809,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -14599,6 +14887,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -14642,6 +14931,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -14685,6 +14975,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -14732,6 +15023,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -14775,6 +15067,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -14848,6 +15141,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -14924,6 +15218,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         4,
@@ -14967,6 +15262,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -15015,6 +15311,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -15063,6 +15360,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -15140,6 +15438,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -15185,6 +15484,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -15228,6 +15528,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -15301,6 +15602,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -15353,6 +15655,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -15396,6 +15699,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -15478,6 +15782,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -15521,6 +15826,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -15564,6 +15870,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -15607,6 +15914,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -15684,6 +15992,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         1,
@@ -15727,6 +16036,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -15770,6 +16080,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -15817,6 +16128,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -15860,6 +16172,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -15903,6 +16216,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -15946,6 +16260,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -16019,6 +16334,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -16062,6 +16378,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -16109,6 +16426,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -16182,6 +16500,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -16225,6 +16544,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -16273,6 +16593,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -16348,6 +16669,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -16421,6 +16743,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -16464,6 +16787,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -16507,6 +16831,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -16550,6 +16875,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -16612,6 +16938,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -16655,6 +16982,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -16702,6 +17030,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -16764,6 +17093,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -16807,6 +17137,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -16852,6 +17183,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -16895,6 +17227,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -16972,6 +17305,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -17049,6 +17383,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -17122,6 +17457,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -17174,6 +17510,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -17217,6 +17554,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -17265,6 +17603,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -17338,6 +17677,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -17386,6 +17726,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -17459,6 +17800,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -17504,6 +17846,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -17552,6 +17895,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -17614,6 +17958,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -17661,6 +18006,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -17739,6 +18085,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -17787,6 +18134,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -17860,6 +18208,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         4,
@@ -17903,6 +18252,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -17940,6 +18290,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -17981,6 +18332,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -18054,6 +18406,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -18097,6 +18450,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -18140,6 +18494,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -18183,6 +18538,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -18266,6 +18622,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -18314,6 +18671,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         0,
@@ -18392,6 +18750,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -18435,6 +18794,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -18478,6 +18838,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -18523,6 +18884,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -18566,6 +18928,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -18639,6 +19002,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -18682,6 +19046,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -18730,6 +19095,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -18777,6 +19143,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -18820,6 +19187,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -18893,6 +19261,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -18936,6 +19305,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -18982,6 +19352,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -19025,6 +19396,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -19073,6 +19445,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -19151,6 +19524,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -19231,6 +19605,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -19274,6 +19649,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -19321,6 +19697,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -19369,6 +19746,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -19442,6 +19820,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -19490,6 +19869,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [],
                 "number_of_sets": 0,
                 "first_set_won": false,
@@ -19552,6 +19932,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -19595,6 +19976,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -19638,6 +20020,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -19686,6 +20069,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -19765,6 +20149,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -19813,6 +20198,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -19865,6 +20251,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -19913,6 +20300,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -19961,6 +20349,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -20009,6 +20398,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -20088,6 +20478,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -20131,6 +20522,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -20204,6 +20596,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -20257,6 +20650,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -20335,6 +20729,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -20378,6 +20773,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -20451,6 +20847,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": true,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -20499,6 +20896,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -20542,6 +20940,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -20585,6 +20984,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -20659,6 +21059,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -20707,6 +21108,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -20785,6 +21187,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -20835,6 +21238,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -20908,6 +21312,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -20986,6 +21391,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         1,
@@ -21059,6 +21465,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -21106,6 +21513,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -21154,6 +21562,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -21202,6 +21611,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -21279,6 +21689,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -21331,6 +21742,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -21374,6 +21786,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -21422,6 +21835,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -21499,6 +21913,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -21547,6 +21962,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -21620,6 +22036,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -21693,6 +22110,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -21741,6 +22159,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -21784,6 +22203,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -21827,6 +22247,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -21878,6 +22299,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -21921,6 +22343,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -21964,6 +22387,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -22043,6 +22467,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -22086,6 +22511,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -22134,6 +22560,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -22213,6 +22640,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -22256,6 +22684,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -22299,6 +22728,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -22377,6 +22807,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -22420,6 +22851,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         3,
@@ -22468,6 +22900,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -22511,6 +22944,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -22558,6 +22992,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -22601,6 +23036,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -22644,6 +23080,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -22725,6 +23162,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -22768,6 +23206,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -22842,6 +23281,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         0,
@@ -22890,6 +23330,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -22938,6 +23379,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -23010,6 +23452,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         1,
@@ -23086,6 +23529,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         0,
@@ -23138,6 +23582,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -23181,6 +23626,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -23224,6 +23670,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -23267,6 +23714,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -23344,6 +23792,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         4,
@@ -23416,6 +23865,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -23459,6 +23909,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -23542,6 +23993,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -23621,6 +24073,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -23699,6 +24152,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -23747,6 +24201,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -23795,6 +24250,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -23842,6 +24298,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         7,
@@ -23889,6 +24346,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -23963,6 +24421,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -24006,6 +24465,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": true,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         7,
@@ -24088,6 +24548,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         3,
@@ -24131,6 +24592,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -24203,6 +24665,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         4,
@@ -24282,6 +24745,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         5,
@@ -24325,6 +24789,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -24377,6 +24842,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -24429,6 +24895,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         2,
@@ -24481,6 +24948,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -24554,6 +25022,7 @@
                 "first_set_tiebreak": true,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": true,
                 "splitted_score": [
                     [
                         6,
@@ -24601,6 +25070,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -24644,6 +25114,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -24687,6 +25158,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,
@@ -24730,6 +25202,7 @@
                 "first_set_tiebreak": false,
                 "second_set_tiebreak": false,
                 "third_set_tiebreak": false,
+                "has_tiebreak": false,
                 "splitted_score": [
                     [
                         6,

@@ -262,17 +262,24 @@ def score_analysis(data: dict[str, str], value: str):
     _str_scores = value.split(',')
     str_scores = list(filter(lambda x: x.strip() != '', _str_scores))
 
+    # Check the tiebreaks for each set and add them
+    #  as separate fields in the data dictionary
     data['first_set_tiebreak'] = False
     data['second_set_tiebreak'] = False
     data['third_set_tiebreak'] = False
 
-    # Check if the first set is a tiebreak
     if len(str_scores) > 1:
         data['first_set_tiebreak'] = _is_tibreak(str_scores[0])
         data['second_set_tiebreak'] = _is_tibreak(str_scores[1])
 
     if len(str_scores) > 2:
         data['third_set_tiebreak'] = _is_tibreak(str_scores[2])
+
+    data['has_tiebreak'] = any([
+        data['first_set_tiebreak'],
+        data['second_set_tiebreak'],
+        data['third_set_tiebreak']
+    ])
 
     # Get the numerical scores as a list of tuples
     _scores: list[tuple[int, int, int | None]] = []
