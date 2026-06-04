@@ -48,6 +48,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -87,6 +88,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -131,6 +133,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -175,6 +178,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -219,6 +227,7 @@
                 "code_alpha_3": "ARG",
                 "country_code_m49": "032",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Southern South America",
                 "fifa": "ARG"
@@ -258,6 +267,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -302,6 +312,7 @@
         "code_alpha_3": "ITA",
         "country_code_m49": "380",
         "region_code": "150",
+        "alternative_name": [],
         "region": "Europe",
         "subregion": "Southern Europe",
         "fifa": "ITA",
@@ -359,6 +370,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -403,6 +415,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -442,6 +455,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -486,6 +500,9 @@
         "code_alpha_3": "ESP",
         "country_code_m49": "724",
         "region_code": "150",
+        "alternative_name": [
+            "Kingdom of Spain"
+        ],
         "region": "Europe",
         "subregion": "Southern Europe",
         "fifa": "ESP",
@@ -543,6 +560,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -582,6 +600,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -626,6 +645,7 @@
         "code_alpha_3": "DEU",
         "country_code_m49": "276",
         "region_code": "150",
+        "alternative_name": [],
         "region": "Europe",
         "subregion": "Central Europe",
         "fifa": "GER",
@@ -683,6 +703,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -722,6 +743,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -766,6 +788,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -810,6 +833,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -854,6 +878,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -898,6 +927,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -997,6 +1027,7 @@
                 "code_alpha_3": "PHL",
                 "country_code_m49": "608",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Southeast Asia",
                 "fifa": "PHI"
@@ -1036,6 +1067,7 @@
                 "code_alpha_3": "UZB",
                 "country_code_m49": "860",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "UZB"
@@ -1137,6 +1169,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -1176,6 +1209,7 @@
                 "code_alpha_3": "PHL",
                 "country_code_m49": "608",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Southeast Asia",
                 "fifa": "PHI"
@@ -1220,6 +1254,7 @@
                 "code_alpha_3": "BEL",
                 "country_code_m49": "056",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "BEL"
@@ -1259,6 +1294,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -1303,6 +1339,7 @@
         "code_alpha_3": "ARE",
         "country_code_m49": "784",
         "region_code": "142",
+        "alternative_name": [],
         "region": "Asia",
         "subregion": "Western Asia",
         "fifa": "UAE",
@@ -1355,6 +1392,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -1399,6 +1437,7 @@
         "code_alpha_3": "QAT",
         "country_code_m49": "634",
         "region_code": "142",
+        "alternative_name": [],
         "region": "Asia",
         "subregion": "Western Asia",
         "fifa": "QAT",
@@ -1451,6 +1490,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -1495,6 +1535,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -1539,6 +1580,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -1578,6 +1624,7 @@
                 "code_alpha_3": "SRB",
                 "country_code_m49": "688",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "SRB"
@@ -1617,6 +1664,7 @@
                 "code_alpha_3": "UZB",
                 "country_code_m49": "860",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "UZB"
@@ -1633,6 +1681,7 @@
         "code_alpha_3": "AUS",
         "country_code_m49": "036",
         "region_code": "009",
+        "alternative_name": [],
         "region": "Oceania",
         "subregion": "Australasia",
         "fifa": "AUS",
@@ -1685,6 +1734,7 @@
                 "code_alpha_3": "ARG",
                 "country_code_m49": "032",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Southern South America",
                 "fifa": "ARG"
@@ -1729,6 +1779,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -1768,6 +1821,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -1807,6 +1861,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -1823,6 +1878,7 @@
         "code_alpha_3": "AUS",
         "country_code_m49": "036",
         "region_code": "009",
+        "alternative_name": [],
         "region": "Oceania",
         "subregion": "Australasia",
         "fifa": "AUS",
@@ -1875,6 +1931,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -1919,6 +1976,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -1958,6 +2020,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -1974,6 +2037,7 @@
         "code_alpha_3": "SAU",
         "country_code_m49": "682",
         "region_code": "142",
+        "alternative_name": [],
         "region": "Asia",
         "subregion": "Western Asia",
         "fifa": "KSA",
@@ -2025,6 +2089,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -2064,6 +2133,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -2103,6 +2173,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -2142,6 +2213,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -2181,6 +2253,7 @@
                 "code_alpha_3": "JPN",
                 "country_code_m49": "392",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "JPN"
@@ -2225,6 +2298,7 @@
         "code_alpha_3": "CHN",
         "country_code_m49": "156",
         "region_code": "142",
+        "alternative_name": [],
         "region": "Asia",
         "subregion": "East Asia",
         "fifa": "CHN",
@@ -2277,6 +2351,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -2316,6 +2395,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -2360,6 +2440,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -2404,6 +2485,7 @@
                 "code_alpha_3": "CAN",
                 "country_code_m49": "124",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "CAN"
@@ -2443,6 +2525,7 @@
                 "code_alpha_3": "UZB",
                 "country_code_m49": "860",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "UZB"
@@ -2487,6 +2570,7 @@
         "code_alpha_3": "CHN",
         "country_code_m49": "156",
         "region_code": "142",
+        "alternative_name": [],
         "region": "Asia",
         "subregion": "East Asia",
         "fifa": "CHN",
@@ -2539,6 +2623,7 @@
                 "code_alpha_3": "JPN",
                 "country_code_m49": "392",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "JPN"
@@ -2578,6 +2663,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -2617,6 +2703,7 @@
                 "code_alpha_3": "HRV",
                 "country_code_m49": "191",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "CRO"
@@ -2661,6 +2748,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -2734,6 +2822,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -2773,6 +2862,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -2801,6 +2891,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -2840,6 +2931,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -2936,6 +3028,7 @@
                 "code_alpha_3": "CAN",
                 "country_code_m49": "124",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "CAN"
@@ -2980,6 +3073,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -3024,6 +3118,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -3068,6 +3167,7 @@
         "code_alpha_3": "CAN",
         "country_code_m49": "124",
         "region_code": "019",
+        "alternative_name": [],
         "region": "America",
         "subregion": "Northern America",
         "fifa": "CAN",
@@ -3120,6 +3220,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -3136,6 +3237,12 @@
         "code_alpha_3": "GBR",
         "country_code_m49": "826",
         "region_code": "150",
+        "alternative_name": [
+            "Britain",
+            "UK",
+            "Great Britain",
+            "United Kingdom"
+        ],
         "region": "Europe",
         "subregion": "Northern Europe",
         "fifa": "ENG",
@@ -3188,6 +3295,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -3232,6 +3340,7 @@
         "code_alpha_3": "DEU",
         "country_code_m49": "276",
         "region_code": "150",
+        "alternative_name": [],
         "region": "Europe",
         "subregion": "Central Europe",
         "fifa": "GER",
@@ -3289,6 +3398,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -3328,6 +3438,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -3372,6 +3483,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -3411,6 +3527,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -3450,6 +3567,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -3489,6 +3607,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -3528,6 +3647,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -3544,6 +3664,7 @@
         "code_alpha_3": "FRA",
         "country_code_m49": "250",
         "region_code": "150",
+        "alternative_name": [],
         "region": "Europe",
         "subregion": "Western Europe",
         "fifa": "FRA",
@@ -3596,6 +3717,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -3640,6 +3762,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -3679,6 +3802,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -3718,6 +3842,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -3757,6 +3887,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -3801,6 +3932,7 @@
                 "code_alpha_3": "CAN",
                 "country_code_m49": "124",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "CAN"
@@ -3845,6 +3977,7 @@
         "code_alpha_3": "ITA",
         "country_code_m49": "380",
         "region_code": "150",
+        "alternative_name": [],
         "region": "Europe",
         "subregion": "Southern Europe",
         "fifa": "ITA",
@@ -3897,6 +4030,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -3936,6 +4070,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -3975,6 +4110,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -4014,6 +4150,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -4053,6 +4190,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -4097,6 +4239,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -4141,6 +4284,9 @@
         "code_alpha_3": "ESP",
         "country_code_m49": "724",
         "region_code": "150",
+        "alternative_name": [
+            "Kingdom of Spain"
+        ],
         "region": "Europe",
         "subregion": "Southern Europe",
         "fifa": "ESP",
@@ -4193,6 +4339,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -4232,6 +4379,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -4276,6 +4424,7 @@
         "code_alpha_3": "DEU",
         "country_code_m49": "276",
         "region_code": "150",
+        "alternative_name": [],
         "region": "Europe",
         "subregion": "Central Europe",
         "fifa": "GER",
@@ -4328,6 +4477,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -4367,6 +4517,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -4406,6 +4557,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -4507,6 +4663,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -4546,6 +4703,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -4590,6 +4748,7 @@
                 "code_alpha_3": "JPN",
                 "country_code_m49": "392",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "JPN"
@@ -4686,6 +4845,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -4730,6 +4894,7 @@
         "code_alpha_3": "ARE",
         "country_code_m49": "784",
         "region_code": "142",
+        "alternative_name": [],
         "region": "Asia",
         "subregion": "Western Asia",
         "fifa": "UAE",
@@ -4782,6 +4947,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -4826,6 +4992,7 @@
         "code_alpha_3": "QAT",
         "country_code_m49": "634",
         "region_code": "142",
+        "alternative_name": [],
         "region": "Asia",
         "subregion": "Western Asia",
         "fifa": "QAT",
@@ -4878,6 +5045,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -4922,6 +5092,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -4961,6 +5132,7 @@
                 "code_alpha_3": "CAN",
                 "country_code_m49": "124",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "CAN"
@@ -5000,6 +5172,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -5039,6 +5217,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -5055,6 +5238,7 @@
         "code_alpha_3": "AUS",
         "country_code_m49": "036",
         "region_code": "009",
+        "alternative_name": [],
         "region": "Oceania",
         "subregion": "Australasia",
         "fifa": "AUS",
@@ -5107,6 +5291,7 @@
                 "code_alpha_3": "CAN",
                 "country_code_m49": "124",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "CAN"
@@ -5146,6 +5331,7 @@
                 "code_alpha_3": "HRV",
                 "country_code_m49": "191",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "CRO"
@@ -5185,6 +5371,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -5224,6 +5411,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -5263,6 +5451,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -5279,6 +5468,7 @@
         "code_alpha_3": "AUS",
         "country_code_m49": "036",
         "region_code": "009",
+        "alternative_name": [],
         "region": "Oceania",
         "subregion": "Australasia",
         "fifa": "AUS",
@@ -5336,6 +5526,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -5375,6 +5566,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -5414,6 +5606,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -5453,6 +5646,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -5492,6 +5690,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -5508,6 +5707,7 @@
         "code_alpha_3": "SAU",
         "country_code_m49": "682",
         "region_code": "142",
+        "alternative_name": [],
         "region": "Asia",
         "subregion": "Western Asia",
         "fifa": "KSA",
@@ -5564,6 +5764,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -5603,6 +5804,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -5642,6 +5844,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -5681,6 +5884,7 @@
                 "code_alpha_3": "BGR",
                 "country_code_m49": "100",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "BUL"
@@ -5721,13 +5925,14 @@
         "city": "Wuhan",
         "country": "China",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "China",
+        "code_alpha_2": "CN",
+        "code_alpha_3": "CHN",
+        "country_code_m49": "156",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "East Asia",
+        "fifa": "CHN",
         "rank": 4,
         "points_gain": 390,
         "prize_money": 159439,
@@ -5777,6 +5982,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -5821,6 +6027,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -5865,6 +6074,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -5907,6 +6117,7 @@
                 "code_alpha_3": "JPN",
                 "country_code_m49": "392",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "JPN"
@@ -5946,6 +6157,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -5985,6 +6202,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -6025,13 +6243,14 @@
         "city": "Beijing",
         "country": "China",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "China",
+        "code_alpha_2": "CN",
+        "code_alpha_3": "CHN",
+        "country_code_m49": "156",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "East Asia",
+        "fifa": "CHN",
         "rank": 6,
         "points_gain": 1000,
         "prize_money": 1100000,
@@ -6086,6 +6305,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -6130,6 +6354,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -6169,6 +6394,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -6208,6 +6434,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -6281,6 +6508,7 @@
                 "code_alpha_3": "KAZ",
                 "country_code_m49": "398",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "KAZ"
@@ -6377,6 +6605,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -6416,6 +6645,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -6456,13 +6686,14 @@
         "city": "Toronto",
         "country": "Canada",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Canada",
+        "code_alpha_2": "CA",
+        "code_alpha_3": "CAN",
+        "country_code_m49": "124",
+        "region_code": "019",
+        "alternative_name": [],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "CAN",
         "rank": 2,
         "points_gain": 120,
         "prize_money": 36454,
@@ -6512,6 +6743,7 @@
                 "code_alpha_3": "HRV",
                 "country_code_m49": "191",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "CRO"
@@ -6551,6 +6783,7 @@
                 "code_alpha_3": "ARG",
                 "country_code_m49": "032",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Southern South America",
                 "fifa": "ARG"
@@ -6590,6 +6823,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -6602,13 +6836,14 @@
         "city": "Paris",
         "country": "France",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "France",
+        "code_alpha_2": "FR",
+        "code_alpha_3": "FRA",
+        "country_code_m49": "250",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "fifa": "FRA",
         "rank": 2,
         "draw": "64M/0Q/32D"
     },
@@ -6656,6 +6891,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -6695,6 +6935,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -6734,6 +6980,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -6773,6 +7020,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -6785,13 +7037,19 @@
         "city": "Wimbledon",
         "country": "Great Britain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Great Britain",
+        "code_alpha_2": "GB",
+        "code_alpha_3": "GBR",
+        "country_code_m49": "826",
+        "region_code": "150",
+        "alternative_name": [
+            "Britain",
+            "UK",
+            "Great Britain",
+            "United Kingdom"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "fifa": "ENG",
         "rank": 2,
         "points_gain": 240,
         "prize_money": 285050,
@@ -6841,6 +7099,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -6878,6 +7141,7 @@
                 "code_alpha_3": "TUN",
                 "country_code_m49": "788",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "North Africa",
                 "fifa": "TUN"
@@ -6917,6 +7181,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -6957,13 +7222,14 @@
         "city": "Berlin",
         "country": "Germany",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Germany",
+        "code_alpha_2": "DE",
+        "code_alpha_3": "DEU",
+        "country_code_m49": "276",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "fifa": "GER",
         "rank": 2,
         "points_gain": 195,
         "prize_money": 44525,
@@ -7013,6 +7279,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -7057,6 +7324,7 @@
                 "code_alpha_3": "TUN",
                 "country_code_m49": "788",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "North Africa",
                 "fifa": "TUN"
@@ -7096,6 +7364,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -7135,6 +7404,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -7213,6 +7483,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -7225,13 +7496,14 @@
         "city": "Paris",
         "country": "France",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "France",
+        "code_alpha_2": "FR",
+        "code_alpha_3": "FRA",
+        "country_code_m49": "250",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "fifa": "FRA",
         "rank": 3,
         "points_gain": 780,
         "prize_money": 744414,
@@ -7281,6 +7553,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -7320,6 +7593,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -7364,6 +7638,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -7408,6 +7685,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -7447,6 +7725,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -7487,13 +7766,14 @@
         "city": "Rome",
         "country": "Italy",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Italy",
+        "code_alpha_2": "IT",
+        "code_alpha_3": "ITA",
+        "country_code_m49": "380",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ITA",
         "rank": 3,
         "points_gain": 390,
         "prize_money": 192405,
@@ -7548,6 +7828,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -7587,6 +7872,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -7626,6 +7912,7 @@
                 "code_alpha_3": "NLD",
                 "country_code_m49": "528",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "NED"
@@ -7666,13 +7953,16 @@
         "city": "Madrid",
         "country": "Spain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Spain",
+        "code_alpha_2": "ES",
+        "code_alpha_3": "ESP",
+        "country_code_m49": "724",
+        "region_code": "150",
+        "alternative_name": [
+            "Kingdom of Spain"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ESP",
         "rank": 3,
         "points_gain": 120,
         "prize_money": 88440,
@@ -7727,6 +8017,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -7771,6 +8062,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -7811,13 +8107,14 @@
         "city": "Stuttgart",
         "country": "Germany",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Germany",
+        "code_alpha_2": "DE",
+        "code_alpha_3": "DEU",
+        "country_code_m49": "276",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "fifa": "GER",
         "rank": 3,
         "points_gain": 108,
         "prize_money": 23435,
@@ -7872,6 +8169,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -7911,6 +8209,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -7950,6 +8249,7 @@
                 "code_alpha_3": "ARG",
                 "country_code_m49": "032",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Southern South America",
                 "fifa": "ARG"
@@ -8051,6 +8351,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -8090,6 +8391,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -8129,6 +8431,7 @@
                 "code_alpha_3": "BEL",
                 "country_code_m49": "056",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "BEL"
@@ -8168,6 +8471,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -8212,6 +8516,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -8313,6 +8618,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -8357,6 +8663,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -8396,6 +8703,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -8436,13 +8744,14 @@
         "city": "Dubai",
         "country": "United Arab Emirates",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United Arab Emirates",
+        "code_alpha_2": "AE",
+        "code_alpha_3": "ARE",
+        "country_code_m49": "784",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "fifa": "UAE",
         "rank": 3,
         "points_gain": 215,
         "prize_money": 72965,
@@ -8492,6 +8801,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -8532,13 +8842,14 @@
         "city": "Doha",
         "country": "Qatar",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Qatar",
+        "code_alpha_2": "QA",
+        "code_alpha_3": "QAT",
+        "country_code_m49": "634",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "fifa": "QAT",
         "rank": 3,
         "points_gain": 10,
         "prize_money": 20650,
@@ -8588,6 +8899,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -8632,6 +8944,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -8671,6 +8984,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -8710,6 +9024,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -8749,6 +9068,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -8788,6 +9112,7 @@
                 "code_alpha_3": "SVK",
                 "country_code_m49": "703",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SVK"
@@ -8800,13 +9125,14 @@
         "city": "Melbourne",
         "country": "Australia",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Australia",
+        "code_alpha_2": "AU",
+        "code_alpha_3": "AUS",
+        "country_code_m49": "036",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "AUS",
         "rank": 4,
         "points_gain": 780,
         "prize_money": 654774,
@@ -8861,6 +9187,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -8900,6 +9227,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -8939,6 +9271,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -8978,6 +9311,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -9017,6 +9351,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -9029,13 +9368,14 @@
         "city": "Auckland",
         "country": "New Zealand",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "New Zealand",
+        "code_alpha_2": "NZ",
+        "code_alpha_3": "NZL",
+        "country_code_m49": "554",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "NZL",
         "rank": 3,
         "points_gain": 250,
         "prize_money": 35250,
@@ -9085,6 +9425,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -9124,6 +9469,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -9163,6 +9509,7 @@
                 "code_alpha_3": "TUN",
                 "country_code_m49": "788",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "North Africa",
                 "fifa": "TUN"
@@ -9207,6 +9554,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -9219,13 +9567,17 @@
         "city": "Cancun",
         "country": "Mexico",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Mexico",
+        "code_alpha_2": "MX",
+        "code_alpha_3": "MEX",
+        "country_code_m49": "484",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of Mexico",
+            "United Mexican States"
+        ],
+        "region": "America",
+        "subregion": "Central America",
+        "fifa": "MEX",
         "rank": 3,
         "prize_money": 648000,
         "draw": "9M/0Q/16D"
@@ -9274,6 +9626,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -9313,6 +9666,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -9352,6 +9706,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -9396,6 +9751,7 @@
                 "code_alpha_3": "HRV",
                 "country_code_m49": "191",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "CRO"
@@ -9435,6 +9791,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -9447,13 +9804,14 @@
         "city": "Beijing",
         "country": "China",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "China",
+        "code_alpha_2": "CN",
+        "code_alpha_3": "CHN",
+        "country_code_m49": "156",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "East Asia",
+        "fifa": "CHN",
         "rank": 3,
         "points_gain": 390,
         "prize_money": 402000,
@@ -9508,6 +9866,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -9547,6 +9906,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -9630,6 +9990,7 @@
                 "code_alpha_3": "DNK",
                 "country_code_m49": "208",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "DEN"
@@ -9674,6 +10035,7 @@
                 "code_alpha_3": "BEL",
                 "country_code_m49": "056",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "BEL"
@@ -9713,6 +10075,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -9757,6 +10120,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -9825,6 +10189,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -9869,6 +10234,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -9908,6 +10274,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -9947,6 +10314,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -9986,6 +10354,7 @@
                 "code_alpha_3": "EGY",
                 "country_code_m49": "818",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "North Africa",
                 "fifa": "EGY"
@@ -10087,6 +10456,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -10126,6 +10500,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -10165,6 +10540,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -10205,13 +10586,14 @@
         "city": "Montreal",
         "country": "Canada",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Canada",
+        "code_alpha_2": "CA",
+        "code_alpha_3": "CAN",
+        "country_code_m49": "124",
+        "region_code": "019",
+        "alternative_name": [],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "CAN",
         "rank": 7,
         "points_gain": 190,
         "prize_money": 63350,
@@ -10261,6 +10643,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -10300,6 +10683,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -10339,6 +10723,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -10378,6 +10763,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -10479,6 +10869,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -10491,13 +10886,19 @@
         "city": "Wimbledon",
         "country": "Great Britain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Great Britain",
+        "code_alpha_2": "GB",
+        "code_alpha_3": "GBR",
+        "country_code_m49": "826",
+        "region_code": "150",
+        "alternative_name": [
+            "Britain",
+            "UK",
+            "Great Britain",
+            "United Kingdom"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "fifa": "ENG",
         "rank": 7,
         "points_gain": 10,
         "prize_money": 69615,
@@ -10547,6 +10948,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -10586,6 +10992,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -10625,6 +11036,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -10664,6 +11081,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -10676,13 +11098,19 @@
         "city": "Eastbourne",
         "country": "Great Britain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Great Britain",
+        "code_alpha_2": "GB",
+        "code_alpha_3": "GBR",
+        "country_code_m49": "826",
+        "region_code": "150",
+        "alternative_name": [
+            "Britain",
+            "UK",
+            "Great Britain",
+            "United Kingdom"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "fifa": "ENG",
         "rank": 7,
         "points_gain": 185,
         "prize_money": 43323,
@@ -10732,6 +11160,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -10771,6 +11200,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -10783,13 +11213,14 @@
         "city": "Berlin",
         "country": "Germany",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Germany",
+        "code_alpha_2": "DE",
+        "code_alpha_3": "DEU",
+        "country_code_m49": "276",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "fifa": "GER",
         "rank": 7,
         "points_gain": 55,
         "prize_money": 10086,
@@ -10839,6 +11270,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -10878,6 +11310,7 @@
                 "code_alpha_3": "SVK",
                 "country_code_m49": "703",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SVK"
@@ -10922,6 +11355,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -10961,6 +11395,7 @@
                 "code_alpha_3": "AUT",
                 "country_code_m49": "040",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "AUT"
@@ -11005,6 +11440,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -11017,13 +11453,14 @@
         "city": "Paris",
         "country": "France",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "France",
+        "code_alpha_2": "FR",
+        "code_alpha_3": "FRA",
+        "country_code_m49": "250",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "fifa": "FRA",
         "rank": 6,
         "points_gain": 430,
         "prize_money": 400000,
@@ -11078,6 +11515,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -11117,6 +11555,7 @@
                 "code_alpha_3": "KAZ",
                 "country_code_m49": "398",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "KAZ"
@@ -11157,13 +11596,14 @@
         "city": "Rome",
         "country": "Italy",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Italy",
+        "code_alpha_2": "IT",
+        "code_alpha_3": "ITA",
+        "country_code_m49": "380",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ITA",
         "rank": 5,
         "points_gain": 65,
         "prize_money": 22700,
@@ -11213,6 +11653,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -11252,6 +11695,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -11292,13 +11738,16 @@
         "city": "Madrid",
         "country": "Spain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Spain",
+        "code_alpha_2": "ES",
+        "code_alpha_3": "ESP",
+        "country_code_m49": "724",
+        "region_code": "150",
+        "alternative_name": [
+            "Kingdom of Spain"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ESP",
         "rank": 6,
         "points_gain": 65,
         "prize_money": 48835,
@@ -11348,6 +11797,7 @@
                 "code_alpha_3": "AUT",
                 "country_code_m49": "040",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "AUT"
@@ -11392,6 +11842,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -11404,13 +11855,14 @@
         "city": "Stuttgart",
         "country": "Germany",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Germany",
+        "code_alpha_2": "DE",
+        "code_alpha_3": "DEU",
+        "country_code_m49": "276",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "fifa": "GER",
         "rank": 6,
         "points_gain": 55,
         "prize_money": 10086,
@@ -11460,6 +11912,7 @@
                 "code_alpha_3": "AUT",
                 "country_code_m49": "040",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "AUT"
@@ -11531,6 +11984,7 @@
                 "code_alpha_3": "AUT",
                 "country_code_m49": "040",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "AUT"
@@ -11570,6 +12024,7 @@
                 "code_alpha_3": "CAN",
                 "country_code_m49": "124",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "CAN"
@@ -11666,6 +12121,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -11710,6 +12166,7 @@
                 "code_alpha_3": "SWE",
                 "country_code_m49": "752",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "SWE"
@@ -11749,6 +12206,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -11788,6 +12246,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -11884,6 +12345,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -11923,6 +12385,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -11951,6 +12418,7 @@
                 "code_alpha_3": "KAZ",
                 "country_code_m49": "398",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "KAZ"
@@ -11990,6 +12458,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -12030,13 +12499,14 @@
         "city": "Dubai",
         "country": "United Arab Emirates",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United Arab Emirates",
+        "code_alpha_2": "AE",
+        "code_alpha_3": "ARE",
+        "country_code_m49": "784",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "fifa": "UAE",
         "rank": 6,
         "points_gain": 350,
         "prize_money": 138000,
@@ -12091,6 +12561,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -12130,6 +12601,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -12170,13 +12642,14 @@
         "city": "Doha",
         "country": "Qatar",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Qatar",
+        "code_alpha_2": "QA",
+        "code_alpha_3": "QAT",
+        "country_code_m49": "634",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "fifa": "QAT",
         "rank": 6,
         "points_gain": 100,
         "prize_money": 21075,
@@ -12265,6 +12738,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -12304,6 +12782,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -12343,6 +12827,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -12355,13 +12840,14 @@
         "city": "Melbourne",
         "country": "Australia",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Australia",
+        "code_alpha_2": "AU",
+        "code_alpha_3": "AUS",
+        "country_code_m49": "036",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "AUS",
         "rank": 7,
         "points_gain": 240,
         "prize_money": 236578,
@@ -12411,6 +12897,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -12450,6 +12937,7 @@
                 "code_alpha_3": "MNE",
                 "country_code_m49": "499",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "MNE"
@@ -12489,6 +12977,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -12528,6 +13017,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -12567,6 +13061,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -12579,13 +13074,14 @@
         "city": "Auckland",
         "country": "New Zealand",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "New Zealand",
+        "code_alpha_2": "NZ",
+        "code_alpha_3": "NZL",
+        "country_code_m49": "554",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "NZL",
         "rank": 7,
         "points_gain": 280,
         "prize_money": 34228,
@@ -12635,6 +13131,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -12701,6 +13198,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -12740,6 +13238,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -12779,6 +13278,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -12851,6 +13351,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -12890,6 +13391,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -12929,6 +13431,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -12969,13 +13472,17 @@
         "city": "Guadalajara",
         "country": "Mexico",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Mexico",
+        "code_alpha_2": "MX",
+        "code_alpha_3": "MEX",
+        "country_code_m49": "484",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of Mexico",
+            "United Mexican States"
+        ],
+        "region": "America",
+        "subregion": "Central America",
+        "fifa": "MEX",
         "rank": 7,
         "points_gain": 190,
         "prize_money": 57440,
@@ -13025,6 +13532,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -13069,6 +13577,7 @@
                 "code_alpha_3": "CAN",
                 "country_code_m49": "124",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "CAN"
@@ -13108,6 +13617,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -13176,6 +13690,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -13215,6 +13730,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -13254,6 +13770,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -13293,6 +13814,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -13332,6 +13854,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -13403,6 +13926,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -13471,6 +13995,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -13515,6 +14040,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -13559,6 +14085,7 @@
                 "code_alpha_3": "KAZ",
                 "country_code_m49": "398",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "KAZ"
@@ -13598,6 +14125,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -13610,13 +14142,14 @@
         "city": "Toronto",
         "country": "Canada",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Canada",
+        "code_alpha_2": "CA",
+        "code_alpha_3": "CAN",
+        "country_code_m49": "124",
+        "region_code": "019",
+        "alternative_name": [],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "CAN",
         "rank": 11,
         "points_gain": 190,
         "prize_money": 61300,
@@ -13666,6 +14199,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -13705,6 +14241,7 @@
                 "code_alpha_3": "JPN",
                 "country_code_m49": "392",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "JPN"
@@ -13744,6 +14281,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -13817,6 +14355,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -13856,6 +14399,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -13900,6 +14444,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -13912,13 +14457,19 @@
         "city": "Wimbledon",
         "country": "Great Britain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Great Britain",
+        "code_alpha_2": "GB",
+        "code_alpha_3": "GBR",
+        "country_code_m49": "826",
+        "region_code": "150",
+        "alternative_name": [
+            "Britain",
+            "UK",
+            "Great Britain",
+            "United Kingdom"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "fifa": "ENG",
         "rank": 12,
         "prize_money": 154816,
         "draw": "128M/128Q/64D"
@@ -13967,6 +14518,7 @@
                 "code_alpha_3": "TUN",
                 "country_code_m49": "788",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "North Africa",
                 "fifa": "TUN"
@@ -14006,6 +14558,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -14045,6 +14598,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -14084,6 +14638,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -14096,13 +14655,14 @@
         "city": "Berlin",
         "country": "Germany",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Germany",
+        "code_alpha_2": "DE",
+        "code_alpha_3": "DEU",
+        "country_code_m49": "276",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "fifa": "GER",
         "rank": 13,
         "points_gain": 185,
         "prize_money": 42010,
@@ -14152,6 +14712,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -14191,6 +14752,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -14230,6 +14792,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -14269,6 +14836,7 @@
                 "code_alpha_3": "BEL",
                 "country_code_m49": "056",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "BEL"
@@ -14308,6 +14876,7 @@
                 "code_alpha_3": "EST",
                 "country_code_m49": "233",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "EST"
@@ -14347,6 +14916,7 @@
                 "code_alpha_3": "BEL",
                 "country_code_m49": "056",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "BEL"
@@ -14386,6 +14956,7 @@
                 "code_alpha_3": "CAN",
                 "country_code_m49": "124",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "CAN"
@@ -14398,13 +14969,14 @@
         "city": "Paris",
         "country": "France",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "France",
+        "code_alpha_2": "FR",
+        "code_alpha_3": "FRA",
+        "country_code_m49": "250",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "fifa": "FRA",
         "rank": 23,
         "points_gain": 1300,
         "prize_money": 1163293,
@@ -14454,6 +15026,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -14493,6 +15066,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -14532,6 +15110,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -14544,13 +15123,14 @@
         "city": "Rome",
         "country": "Italy",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Italy",
+        "code_alpha_2": "IT",
+        "code_alpha_3": "ITA",
+        "country_code_m49": "380",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ITA",
         "rank": 15,
         "points_gain": 105,
         "prize_money": 28730,
@@ -14600,6 +15180,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -14644,6 +15225,7 @@
                 "code_alpha_3": "KAZ",
                 "country_code_m49": "398",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "KAZ"
@@ -14683,6 +15265,7 @@
                 "code_alpha_3": "SVK",
                 "country_code_m49": "703",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SVK"
@@ -14695,13 +15278,16 @@
         "city": "Madrid",
         "country": "Spain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Spain",
+        "code_alpha_2": "ES",
+        "code_alpha_3": "ESP",
+        "country_code_m49": "724",
+        "region_code": "150",
+        "alternative_name": [
+            "Kingdom of Spain"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ESP",
         "rank": 16,
         "points_gain": 120,
         "prize_money": 112524,
@@ -14751,6 +15337,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -14763,13 +15350,14 @@
         "city": "Stuttgart",
         "country": "Germany",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Germany",
+        "code_alpha_2": "DE",
+        "code_alpha_3": "DEU",
+        "country_code_m49": "276",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "fifa": "GER",
         "rank": 16,
         "points_gain": 1,
         "prize_money": 6540,
@@ -14819,6 +15407,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -14858,6 +15447,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -14897,6 +15487,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -14993,6 +15584,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -15032,6 +15624,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -15128,6 +15725,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -15167,6 +15765,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -15206,6 +15807,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -15245,6 +15847,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -15257,13 +15864,14 @@
         "city": "Doha",
         "country": "Qatar",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Qatar",
+        "code_alpha_2": "QA",
+        "code_alpha_3": "QAT",
+        "country_code_m49": "634",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "fifa": "QAT",
         "rank": 23,
         "points_gain": 190,
         "prize_money": 53000,
@@ -15313,6 +15921,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -15325,13 +15938,14 @@
         "city": "Dubai",
         "country": "United Arab Emirates",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United Arab Emirates",
+        "code_alpha_2": "AE",
+        "code_alpha_3": "ARE",
+        "country_code_m49": "784",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "fifa": "UAE",
         "rank": 20,
         "points_gain": 1,
         "prize_money": 6200,
@@ -15381,6 +15995,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -15393,13 +16008,14 @@
         "city": "Melbourne",
         "country": "Australia",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Australia",
+        "code_alpha_2": "AU",
+        "code_alpha_3": "AUS",
+        "country_code_m49": "036",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "AUS",
         "rank": 16,
         "points_gain": 10,
         "prize_money": 77500,
@@ -15454,6 +16070,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -15493,6 +16114,7 @@
                 "code_alpha_3": "HRV",
                 "country_code_m49": "191",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "CRO"
@@ -15537,6 +16159,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -15576,6 +16199,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -15588,13 +16212,14 @@
         "city": "Adelaide",
         "country": "Australia",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Australia",
+        "code_alpha_2": "AU",
+        "code_alpha_3": "AUS",
+        "country_code_m49": "036",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "AUS",
         "rank": 19,
         "points_gain": 110,
         "prize_money": 10100,
@@ -15649,6 +16274,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -15688,6 +16314,7 @@
                 "code_alpha_3": "NOR",
                 "country_code_m49": "578",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "NOR"
@@ -15700,13 +16327,14 @@
         "city": "Adelaide",
         "country": "Australia",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Australia",
+        "code_alpha_2": "AU",
+        "code_alpha_3": "AUS",
+        "country_code_m49": "036",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "AUS",
         "rank": 22,
         "points_gain": 55,
         "prize_money": 10000,
@@ -15756,6 +16384,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -15800,6 +16431,7 @@
                 "code_alpha_3": "FRA",
                 "country_code_m49": "250",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "FRA"
@@ -15896,6 +16528,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -15940,6 +16577,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -16013,6 +16651,7 @@
                 "code_alpha_3": "JPN",
                 "country_code_m49": "392",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "JPN"
@@ -16120,6 +16759,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -16148,6 +16788,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -16185,6 +16831,7 @@
                 "code_alpha_3": "AUT",
                 "country_code_m49": "040",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "AUT"
@@ -16236,13 +16883,14 @@
         "city": "Montreal",
         "country": "Canada",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Canada",
+        "code_alpha_2": "CA",
+        "code_alpha_3": "CAN",
+        "country_code_m49": "124",
+        "region_code": "019",
+        "alternative_name": [],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "CAN",
         "rank": 24,
         "points_gain": 190,
         "prize_money": 41500,
@@ -16292,6 +16940,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -16370,6 +17019,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -16409,6 +17059,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -16421,13 +17077,19 @@
         "city": "Wimbledon",
         "country": "Great Britain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Great Britain",
+        "code_alpha_2": "GB",
+        "code_alpha_3": "GBR",
+        "country_code_m49": "826",
+        "region_code": "150",
+        "alternative_name": [
+            "Britain",
+            "UK",
+            "Great Britain",
+            "United Kingdom"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "fifa": "ENG",
         "rank": 23,
         "points_gain": 240,
         "prize_money": 245545,
@@ -16526,6 +17188,7 @@
                 "code_alpha_3": "BEL",
                 "country_code_m49": "056",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "BEL"
@@ -16594,6 +17257,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -16633,6 +17297,7 @@
                 "code_alpha_3": "TUN",
                 "country_code_m49": "788",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "North Africa",
                 "fifa": "TUN"
@@ -16670,6 +17335,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -16709,6 +17379,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -16748,6 +17419,7 @@
                 "code_alpha_3": "SRB",
                 "country_code_m49": "688",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "SRB"
@@ -16760,13 +17432,14 @@
         "city": "Paris",
         "country": "France",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "France",
+        "code_alpha_2": "FR",
+        "code_alpha_3": "FRA",
+        "country_code_m49": "250",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "fifa": "FRA",
         "rank": 25,
         "points_gain": 430,
         "prize_money": 300912,
@@ -16816,6 +17489,7 @@
                 "code_alpha_3": "CHN",
                 "country_code_m49": "156",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "CHN"
@@ -16860,6 +17534,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -16899,6 +17574,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -16938,6 +17618,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -16977,6 +17658,7 @@
                 "code_alpha_3": "EST",
                 "country_code_m49": "233",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "EST"
@@ -16989,13 +17671,14 @@
         "city": "Parma",
         "country": "Italy",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Italy",
+        "code_alpha_2": "IT",
+        "code_alpha_3": "ITA",
+        "country_code_m49": "380",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ITA",
         "rank": 30,
         "points_gain": 280,
         "prize_money": 29200,
@@ -17045,6 +17728,7 @@
                 "code_alpha_3": "POL",
                 "country_code_m49": "616",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "POL"
@@ -17087,6 +17771,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -17126,6 +17811,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -17170,6 +17856,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -17214,6 +17901,7 @@
                 "code_alpha_3": "KAZ",
                 "country_code_m49": "398",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "KAZ"
@@ -17226,13 +17914,14 @@
         "city": "Rome",
         "country": "Italy",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Italy",
+        "code_alpha_2": "IT",
+        "code_alpha_3": "ITA",
+        "country_code_m49": "380",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ITA",
         "rank": 35,
         "points_gain": 350,
         "prize_money": 87000,
@@ -17287,6 +17976,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -17299,13 +17989,16 @@
         "city": "Madrid",
         "country": "Spain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Spain",
+        "code_alpha_2": "ES",
+        "code_alpha_3": "ESP",
+        "country_code_m49": "724",
+        "region_code": "150",
+        "alternative_name": [
+            "Kingdom of Spain"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ESP",
         "rank": 35,
         "points_gain": 10,
         "prize_money": 15692,
@@ -17355,6 +18048,7 @@
                 "code_alpha_3": "TUN",
                 "country_code_m49": "788",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "North Africa",
                 "fifa": "TUN"
@@ -17394,6 +18088,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -17438,6 +18137,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -17477,6 +18177,7 @@
                 "code_alpha_3": "BGR",
                 "country_code_m49": "100",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "BUL"
@@ -17646,6 +18347,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -17685,6 +18387,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -17729,6 +18432,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -17773,6 +18477,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -17785,13 +18490,14 @@
         "city": "Dubai",
         "country": "United Arab Emirates",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United Arab Emirates",
+        "code_alpha_2": "AE",
+        "code_alpha_3": "ARE",
+        "country_code_m49": "784",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "fifa": "UAE",
         "rank": 40,
         "entry_type": "W",
         "points_gain": 190,
@@ -17847,6 +18553,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -17891,6 +18598,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -17935,6 +18647,7 @@
                 "code_alpha_3": "HRV",
                 "country_code_m49": "191",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "CRO"
@@ -17979,6 +18692,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -18062,6 +18776,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -18074,13 +18794,14 @@
         "city": "Adelaide",
         "country": "Australia",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Australia",
+        "code_alpha_2": "AU",
+        "code_alpha_3": "AUS",
+        "country_code_m49": "036",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "AUS",
         "rank": 52,
         "entry_type": "Q",
         "points_gain": 210,
@@ -18131,6 +18852,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -18170,6 +18892,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -18182,13 +18905,14 @@
         "city": "Melbourne",
         "country": "Australia",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Australia",
+        "code_alpha_2": "AU",
+        "code_alpha_3": "AUS",
+        "country_code_m49": "036",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "AUS",
         "rank": 48,
         "points_gain": 70,
         "prize_money": 102828,
@@ -18243,6 +18967,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -18287,6 +19017,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -18299,13 +19030,14 @@
         "city": "Melbourne",
         "country": "Australia",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Australia",
+        "code_alpha_2": "AU",
+        "code_alpha_3": "AUS",
+        "country_code_m49": "036",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "AUS",
         "rank": 48,
         "points_gain": 30,
         "prize_money": 4250,
@@ -18355,6 +19087,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -18394,6 +19127,7 @@
                 "code_alpha_3": "NOR",
                 "country_code_m49": "578",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "NOR"
@@ -18406,13 +19140,14 @@
         "city": "Abu Dhabi",
         "country": "United Arab Emirates",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United Arab Emirates",
+        "code_alpha_2": "AE",
+        "code_alpha_3": "ARE",
+        "country_code_m49": "784",
+        "region_code": "142",
+        "alternative_name": [],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "fifa": "UAE",
         "rank": 48,
         "points_gain": 30,
         "prize_money": 4100,
@@ -18467,6 +19202,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -18506,6 +19242,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -18545,6 +19282,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -18584,6 +19322,7 @@
                 "code_alpha_3": "SVK",
                 "country_code_m49": "703",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SVK"
@@ -18596,13 +19335,14 @@
         "city": "Ostrava",
         "country": "Czech Republic",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Czech Republic",
+        "code_alpha_2": "CZ",
+        "code_alpha_3": "CZE",
+        "country_code_m49": "203",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "fifa": "CZE",
         "rank": 55,
         "entry_type": "Q",
         "points_gain": 80,
@@ -18658,6 +19398,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -18697,6 +19438,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -18709,13 +19456,14 @@
         "city": "Paris",
         "country": "France",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "France",
+        "code_alpha_2": "FR",
+        "code_alpha_3": "FRA",
+        "country_code_m49": "250",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "fifa": "FRA",
         "rank": 51,
         "points_gain": 70,
         "prize_money": 92845,
@@ -18770,6 +19518,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -18809,6 +19560,7 @@
                 "code_alpha_3": "TUN",
                 "country_code_m49": "788",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "North Africa",
                 "fifa": "TUN"
@@ -18821,13 +19573,14 @@
         "city": "Rome",
         "country": "Italy",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Italy",
+        "code_alpha_2": "IT",
+        "code_alpha_3": "ITA",
+        "country_code_m49": "380",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ITA",
         "rank": 53,
         "points_gain": 60,
         "prize_money": 17044,
@@ -18950,6 +19703,7 @@
                 "code_alpha_3": "GRC",
                 "country_code_m49": "300",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "GRE"
@@ -19018,6 +19772,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -19062,6 +19821,7 @@
                 "code_alpha_3": "TUN",
                 "country_code_m49": "788",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "North Africa",
                 "fifa": "TUN"
@@ -19106,6 +19866,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -19145,6 +19906,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -19218,6 +19984,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -19257,6 +20028,7 @@
                 "code_alpha_3": "JPN",
                 "country_code_m49": "392",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "JPN"
@@ -19301,6 +20073,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -19340,6 +20113,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -19352,13 +20130,14 @@
         "city": "Melbourne",
         "country": "Australia",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Australia",
+        "code_alpha_2": "AU",
+        "code_alpha_3": "AUS",
+        "country_code_m49": "036",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "AUS",
         "rank": 67,
         "points_gain": 240,
         "prize_money": 207843,
@@ -19413,6 +20192,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -19452,6 +20232,7 @@
                 "code_alpha_3": "SVK",
                 "country_code_m49": "703",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SVK"
@@ -19464,13 +20245,14 @@
         "city": "Auckland",
         "country": "New Zealand",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "New Zealand",
+        "code_alpha_2": "NZ",
+        "code_alpha_3": "NZL",
+        "country_code_m49": "554",
+        "region_code": "009",
+        "alternative_name": [],
+        "region": "Oceania",
+        "subregion": "Australasia",
+        "fifa": "NZL",
         "rank": 67,
         "points_gain": 30,
         "prize_money": 3570,
@@ -19520,6 +20302,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -19532,13 +20315,14 @@
         "city": "Luxembourg",
         "country": "Luxembourg",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Luxembourg",
+        "code_alpha_2": "LU",
+        "code_alpha_3": "LUX",
+        "country_code_m49": "442",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "fifa": "LUX",
         "rank": 71,
         "points_gain": 1,
         "prize_money": 1925,
@@ -19632,6 +20416,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -19671,6 +20456,7 @@
                 "code_alpha_3": "NLD",
                 "country_code_m49": "528",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "NED"
@@ -19718,6 +20504,7 @@
                 "code_alpha_3": "UKR",
                 "country_code_m49": "804",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "UKR"
@@ -19757,6 +20544,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -19796,6 +20584,7 @@
                 "code_alpha_3": "DEU",
                 "country_code_m49": "276",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "GER"
@@ -19840,6 +20629,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -19852,13 +20642,14 @@
         "city": "Linz",
         "country": "Austria",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Austria",
+        "code_alpha_2": "AT",
+        "code_alpha_3": "AUT",
+        "country_code_m49": "040",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "fifa": "AUT",
         "rank": 110,
         "entry_type": "L",
         "points_gain": 280,
@@ -19909,6 +20700,7 @@
                 "code_alpha_3": "JPN",
                 "country_code_m49": "392",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "JPN"
@@ -19953,6 +20745,7 @@
                 "code_alpha_3": "HUN",
                 "country_code_m49": "348",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "HUN"
@@ -19997,6 +20790,7 @@
                 "code_alpha_3": "AUT",
                 "country_code_m49": "040",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "AUT"
@@ -20066,6 +20860,7 @@
                 "code_alpha_3": "KAZ",
                 "country_code_m49": "398",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Central Asia",
                 "fifa": "KAZ"
@@ -20105,6 +20900,7 @@
                 "code_alpha_3": "JPN",
                 "country_code_m49": "392",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "East Asia",
                 "fifa": "JPN"
@@ -20144,6 +20940,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -20213,6 +21014,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -20296,6 +21098,7 @@
                 "code_alpha_3": "SVK",
                 "country_code_m49": "703",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SVK"
@@ -20335,6 +21138,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -20374,6 +21182,7 @@
                 "code_alpha_3": "BEL",
                 "country_code_m49": "056",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Western Europe",
                 "fifa": "BEL"
@@ -20413,6 +21222,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -20452,6 +21262,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -20464,13 +21277,19 @@
         "city": "Wimbledon",
         "country": "Great Britain",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Great Britain",
+        "code_alpha_2": "GB",
+        "code_alpha_3": "GBR",
+        "country_code_m49": "826",
+        "region_code": "150",
+        "alternative_name": [
+            "Britain",
+            "UK",
+            "Great Britain",
+            "United Kingdom"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "fifa": "ENG",
         "rank": 313,
         "entry_type": "Q",
         "points_gain": 280,
@@ -20560,6 +21379,7 @@
                 "code_alpha_3": "IND",
                 "country_code_m49": "356",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "South Asia",
                 "fifa": "IND"
@@ -20572,13 +21392,14 @@
         "city": "Paris",
         "country": "France",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "France",
+        "code_alpha_2": "FR",
+        "code_alpha_3": "FRA",
+        "country_code_m49": "250",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "fifa": "FRA",
         "rank": 324,
         "entry_type": "W",
         "points_gain": 20,
@@ -20634,6 +21455,7 @@
                 "code_alpha_3": "CZE",
                 "country_code_m49": "203",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "CZE"
@@ -20673,6 +21495,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -20712,6 +21540,7 @@
                 "code_alpha_3": "ITA",
                 "country_code_m49": "380",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ITA"
@@ -20724,13 +21553,14 @@
         "city": "Saint Gaudens",
         "country": "France",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "France",
+        "code_alpha_2": "FR",
+        "code_alpha_3": "FRA",
+        "country_code_m49": "250",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "fifa": "FRA",
         "rank": 345,
         "prize_money": 1543,
         "draw": "32M/32Q/16D"
@@ -20779,6 +21609,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -20851,6 +21686,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -20890,6 +21730,7 @@
                 "code_alpha_3": "PRY",
                 "country_code_m49": "600",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Central South America",
                 "fifa": "PAR"
@@ -20929,6 +21770,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -20968,6 +21810,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -21007,6 +21850,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -21075,6 +21923,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -21142,6 +21991,7 @@
                 "code_alpha_3": "AUS",
                 "country_code_m49": "036",
                 "region_code": "009",
+                "alternative_name": [],
                 "region": "Oceania",
                 "subregion": "Australasia",
                 "fifa": "AUS"
@@ -21186,6 +22036,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -21255,6 +22110,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -21267,13 +22127,17 @@
         "city": "Irapuato",
         "country": "Mexico",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Mexico",
+        "code_alpha_2": "MX",
+        "code_alpha_3": "MEX",
+        "country_code_m49": "484",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of Mexico",
+            "United Mexican States"
+        ],
+        "region": "America",
+        "subregion": "Central America",
+        "fifa": "MEX",
         "rank": 453,
         "prize_money": 68,
         "draw": "32M/32Q/16D"
@@ -21327,6 +22191,7 @@
                 "code_alpha_3": "CHE",
                 "country_code_m49": "756",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Central Europe",
                 "fifa": "SUI"
@@ -21400,6 +22265,7 @@
                 "code_alpha_3": "BGR",
                 "country_code_m49": "100",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "BUL"
@@ -21444,6 +22310,7 @@
                 "code_alpha_3": "BLR",
                 "country_code_m49": "112",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "BLR"
@@ -21483,6 +22350,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -21522,6 +22394,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -21561,6 +22438,9 @@
                 "code_alpha_3": "ESP",
                 "country_code_m49": "724",
                 "region_code": "150",
+                "alternative_name": [
+                    "Kingdom of Spain"
+                ],
                 "region": "Europe",
                 "subregion": "Southern Europe",
                 "fifa": "ESP"
@@ -21628,6 +22508,7 @@
                 "code_alpha_3": "SWE",
                 "country_code_m49": "752",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "SWE"
@@ -21672,6 +22553,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -21740,6 +22626,7 @@
                 "code_alpha_3": "BRA",
                 "country_code_m49": "076",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Eastern South America",
                 "fifa": "BRA"
@@ -21779,6 +22666,7 @@
                 "code_alpha_3": "ROU",
                 "country_code_m49": "642",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Southeastern Europe",
                 "fifa": "ROU"
@@ -21791,13 +22679,14 @@
         "city": "Santa Margherita Di Pula 14",
         "country": "Italy",
         "state": null,
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "Italy",
+        "code_alpha_2": "IT",
+        "code_alpha_3": "ITA",
+        "country_code_m49": "380",
+        "region_code": "150",
+        "alternative_name": [],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "fifa": "ITA",
         "rank": 882,
         "prize_money": 126,
         "draw": "32M/32Q/16D"
@@ -21846,6 +22735,12 @@
                 "code_alpha_3": "GBR",
                 "country_code_m49": "826",
                 "region_code": "150",
+                "alternative_name": [
+                    "Britain",
+                    "UK",
+                    "Great Britain",
+                    "United Kingdom"
+                ],
                 "region": "Europe",
                 "subregion": "Northern Europe",
                 "fifa": "ENG"
@@ -21915,6 +22810,7 @@
                 "code_alpha_3": "RUS",
                 "country_code_m49": "643",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "RUS"
@@ -21959,6 +22855,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -22003,6 +22904,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -22047,6 +22953,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -22086,6 +22997,7 @@
                 "code_alpha_3": "PER",
                 "country_code_m49": "604",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Western South America",
                 "fifa": "PER"
@@ -22154,6 +23066,11 @@
                 "code_alpha_3": "USA",
                 "country_code_m49": "840",
                 "region_code": "019",
+                "alternative_name": [
+                    "America",
+                    "USA",
+                    "US"
+                ],
                 "region": "America",
                 "subregion": "Northern America",
                 "fifa": "USA"
@@ -22193,6 +23110,7 @@
                 "code_alpha_3": "MDA",
                 "country_code_m49": "498",
                 "region_code": "150",
+                "alternative_name": [],
                 "region": "Europe",
                 "subregion": "Eastern Europe",
                 "fifa": "MDA"
@@ -22232,6 +23150,7 @@
                 "code_alpha_3": "BRA",
                 "country_code_m49": "076",
                 "region_code": "019",
+                "alternative_name": [],
                 "region": "America",
                 "subregion": "Eastern South America",
                 "fifa": "BRA"
@@ -22271,6 +23190,7 @@
                 "code_alpha_3": "VNM",
                 "country_code_m49": "704",
                 "region_code": "142",
+                "alternative_name": [],
                 "region": "Asia",
                 "subregion": "Southeast Asia",
                 "fifa": "VIE"
@@ -22310,6 +23230,7 @@
                 "code_alpha_3": "ZMB",
                 "country_code_m49": "894",
                 "region_code": "002",
+                "alternative_name": [],
                 "region": "Africa",
                 "subregion": "East Africa",
                 "fifa": "ZAM"

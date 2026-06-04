@@ -9,7 +9,7 @@ from typing import Any, Iterator
 from functools import lru_cache
 import argparse
 
-BASE_DIR = pathlib.Path('.').absolute()
+BASE_DIR = pathlib.Path(__file__).parent.absolute()
 
 DATA_DIR = BASE_DIR.joinpath('data')
 
@@ -55,29 +55,33 @@ def get_country(country_code: str | None) -> list[dict[str, Any]]:
 
 
 @lru_cache(maxsize=None)
-def get_country_by_continent(country_code: str | None) -> list[dict[str, Any]]:
+def get_continent_by_country(value: str | None) -> list[dict[str, Any]]:
     """This function is similar to `get_country` but it searches in the 
     `countries_by_continent` dataset which contains additional information about the 
     continent and subcontinent of each country. It first tries to find a match using 
     the alpha-3 code, and if that fails, it tries to find a match using the FIFA code."""
-    if country_code is None:
+    if value is None:
         return []
-
-    result = list(
-        filter(
-            lambda x: x['code_alpha_3'].lower() == country_code.lower(),
-            countries_by_continent
-        )
-    )
-
-    if not result:
-        result = list(
-            filter(
-                lambda x: x['fifa'].lower() == country_code.lower(),
-                countries_by_continent
+    
+    def verifier(incoming_value: dict[str, Any]) -> bool:
+        return any([
+            incoming_value['country'].lower() == value.lower(),
+            incoming_value['code_alpha_2'].lower() == value.lower(),
+            incoming_value['code_alpha_3'].lower() == value.lower(),
+            incoming_value['fifa'].lower() == value.lower(),
+            incoming_value['alternative_name'] and any(
+                alt_name.lower() == value.lower() 
+                for alt_name in incoming_value['alternative_name']
             )
-        )
-    return result
+        ])
+    
+    return list(filter(verifier, countries_by_continent))
+
+
+async def write_to_file(data: list, file_path: pathlib.Path):
+    new_file_path = CORRECTED_PATH / (file_path.stem + '_corrected.json')
+    with new_file_path.open('w') as f:
+        json.dump(data, f, indent=4)
 
 
 def clean_location(data: dict):
@@ -107,6 +111,17 @@ def get_location(data: dict[str, str]):
             if match:
                 city = match.group(1).title()
                 state = match.group(2)
+
+        # If both the regexes fail, just split the string
+        # and return only the state/city part
+        if state is None:
+            values = location.split(
+                '•') if '•' in location else location.split(',')
+            result = values[-0]
+            match result.lower():
+                case 'indian wells':
+                    state = 'CA'
+                    city = 'Indian Wells'
 
         country = 'United States of America'
     else:
@@ -335,9 +350,10 @@ def _set_country_details(data: dict[str, Any]):
     the country code in the countries_by_continent.json file."""
     country_code: str = data['country']
 
-    result = get_country_by_continent(country_code)
+    result = get_continent_by_country(country_code)
     if not result:
         result = {
+            "alternative_name": [],
             "code_alpha_2": None,
             "code_alpha_3": None,
             "country_code_m49": None,
@@ -434,18 +450,12 @@ def correct_data(tournament: dict[str, str | list[str]]) -> list:
     return tournament
 
 
-async def write_to_file(data: list, file_path: pathlib.Path):
-    new_file_path = CORRECTED_PATH / (file_path.stem + '_corrected.json')
-    with new_file_path.open('w') as f:
-        json.dump(data, f, indent=4)
-
-
 async def main():
     for index, item in enumerate(FILES):
         with item.open() as f:
             data = json.load(f)
             for tournament in data:
-                corrected_data = correct_data(tournament)
+                correct_data(tournament)
 
             task = asyncio.create_task(write_to_file(data, item))
             await task

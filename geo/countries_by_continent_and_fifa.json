@@ -5,6 +5,7 @@
         "country_code_m49":"004",
         "region_code": "142",
         "country":"Afghanistan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Central Asia",
         "fifa":"AFG"
@@ -15,6 +16,7 @@
         "country_code_m49":"008",
         "region_code": "150",
         "country":"Albania",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southeastern Europe",
         "fifa":"ALB"
@@ -25,6 +27,7 @@
         "country_code_m49":"012",
         "region_code": "002",
         "country":"Algeria",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"North Africa",
         "fifa":"ALG"
@@ -35,6 +38,7 @@
         "country_code_m49":"016",
         "region_code": "009",
         "country":"American Samoa",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Polynesia",
         "fifa":"ASA"
@@ -45,6 +49,7 @@
         "country_code_m49":"020",
         "region_code": "150",
         "country":"Andorra",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southwestern Europe",
         "fifa":"AND"
@@ -55,6 +60,7 @@
         "country_code_m49":"024",
         "region_code": "002",
         "country":"Angola",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Central Africa",
         "fifa":"ANG"
@@ -65,6 +71,7 @@
         "country_code_m49":"660",
         "region_code": "019",
         "country":"Anguilla",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"AIA"
@@ -75,6 +82,7 @@
         "country_code_m49":"028",
         "region_code": "019",
         "country":"Antigua and Barbuda",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"ATG"
@@ -85,6 +93,7 @@
         "country_code_m49":"032",
         "region_code": "019",
         "country":"Argentina",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Southern South America",
         "fifa":"ARG"
@@ -95,6 +104,7 @@
         "country_code_m49":"051",
         "region_code": "142",
         "country":"Armenia",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"ARM"
@@ -105,6 +115,7 @@
         "country_code_m49":"533",
         "region_code": "019",
         "country":"Aruba",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"ARU"
@@ -115,6 +126,7 @@
         "country_code_m49":"036",
         "region_code": "009",
         "country":"Australia",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Australasia",
         "fifa":"AUS"
@@ -125,6 +137,7 @@
         "country_code_m49":"040",
         "region_code": "150",
         "country":"Austria",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Central Europe",
         "fifa":"AUT"
@@ -135,6 +148,7 @@
         "country_code_m49":"031",
         "region_code": "142",
         "country":"Azerbaijan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"AZE"
@@ -145,6 +159,7 @@
         "country_code_m49":"044",
         "region_code": "019",
         "country":"Bahamas",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"BAH"
@@ -155,6 +170,7 @@
         "country_code_m49":"048",
         "region_code": "142",
         "country":"Bahrain",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"BHR"
@@ -165,6 +181,7 @@
         "country_code_m49":"050",
         "region_code": "142",
         "country":"Bangladesh",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"South Asia",
         "fifa":"BAN"
@@ -175,6 +192,7 @@
         "country_code_m49":"052",
         "region_code": "019",
         "country":"Barbados",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"BRB"
@@ -185,6 +203,7 @@
         "country_code_m49":"112",
         "region_code": "150",
         "country":"Belarus",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Eastern Europe",
         "fifa":"BLR"
@@ -195,6 +214,7 @@
         "country_code_m49":"056",
         "region_code": "150",
         "country":"Belgium",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Western Europe",
         "fifa":"BEL"
@@ -205,6 +225,7 @@
         "country_code_m49":"084",
         "region_code": "019",
         "country":"Belize",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Central America",
         "fifa":"BLZ"
@@ -215,6 +236,7 @@
         "country_code_m49":"204",
         "region_code": "002",
         "country":"Benin",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"BEN"
@@ -225,6 +247,7 @@
         "country_code_m49":"060",
         "region_code": "019",
         "country":"Bermuda",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Northern America",
         "fifa":"BER"
@@ -235,6 +258,7 @@
         "country_code_m49":"064",
         "region_code": "142",
         "country":"Bhutan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"South Asia",
         "fifa":"BHU"
@@ -245,6 +269,7 @@
         "country_code_m49":"068",
         "region_code": "019",
         "country":"Bolivia",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Central South America",
         "fifa":"BOL"
@@ -255,6 +280,7 @@
         "country_code_m49":"070",
         "region_code": "150",
         "country":"Bosnia and Herzegovina",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southeastern Europe",
         "fifa":"BIH"
@@ -265,6 +291,7 @@
         "country_code_m49":"072",
         "region_code": "002",
         "country":"Botswana",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Southern Africa",
         "fifa":"BOT"
@@ -275,6 +302,7 @@
         "country_code_m49":"076",
         "region_code": "019",
         "country":"Brazil",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Eastern South America",
         "fifa":"BRA"
@@ -285,6 +313,7 @@
         "country_code_m49":"096",
         "region_code": "142",
         "country":"Brunei",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"BRU"
@@ -295,6 +324,7 @@
         "country_code_m49":"100",
         "region_code": "150",
         "country":"Bulgaria",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southeastern Europe",
         "fifa":"BUL"
@@ -305,6 +335,7 @@
         "country_code_m49":"854",
         "region_code": "002",
         "country":"Burkina Faso",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"BFA"
@@ -315,6 +346,7 @@
         "country_code_m49":"108",
         "region_code": "002",
         "country":"Burundi",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"BDI"
@@ -325,6 +357,7 @@
         "country_code_m49":"116",
         "region_code": "142",
         "country":"Cambodia",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"CAM"
@@ -335,6 +368,7 @@
         "country_code_m49":"120",
         "region_code": "002",
         "country":"Cameroon",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Central Africa",
         "fifa":"CMR"
@@ -345,6 +379,7 @@
         "country_code_m49":"124",
         "region_code": "019",
         "country":"Canada",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Northern America",
         "fifa":"CAN"
@@ -355,6 +390,7 @@
         "country_code_m49":"132",
         "region_code": "002",
         "country":"Cape Verde",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"CPV"
@@ -365,6 +401,7 @@
         "country_code_m49":"136",
         "region_code": "019",
         "country":"Cayman Islands",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"CAY"
@@ -375,6 +412,7 @@
         "country_code_m49":"140",
         "region_code": "002",
         "country":"Central African Republic",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Central Africa",
         "fifa":"CTA"
@@ -385,6 +423,7 @@
         "country_code_m49":"148",
         "region_code": "002",
         "country":"Chad",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Central Africa",
         "fifa":"CHA"
@@ -395,6 +434,7 @@
         "country_code_m49":"152",
         "region_code": "019",
         "country":"Chile",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Southern South America",
         "fifa":"CHI"
@@ -405,6 +445,7 @@
         "country_code_m49":"156",
         "region_code": "142",
         "country":"China",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"East Asia",
         "fifa":"CHN"
@@ -415,6 +456,7 @@
         "country_code_m49":"170",
         "region_code": "019",
         "country":"Colombia",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Northern South America",
         "fifa":"COL"
@@ -425,6 +467,7 @@
         "country_code_m49":"174",
         "region_code": "002",
         "country":"Comoros",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"COM"
@@ -435,6 +478,7 @@
         "country_code_m49":"178",
         "region_code": "002",
         "country":"Congo",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Central Africa",
         "fifa":"CGO"
@@ -445,6 +489,7 @@
         "country_code_m49":"184",
         "region_code": "009",
         "country":"Cook Islands",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Polynesia",
         "fifa":"COK"
@@ -455,6 +500,7 @@
         "country_code_m49":"188",
         "region_code": "019",
         "country":"Costa Rica",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Central America",
         "fifa":"CRC"
@@ -465,6 +511,7 @@
         "country_code_m49":"191",
         "region_code": "150",
         "country":"Croatia",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southeastern Europe",
         "fifa":"CRO"
@@ -475,6 +522,7 @@
         "country_code_m49":"192",
         "region_code": "019",
         "country":"Cuba",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"CUB"
@@ -485,6 +533,7 @@
         "country_code_m49":"196",
         "region_code": "142",
         "country":"Cyprus",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"CYP"
@@ -495,6 +544,7 @@
         "country_code_m49":"203",
         "region_code": "150",
         "country":"Czech Republic",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Central Europe",
         "fifa":"CZE"
@@ -505,6 +555,7 @@
         "country_code_m49":"208",
         "region_code": "150",
         "country":"Denmark",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"DEN"
@@ -515,6 +566,7 @@
         "country_code_m49":"262",
         "region_code": "002",
         "country":"Djibouti",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"DJI"
@@ -525,6 +577,7 @@
         "country_code_m49":"212",
         "region_code": "019",
         "country":"Dominica",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"DMA"
@@ -535,6 +588,7 @@
         "country_code_m49":"214",
         "region_code": "019",
         "country":"Dominican Republic",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"DOM"
@@ -545,6 +599,7 @@
         "country_code_m49":"218",
         "region_code": "019",
         "country":"Ecuador",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Northwestern South America",
         "fifa":"ECU"
@@ -555,6 +610,7 @@
         "country_code_m49":"818",
         "region_code": "002",
         "country":"Egypt",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"North Africa",
         "fifa":"EGY"
@@ -565,6 +621,7 @@
         "country_code_m49":"222",
         "region_code": "019",
         "country":"El Salvador",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Central America",
         "fifa":"SLV"
@@ -575,6 +632,12 @@
         "country_code_m49":"826",
         "region_code": "150",
         "country":"England",
+        "alternative_name": [
+            "Britain",
+            "UK",
+            "Great Britain",
+            "United Kingdom"
+        ],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"ENG"
@@ -585,6 +648,7 @@
         "country_code_m49":"226",
         "region_code": "002",
         "country":"Equatorial Guinea",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Central Africa",
         "fifa":"EQG"
@@ -595,6 +659,7 @@
         "country_code_m49":"232",
         "region_code": "002",
         "country":"Eritrea",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"ERI"
@@ -605,6 +670,7 @@
         "country_code_m49":"233",
         "region_code": "150",
         "country":"Estonia",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"EST"
@@ -615,6 +681,7 @@
         "country_code_m49":"748",
         "region_code": "002",
         "country":"Eswatini",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Southern Africa",
         "fifa":"SWZ"
@@ -625,6 +692,7 @@
         "country_code_m49":"231",
         "region_code": "002",
         "country":"Ethiopia",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"ETH"
@@ -635,6 +703,7 @@
         "country_code_m49":"234",
         "region_code": "150",
         "country":"Faroe Islands",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"FRO"
@@ -645,6 +714,7 @@
         "country_code_m49":"246",
         "region_code": "150",
         "country":"Finland",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"FIN"
@@ -655,6 +725,7 @@
         "country_code_m49":"250",
         "region_code": "150",
         "country":"France",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Western Europe",
         "fifa":"FRA"
@@ -665,6 +736,7 @@
         "country_code_m49":"266",
         "region_code": "002",
         "country":"Gabon",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Central Africa",
         "fifa":"GAB"
@@ -675,6 +747,7 @@
         "country_code_m49":"270",
         "region_code": "002",
         "country":"Gambia",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"GAM"
@@ -685,6 +758,7 @@
         "country_code_m49":"268",
         "region_code": "142",
         "country":"Georgia",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"GEO"
@@ -695,6 +769,7 @@
         "country_code_m49":"276",
         "region_code": "150",
         "country":"Germany",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Central Europe",
         "fifa":"GER"
@@ -705,6 +780,7 @@
         "country_code_m49":"288",
         "region_code": "002",
         "country":"Ghana",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"GHA"
@@ -715,6 +791,7 @@
         "country_code_m49":"292",
         "region_code": "150",
         "country":"Gibraltar",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southern Europe",
         "fifa":"GIB"
@@ -725,6 +802,7 @@
         "country_code_m49":"300",
         "region_code": "150",
         "country":"Greece",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southeastern Europe",
         "fifa":"GRE"
@@ -735,6 +813,7 @@
         "country_code_m49":"308",
         "region_code": "019",
         "country":"Grenada",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"GRN"
@@ -745,6 +824,7 @@
         "country_code_m49":"316",
         "region_code": "009",
         "country":"Guam",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Micronesia",
         "fifa":"GUM"
@@ -755,6 +835,7 @@
         "country_code_m49":"320",
         "region_code": "019",
         "country":"Guatemala",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Central America",
         "fifa":"GUA"
@@ -765,6 +846,7 @@
         "country_code_m49":"324",
         "region_code": "002",
         "country":"Guinea",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"GUI"
@@ -775,6 +857,7 @@
         "country_code_m49":"624",
         "region_code": "002",
         "country":"Guinea-Bissau",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"GNB"
@@ -785,6 +868,7 @@
         "country_code_m49":"328",
         "region_code": "019",
         "country":"Guyana",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Northeastern South America",
         "fifa":"GUY"
@@ -795,6 +879,7 @@
         "country_code_m49":"332",
         "region_code": "019",
         "country":"Haiti",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"HAI"
@@ -805,6 +890,7 @@
         "country_code_m49":"340",
         "region_code": "019",
         "country":"Honduras",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Central America",
         "fifa":"HON"
@@ -815,6 +901,7 @@
         "country_code_m49":"344",
         "region_code": "142",
         "country":"Hong Kong",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"East Asia",
         "fifa":"HKG"
@@ -825,6 +912,7 @@
         "country_code_m49":"348",
         "region_code": "150",
         "country":"Hungary",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Central Europe",
         "fifa":"HUN"
@@ -835,6 +923,7 @@
         "country_code_m49":"352",
         "region_code": "150",
         "country":"Iceland",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"ISL"
@@ -845,6 +934,7 @@
         "country_code_m49":"356",
         "region_code": "142",
         "country":"India",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"South Asia",
         "fifa":"IND"
@@ -855,6 +945,7 @@
         "country_code_m49":"360",
         "region_code": "142",
         "country":"Indonesia",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"IDN"
@@ -865,6 +956,7 @@
         "country_code_m49":"364",
         "region_code": "142",
         "country":"Iran",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southern Asia",
         "fifa":"IRN"
@@ -875,6 +967,7 @@
         "country_code_m49":"368",
         "region_code": "142",
         "country":"Iraq",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"IRQ"
@@ -885,6 +978,7 @@
         "country_code_m49":"376",
         "region_code": "142",
         "country":"Israel",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"ISR"
@@ -895,6 +989,7 @@
         "country_code_m49":"380",
         "region_code": "150",
         "country":"Italy",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southern Europe",
         "fifa":"ITA"
@@ -905,6 +1000,7 @@
         "country_code_m49":"384",
         "region_code": "002",
         "country":"Ivory Coast",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"CIV"
@@ -915,6 +1011,7 @@
         "country_code_m49":"388",
         "region_code": "019",
         "country":"Jamaica",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"JAM"
@@ -925,6 +1022,7 @@
         "country_code_m49":"392",
         "region_code": "142",
         "country":"Japan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"East Asia",
         "fifa":"JPN"
@@ -935,6 +1033,7 @@
         "country_code_m49":"400",
         "region_code": "142",
         "country":"Jordan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"JOR"
@@ -945,6 +1044,7 @@
         "country_code_m49":"398",
         "region_code": "142",
         "country":"Kazakhstan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Central Asia",
         "fifa":"KAZ"
@@ -955,6 +1055,7 @@
         "country_code_m49":"404",
         "region_code": "002",
         "country":"Kenya",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"KEN"
@@ -965,6 +1066,7 @@
         "country_code_m49":"414",
         "region_code": "142",
         "country":"Kuwait",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"KUW"
@@ -975,6 +1077,7 @@
         "country_code_m49":"417",
         "region_code": "142",
         "country":"Kyrgyzstan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Central Asia",
         "fifa":"KGZ"
@@ -985,6 +1088,7 @@
         "country_code_m49":"418",
         "region_code": "142",
         "country":"Laos",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"LAO"
@@ -995,6 +1099,7 @@
         "country_code_m49":"428",
         "region_code": "150",
         "country":"Latvia",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"LVA"
@@ -1005,6 +1110,7 @@
         "country_code_m49":"422",
         "region_code": "142",
         "country":"Lebanon",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"LBN"
@@ -1015,6 +1121,7 @@
         "country_code_m49":"426",
         "region_code": "002",
         "country":"Lesotho",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Southern Africa",
         "fifa":"LES"
@@ -1025,6 +1132,7 @@
         "country_code_m49":"430",
         "region_code": "002",
         "country":"Liberia",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"LBR"
@@ -1035,6 +1143,7 @@
         "country_code_m49":"434",
         "region_code": "002",
         "country":"Libya",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"North Africa",
         "fifa":"LBY"
@@ -1045,6 +1154,7 @@
         "country_code_m49":"438",
         "region_code": "150",
         "country":"Liechtenstein",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Central Europe",
         "fifa":"LIE"
@@ -1055,6 +1165,7 @@
         "country_code_m49":"440",
         "region_code": "150",
         "country":"Lithuania",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"LTU"
@@ -1065,6 +1176,7 @@
         "country_code_m49":"442",
         "region_code": "150",
         "country":"Luxembourg",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Western Europe",
         "fifa":"LUX"
@@ -1075,6 +1187,7 @@
         "country_code_m49":"450",
         "region_code": "002",
         "country":"Madagascar",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"MAD"
@@ -1085,6 +1198,7 @@
         "country_code_m49":"454",
         "region_code": "002",
         "country":"Malawi",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"MWI"
@@ -1095,6 +1209,7 @@
         "country_code_m49":"458",
         "region_code": "142",
         "country":"Malaysia",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"MAS"
@@ -1105,6 +1220,7 @@
         "country_code_m49":"462",
         "region_code": "142",
         "country":"Maldives",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"South Asia",
         "fifa":"MDV"
@@ -1115,6 +1231,7 @@
         "country_code_m49":"466",
         "region_code": "002",
         "country":"Mali",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"MLI"
@@ -1125,6 +1242,7 @@
         "country_code_m49":"470",
         "region_code": "150",
         "country":"Malta",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southern Europe",
         "fifa":"MLT"
@@ -1135,6 +1253,7 @@
         "country_code_m49":"478",
         "region_code": "002",
         "country":"Mauritania",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"MTN"
@@ -1145,6 +1264,7 @@
         "country_code_m49":"480",
         "region_code": "002",
         "country":"Mauritius",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"MRI"
@@ -1155,6 +1275,10 @@
         "country_code_m49":"484",
         "region_code": "019",
         "country":"Mexico",
+        "alternative_name": [
+            "United States of Mexico",
+            "United Mexican States"
+        ],
         "region":"America",
         "subregion":"Central America",
         "fifa":"MEX"
@@ -1165,6 +1289,7 @@
         "country_code_m49":"498",
         "region_code": "150",
         "country":"Moldova",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Eastern Europe",
         "fifa":"MDA"
@@ -1175,6 +1300,7 @@
         "country_code_m49":"496",
         "region_code": "142",
         "country":"Mongolia",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"East Asia",
         "fifa":"MNG"
@@ -1185,6 +1311,7 @@
         "country_code_m49":"499",
         "region_code": "150",
         "country":"Montenegro",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southeastern Europe",
         "fifa":"MNE"
@@ -1195,6 +1322,7 @@
         "country_code_m49":"500",
         "region_code": "019",
         "country":"Montserrat",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"MSR"
@@ -1205,6 +1333,7 @@
         "country_code_m49":"504",
         "region_code": "002",
         "country":"Morocco",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"North Africa",
         "fifa":"MAR"
@@ -1215,6 +1344,7 @@
         "country_code_m49":"508",
         "region_code": "002",
         "country":"Mozambique",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"MOZ"
@@ -1225,6 +1355,7 @@
         "country_code_m49":"104",
         "region_code": "142",
         "country":"Myanmar",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"MYA"
@@ -1235,6 +1366,7 @@
         "country_code_m49":"516",
         "region_code": "002",
         "country":"Namibia",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Southern Africa",
         "fifa":"NAM"
@@ -1245,6 +1377,7 @@
         "country_code_m49":"524",
         "region_code": "142",
         "country":"Nepal",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"South Asia",
         "fifa":"NEP"
@@ -1255,6 +1388,7 @@
         "country_code_m49":"528",
         "region_code": "150",
         "country":"Netherlands",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Western Europe",
         "fifa":"NED"
@@ -1265,6 +1399,7 @@
         "country_code_m49":"540",
         "region_code": "009",
         "country":"New Caledonia",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Melanesia",
         "fifa":"NCL"
@@ -1275,6 +1410,7 @@
         "country_code_m49":"554",
         "region_code": "009",
         "country":"New Zealand",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Australasia",
         "fifa":"NZL"
@@ -1285,6 +1421,7 @@
         "country_code_m49":"558",
         "region_code": "019",
         "country":"Nicaragua",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Central America",
         "fifa":"NCA"
@@ -1295,6 +1432,7 @@
         "country_code_m49":"562",
         "region_code": "002",
         "country":"Niger",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"NIG"
@@ -1305,6 +1443,7 @@
         "country_code_m49":"566",
         "region_code": "002",
         "country":"Nigeria",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"NGA"
@@ -1315,6 +1454,7 @@
         "country_code_m49":"408",
         "region_code": "142",
         "country":"North Korea",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"East Asia",
         "fifa":"PRK"
@@ -1325,6 +1465,7 @@
         "country_code_m49":"807",
         "region_code": "150",
         "country":"North Macedonia",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southeastern Europe",
         "fifa":"MKD"
@@ -1335,6 +1476,7 @@
         "country_code_m49":"826",
         "region_code": "150",
         "country":"Northern Ireland",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"NIR"
@@ -1345,6 +1487,7 @@
         "country_code_m49":"578",
         "region_code": "150",
         "country":"Norway",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"NOR"
@@ -1355,6 +1498,7 @@
         "country_code_m49":"512",
         "region_code": "142",
         "country":"Oman",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"OMA"
@@ -1365,6 +1509,7 @@
         "country_code_m49":"586",
         "region_code": "142",
         "country":"Pakistan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"South Asia",
         "fifa":"PAK"
@@ -1375,6 +1520,7 @@
         "country_code_m49":"275",
         "region_code": "142",
         "country":"Palestine",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"PLE"
@@ -1385,6 +1531,7 @@
         "country_code_m49":"591",
         "region_code": "019",
         "country":"Panama",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Central America",
         "fifa":"PAN"
@@ -1395,6 +1542,7 @@
         "country_code_m49":"598",
         "region_code": "009",
         "country":"Papua New Guinea",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Melanesia",
         "fifa":"PNG"
@@ -1405,6 +1553,7 @@
         "country_code_m49":"600",
         "region_code": "019",
         "country":"Paraguay",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Central South America",
         "fifa":"PAR"
@@ -1415,6 +1564,7 @@
         "country_code_m49":"604",
         "region_code": "019",
         "country":"Peru",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Western South America",
         "fifa":"PER"
@@ -1425,6 +1575,7 @@
         "country_code_m49":"608",
         "region_code": "142",
         "country":"Philippines",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"PHI"
@@ -1435,6 +1586,7 @@
         "country_code_m49":"616",
         "region_code": "150",
         "country":"Poland",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Central Europe",
         "fifa":"POL"
@@ -1445,6 +1597,7 @@
         "country_code_m49":"620",
         "region_code": "150",
         "country":"Portugal",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southern Europe",
         "fifa":"POR"
@@ -1455,6 +1608,7 @@
         "country_code_m49":"630",
         "region_code": "019",
         "country":"Puerto Rico",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"PUR"
@@ -1465,6 +1619,7 @@
         "country_code_m49":"634",
         "region_code": "142",
         "country":"Qatar",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"QAT"
@@ -1475,6 +1630,7 @@
         "country_code_m49":"642",
         "region_code": "150",
         "country":"Romania",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southeastern Europe",
         "fifa":"ROU"
@@ -1485,6 +1641,7 @@
         "country_code_m49":"643",
         "region_code": "150",
         "country":"Russia",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Eastern Europe",
         "fifa":"RUS"
@@ -1495,6 +1652,7 @@
         "country_code_m49":"646",
         "region_code": "002",
         "country":"Rwanda",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"RWA"
@@ -1505,6 +1663,7 @@
         "country_code_m49":"659",
         "region_code": "019",
         "country":"Saint Kitts and Nevis",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"SKN"
@@ -1515,6 +1674,7 @@
         "country_code_m49":"662",
         "region_code": "019",
         "country":"Saint Lucia",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"LCA"
@@ -1525,6 +1685,7 @@
         "country_code_m49":"670",
         "region_code": "019",
         "country":"Saint Vincent and the Grenadines",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"VIN"
@@ -1535,6 +1696,7 @@
         "country_code_m49":"882",
         "region_code": "009",
         "country":"Samoa",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Polynesia",
         "fifa":"SAM"
@@ -1545,6 +1707,7 @@
         "country_code_m49":"674",
         "region_code": "150",
         "country":"San Marino",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southern Europe",
         "fifa":"SMR"
@@ -1555,6 +1718,7 @@
         "country_code_m49":"682",
         "region_code": "142",
         "country":"Saudi Arabia",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"KSA"
@@ -1565,6 +1729,7 @@
         "country_code_m49":"826",
         "region_code": "150",
         "country":"Scotland",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"SCO"
@@ -1575,6 +1740,7 @@
         "country_code_m49":"686",
         "region_code": "002",
         "country":"Senegal",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"SEN"
@@ -1585,6 +1751,7 @@
         "country_code_m49":"688",
         "region_code": "150",
         "country":"Serbia",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southeastern Europe",
         "fifa":"SRB"
@@ -1595,6 +1762,7 @@
         "country_code_m49":"690",
         "region_code": "002",
         "country":"Seychelles",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"SEY"
@@ -1605,6 +1773,7 @@
         "country_code_m49":"694",
         "region_code": "002",
         "country":"Sierra Leone",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"SLE"
@@ -1615,6 +1784,7 @@
         "country_code_m49":"702",
         "region_code": "142",
         "country":"Singapore",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"SGP"
@@ -1625,6 +1795,7 @@
         "country_code_m49":"703",
         "region_code": "150",
         "country":"Slovakia",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Central Europe",
         "fifa":"SVK"
@@ -1635,6 +1806,7 @@
         "country_code_m49":"705",
         "region_code": "150",
         "country":"Slovenia",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Southern Europe",
         "fifa":"SVN"
@@ -1645,6 +1817,7 @@
         "country_code_m49":"090",
         "region_code": "009",
         "country":"Solomon Islands",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Melanesia",
         "fifa":"SOL"
@@ -1655,6 +1828,7 @@
         "country_code_m49":"706",
         "region_code": "002",
         "country":"Somalia",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"SOM"
@@ -1665,6 +1839,7 @@
         "country_code_m49":"710",
         "region_code": "002",
         "country":"South Africa",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"Southern Africa",
         "fifa":"RSA"
@@ -1675,6 +1850,7 @@
         "country_code_m49":"410",
         "region_code": "142",
         "country":"South Korea",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"East Asia",
         "fifa":"KOR"
@@ -1685,6 +1861,7 @@
         "country_code_m49":"728",
         "region_code": "002",
         "country":"South Sudan",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"SSD"
@@ -1695,6 +1872,9 @@
         "country_code_m49":"724",
         "region_code": "150",
         "country":"Spain",
+        "alternative_name": [
+            "Kingdom of Spain"
+        ],
         "region":"Europe",
         "subregion":"Southern Europe",
         "fifa":"ESP"
@@ -1705,6 +1885,7 @@
         "country_code_m49":"144",
         "region_code": "142",
         "country":"Sri Lanka",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"South Asia",
         "fifa":"SRI"
@@ -1715,6 +1896,7 @@
         "country_code_m49":"729",
         "region_code": "002",
         "country":"Sudan",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"North Africa",
         "fifa":"SDN"
@@ -1725,6 +1907,7 @@
         "country_code_m49":"740",
         "region_code": "019",
         "country":"Suriname",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Northeastern South America",
         "fifa":"SUR"
@@ -1735,6 +1918,7 @@
         "country_code_m49":"752",
         "region_code": "150",
         "country":"Sweden",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"SWE"
@@ -1745,6 +1929,7 @@
         "country_code_m49":"756",
         "region_code": "150",
         "country":"Switzerland",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Central Europe",
         "fifa":"SUI"
@@ -1755,6 +1940,7 @@
         "country_code_m49":"760",
         "region_code": "142",
         "country":"Syria",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"SYR"
@@ -1765,6 +1951,7 @@
         "country_code_m49":"762",
         "region_code": "142",
         "country":"Tajikistan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Central Asia",
         "fifa":"TJK"
@@ -1775,6 +1962,7 @@
         "country_code_m49":"834",
         "region_code": "002",
         "country":"Tanzania",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"TAN"
@@ -1785,6 +1973,7 @@
         "country_code_m49":"764",
         "region_code": "142",
         "country":"Thailand",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"THA"
@@ -1795,6 +1984,7 @@
         "country_code_m49":"768",
         "region_code": "002",
         "country":"Togo",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"West Africa",
         "fifa":"TOG"
@@ -1805,6 +1995,7 @@
         "country_code_m49":"776",
         "region_code": "009",
         "country":"Tonga",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Polynesia",
         "fifa":"TGA"
@@ -1815,6 +2006,7 @@
         "country_code_m49":"780",
         "region_code": "019",
         "country":"Trinidad and Tobago",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"TRI"
@@ -1825,6 +2017,7 @@
         "country_code_m49":"788",
         "region_code": "002",
         "country":"Tunisia",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"North Africa",
         "fifa":"TUN"
@@ -1835,6 +2028,7 @@
         "country_code_m49":"792",
         "region_code": "142",
         "country":"Turkey",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"TUR"
@@ -1845,6 +2039,7 @@
         "country_code_m49":"795",
         "region_code": "142",
         "country":"Turkmenistan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Central Asia",
         "fifa":"TKM"
@@ -1855,6 +2050,7 @@
         "country_code_m49":"796",
         "region_code": "019",
         "country":"Turks and Caicos Islands",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Caribbean",
         "fifa":"TCA"
@@ -1865,6 +2061,7 @@
         "country_code_m49":"800",
         "region_code": "002",
         "country":"Uganda",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"UGA"
@@ -1875,6 +2072,7 @@
         "country_code_m49":"804",
         "region_code": "150",
         "country":"Ukraine",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Eastern Europe",
         "fifa":"UKR"
@@ -1885,6 +2083,7 @@
         "country_code_m49":"784",
         "region_code": "142",
         "country":"United Arab Emirates",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"UAE"
@@ -1895,6 +2094,11 @@
         "country_code_m49":"840",
         "region_code": "019",
         "country":"United States",
+        "alternative_name": [
+            "America",
+            "USA",
+            "US"
+        ],
         "region":"America",
         "subregion":"Northern America",
         "fifa":"USA"
@@ -1905,6 +2109,7 @@
         "country_code_m49":"858",
         "region_code": "019",
         "country":"Uruguay",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Southern South America",
         "fifa":"URU"
@@ -1915,6 +2120,7 @@
         "country_code_m49":"860",
         "region_code": "142",
         "country":"Uzbekistan",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Central Asia",
         "fifa":"UZB"
@@ -1925,6 +2131,7 @@
         "country_code_m49":"548",
         "region_code": "009",
         "country":"Vanuatu",
+        "alternative_name": [],
         "region":"Oceania",
         "subregion":"Melanesia",
         "fifa":"VAN"
@@ -1935,6 +2142,7 @@
         "country_code_m49":"862",
         "region_code": "019",
         "country":"Venezuela",
+        "alternative_name": [],
         "region":"America",
         "subregion":"Northern South America",
         "fifa":"VEN"
@@ -1945,6 +2153,7 @@
         "country_code_m49":"704",
         "region_code": "142",
         "country":"Vietnam",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Southeast Asia",
         "fifa":"VIE"
@@ -1955,6 +2164,7 @@
         "country_code_m49":"826",
         "region_code": "150",
         "country":"Wales",
+        "alternative_name": [],
         "region":"Europe",
         "subregion":"Northern Europe",
         "fifa":"WAL"
@@ -1965,6 +2175,7 @@
         "country_code_m49":"887",
         "region_code": "142",
         "country":"Yemen",
+        "alternative_name": [],
         "region":"Asia",
         "subregion":"Western Asia",
         "fifa":"YEM"
@@ -1975,6 +2186,7 @@
         "country_code_m49":"894",
         "region_code": "002",
         "country":"Zambia",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"ZAM"
@@ -1985,6 +2197,7 @@
         "country_code_m49":"716",
         "region_code": "002",
         "country":"Zimbabwe",
+        "alternative_name": [],
         "region":"Africa",
         "subregion":"East Africa",
         "fifa":"ZIM"
