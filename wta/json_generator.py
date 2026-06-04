@@ -5,7 +5,7 @@ import re
 import asyncio
 import asyncio
 import datetime
-from typing import Any, Iterator
+from typing import Any, Callable, Iterator
 from functools import lru_cache
 import argparse
 
@@ -62,7 +62,7 @@ def get_continent_by_country(value: str | None) -> list[dict[str, Any]]:
     the alpha-3 code, and if that fails, it tries to find a match using the FIFA code."""
     if value is None:
         return []
-    
+
     def verifier(incoming_value: dict[str, Any]) -> bool:
         return any([
             incoming_value['country'].lower() == value.lower(),
@@ -70,11 +70,11 @@ def get_continent_by_country(value: str | None) -> list[dict[str, Any]]:
             incoming_value['code_alpha_3'].lower() == value.lower(),
             incoming_value['fifa'].lower() == value.lower(),
             incoming_value['alternative_name'] and any(
-                alt_name.lower() == value.lower() 
+                alt_name.lower() == value.lower()
                 for alt_name in incoming_value['alternative_name']
             )
         ])
-    
+
     return list(filter(verifier, countries_by_continent))
 
 
@@ -227,7 +227,8 @@ def _is_tibreak(score: str) -> bool:
 
 
 def _create_tiebreak_tuple(values: list[int], lhv: str, rhv: str = '') -> list[int]:
-    """Creates a tuple of the form (6, 7, tiebreak_score) or (7, 6, tiebreak_score) depending on the score."""
+    """Creates a tuple of the form (6, 7, tiebreak_score) or 
+    (7, 6, tiebreak_score) depending on the score."""
     if f'{lhv}'.startswith('6'):
         result = re.match(r'^6(\d+)', f'{lhv}')
         if result:
@@ -274,7 +275,7 @@ def score_analysis(data: dict[str, str], value: str):
         data['third_set_tiebreak'] = _is_tibreak(str_scores[2])
 
     # Get the numerical scores as a list of tuples
-    _scores: list[tuple[int, int]] = []
+    _scores: list[tuple[int, int, int | None]] = []
     for i, score in enumerate(str_scores):
         # [('5', '7'), ('6', '1'), ('1', '6')]
         _values: Iterator[tuple[str, str]] = map(
@@ -328,8 +329,8 @@ def score_analysis(data: dict[str, str], value: str):
         if str_scores[0].startswith('6 -') or str_scores[0].startswith('7 -'):
             data['first_set_won'] = True
 
-    # Correct the count for the scores that contain walkover or bye
-    # data['number_of_games'] = len(_scores)
+    # Correct the count for the scores
+    # that contain walkover or bye
     for item in _scores:
         if len(item) == 1:
             if item[0] == 'Walkover' or item[0] == 'Bye':
@@ -338,11 +339,41 @@ def score_analysis(data: dict[str, str], value: str):
             if item[0] == 'Ret':
                 data['number_of_sets'] = data['number_of_sets'] - 1
 
-        # if item and (item[0] == 'Walkover' or item[0] == 'Bye'):
-        #     data['number_of_games'] = 0
-        # else:
-        #     print(item[:2])
-        #     data['number_of_games'] += sum(item[:2])
+    # Also correct the text score
+    fixed_score = []
+    for item in _scores:
+        if len(item) == 1:
+            continue
+
+        if item[2] is None:
+            value = '-'.join(
+                str(x) for x in filter(lambda x: x is not None, item)
+            )
+            fixed_score.append(value)
+            continue
+        else:
+            lhv, rhv, tiebreak_score = item
+            value = f'{lhv}-{rhv} ({tiebreak_score})'
+            fixed_score.append(value)
+
+    if fixed_score:
+        data['score'] = ', '.join(fixed_score)
+
+    # Calculate the total number of games and those
+    # won by the winner and the loser
+    data['total_games'] = 0
+    data['winner_games'] = 0
+    data['loser_games'] = 0
+
+    for item in _scores:
+        if len(item) == 1:
+            continue
+
+        lhv, rhv, _ = item
+        if isinstance(lhv, int) and isinstance(rhv, int):
+            data['total_games'] += lhv + rhv
+            data['winner_games'] += lhv
+            data['loser_games'] += rhv
 
 
 def _set_country_details(data: dict[str, Any]):
@@ -370,7 +401,7 @@ def _set_country_details(data: dict[str, Any]):
 
 def correct_data(tournament: dict[str, str | list[str]]) -> list:
     """Main entry function to correct the data by applying all the fixes to the data dictionary."""
-    fixes = [
+    fixes: list[Callable[[dict[str, str | list[str]]], None]] = [
         clean_location,
         start_end_date,
         get_location
@@ -441,7 +472,8 @@ def correct_data(tournament: dict[str, str | list[str]]) -> list:
 
         if 'Prize Money Won: Prize Money:' in item:
             prize_money = item.removeprefix(
-                'Prize Money Won: Prize Money:').strip()
+                'Prize Money Won: Prize Money:'
+            ).strip()
             tournament['prize_money'] = int(prize_money.removeprefix(
                 '+').removeprefix('$').replace(',', ''))
         if 'Draw:' in item:
@@ -451,7 +483,7 @@ def correct_data(tournament: dict[str, str | list[str]]) -> list:
 
 
 async def main():
-    for index, item in enumerate(FILES):
+    for _, item in enumerate(FILES):
         with item.open() as f:
             data = json.load(f)
             for tournament in data:
