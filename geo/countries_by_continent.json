@@ -3,6 +3,7 @@
         "code-alpha-2": "AF",
         "code-alpha-3": "AFG",
         "country": "Afghanistan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Central Asia"
     },
@@ -10,6 +11,7 @@
         "code-alpha-2": "AL",
         "code-alpha-3": "ALB",
         "country": "Albania",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southeastern Europe"
     },
@@ -17,6 +19,7 @@
         "code-alpha-2": "DZ",
         "code-alpha-3": "DZA",
         "country": "Algeria",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "North Africa"
     },
@@ -24,6 +27,7 @@
         "code-alpha-2": "AS",
         "code-alpha-3": "ASM",
         "country": "American Samoa",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -31,6 +35,7 @@
         "code-alpha-2": "AD",
         "code-alpha-3": "AND",
         "country": "Andorra",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southwestern Europe"
     },
@@ -38,6 +43,7 @@
         "code-alpha-2": "AO",
         "code-alpha-3": "AGO",
         "country": "Angola",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Central Africa"
     },
@@ -45,6 +51,7 @@
         "code-alpha-2": "AI",
         "code-alpha-3": "AIA",
         "country": "Anguilla",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -52,6 +59,7 @@
         "code-alpha-2": "AQ",
         "code-alpha-3": "ATA",
         "country": "Antarctica",
+        "alternative_name": [],
         "continent": "Antarctica",
         "subcontinent": "East Antarctica"
     },
@@ -59,6 +67,7 @@
         "code-alpha-2": "AG",
         "code-alpha-3": "ATG",
         "country": "Antigua and Barbuda",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -66,6 +75,7 @@
         "code-alpha-2": "AR",
         "code-alpha-3": "ARG",
         "country": "Argentina",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Southern South America"
     },
@@ -73,6 +83,7 @@
         "code-alpha-2": "AM",
         "code-alpha-3": "ARM",
         "country": "Armenia",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -80,6 +91,7 @@
         "code-alpha-2": "AW",
         "code-alpha-3": "ABW",
         "country": "Aruba",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -87,6 +99,7 @@
         "code-alpha-2": "AU",
         "code-alpha-3": "AUS",
         "country": "Australia",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Australasia"
     },
@@ -94,6 +107,7 @@
         "code-alpha-2": "AT",
         "code-alpha-3": "AUT",
         "country": "Austria",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Central Europe"
     },
@@ -101,6 +115,7 @@
         "code-alpha-2": "AZ",
         "code-alpha-3": "AZE",
         "country": "Azerbaijan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -108,6 +123,7 @@
         "code-alpha-2": "BS",
         "code-alpha-3": "BHS",
         "country": "Bahamas",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -115,6 +131,7 @@
         "code-alpha-2": "BH",
         "code-alpha-3": "BHR",
         "country": "Bahrain",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -122,6 +139,7 @@
         "code-alpha-2": "BD",
         "code-alpha-3": "BGD",
         "country": "Bangladesh",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "South Asia"
     },
@@ -129,6 +147,7 @@
         "code-alpha-2": "BB",
         "code-alpha-3": "BRB",
         "country": "Barbados",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -136,6 +155,7 @@
         "code-alpha-2": "BY",
         "code-alpha-3": "BLR",
         "country": "Belarus",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Eastern Europe"
     },
@@ -143,6 +163,7 @@
         "code-alpha-2": "BE",
         "code-alpha-3": "BEL",
         "country": "Belgium",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Western Europe"
     },
@@ -150,6 +171,7 @@
         "code-alpha-2": "BZ",
         "code-alpha-3": "BLZ",
         "country": "Belize",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Central America"
     },
@@ -157,6 +179,7 @@
         "code-alpha-2": "BJ",
         "code-alpha-3": "BEN",
         "country": "Benin",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -164,6 +187,7 @@
         "code-alpha-2": "BM",
         "code-alpha-3": "BMU",
         "country": "Bermuda",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Northern America"
     },
@@ -171,6 +195,7 @@
         "code-alpha-2": "BT",
         "code-alpha-3": "BTN",
         "country": "Bhutan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "South Asia"
     },
@@ -178,6 +203,7 @@
         "code-alpha-2": "BO",
         "code-alpha-3": "BOL",
         "country": "Bolivia",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Central South America"
     },
@@ -185,6 +211,7 @@
         "code-alpha-2": "BA",
         "code-alpha-3": "BIH",
         "country": "Bosnia and Herzegovina",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southeastern Europe"
     },
@@ -192,6 +219,7 @@
         "code-alpha-2": "BW",
         "code-alpha-3": "BWA",
         "country": "Botswana",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Southern Africa"
     },
@@ -199,6 +227,7 @@
         "code-alpha-2": "BV",
         "code-alpha-3": "BVT",
         "country": "Bouvet Island",
+        "alternative_name": [],
         "continent": "Antarctica",
         "subcontinent": "Subantarctic Islands"
     },
@@ -206,6 +235,7 @@
         "code-alpha-2": "BR",
         "code-alpha-3": "BRA",
         "country": "Brazil",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Eastern South America"
     },
@@ -213,6 +243,7 @@
         "code-alpha-2": "IO",
         "code-alpha-3": "IOT",
         "country": "British Indian Ocean Territory",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -220,6 +251,7 @@
         "code-alpha-2": "BN",
         "code-alpha-3": "BRN",
         "country": "Brunei",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -227,6 +259,7 @@
         "code-alpha-2": "BG",
         "code-alpha-3": "BGR",
         "country": "Bulgaria",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southeastern Europe"
     },
@@ -234,6 +267,7 @@
         "code-alpha-2": "BF",
         "code-alpha-3": "BFA",
         "country": "Burkina Faso",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -241,6 +275,7 @@
         "code-alpha-2": "BI",
         "code-alpha-3": "BDI",
         "country": "Burundi",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -248,6 +283,7 @@
         "code-alpha-2": "KH",
         "code-alpha-3": "KHM",
         "country": "Cambodia",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -255,6 +291,7 @@
         "code-alpha-2": "CM",
         "code-alpha-3": "CMR",
         "country": "Cameroon",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Central Africa"
     },
@@ -262,6 +299,7 @@
         "code-alpha-2": "CA",
         "code-alpha-3": "CAN",
         "country": "Canada",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Northern America"
     },
@@ -269,6 +307,7 @@
         "code-alpha-2": "CV",
         "code-alpha-3": "CPV",
         "country": "Cape Verde",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -276,6 +315,7 @@
         "code-alpha-2": "KY",
         "code-alpha-3": "CYM",
         "country": "Cayman Islands",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -283,6 +323,7 @@
         "code-alpha-2": "CF",
         "code-alpha-3": "CAF",
         "country": "Central African Republic",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Central Africa"
     },
@@ -290,6 +331,7 @@
         "code-alpha-2": "TD",
         "code-alpha-3": "TCD",
         "country": "Chad",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Central Africa"
     },
@@ -297,6 +339,7 @@
         "code-alpha-2": "CL",
         "code-alpha-3": "CHL",
         "country": "Chile",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Southern South America"
     },
@@ -304,6 +347,7 @@
         "code-alpha-2": "CN",
         "code-alpha-3": "CHN",
         "country": "China",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "East Asia"
     },
@@ -311,6 +355,7 @@
         "code-alpha-2": "CX",
         "code-alpha-3": "CXR",
         "country": "Christmas Island",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Australasia"
     },
@@ -318,6 +363,7 @@
         "code-alpha-2": "CC",
         "code-alpha-3": "CCK",
         "country": "Cocos (Keeling) Islands",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Australasia"
     },
@@ -325,6 +371,7 @@
         "code-alpha-2": "CO",
         "code-alpha-3": "COL",
         "country": "Colombia",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Northern South America"
     },
@@ -332,6 +379,7 @@
         "code-alpha-2": "KM",
         "code-alpha-3": "COM",
         "country": "Comoros",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -339,6 +387,7 @@
         "code-alpha-2": "CG",
         "code-alpha-3": "COG",
         "country": "Congo",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Central Africa"
     },
@@ -346,6 +395,7 @@
         "code-alpha-2": "CK",
         "code-alpha-3": "COK",
         "country": "Cook Islands",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -353,6 +403,7 @@
         "code-alpha-2": "CR",
         "code-alpha-3": "CRI",
         "country": "Costa Rica",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Central America"
     },
@@ -360,6 +411,7 @@
         "code-alpha-2": "HR",
         "code-alpha-3": "HRV",
         "country": "Croatia",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southeastern Europe"
     },
@@ -367,6 +419,7 @@
         "code-alpha-2": "CU",
         "code-alpha-3": "CUB",
         "country": "Cuba",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -374,6 +427,7 @@
         "code-alpha-2": "CY",
         "code-alpha-3": "CYP",
         "country": "Cyprus",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -381,6 +435,7 @@
         "code-alpha-2": "CZ",
         "code-alpha-3": "CZE",
         "country": "Czech Republic",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Central Europe"
     },
@@ -388,6 +443,7 @@
         "code-alpha-2": "DK",
         "code-alpha-3": "DNK",
         "country": "Denmark",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -395,6 +451,7 @@
         "code-alpha-2": "DJ",
         "code-alpha-3": "DJI",
         "country": "Djibouti",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -402,6 +459,7 @@
         "code-alpha-2": "DM",
         "code-alpha-3": "DMA",
         "country": "Dominica",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -409,6 +467,7 @@
         "code-alpha-2": "DO",
         "code-alpha-3": "DOM",
         "country": "Dominican Republic",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -416,6 +475,7 @@
         "code-alpha-2": "TL",
         "code-alpha-3": "TLS",
         "country": "East Timor",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -423,6 +483,7 @@
         "code-alpha-2": "EC",
         "code-alpha-3": "ECU",
         "country": "Ecuador",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Northwestern South America"
     },
@@ -430,6 +491,7 @@
         "code-alpha-2": "EG",
         "code-alpha-3": "EGY",
         "country": "Egypt",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "North Africa"
     },
@@ -437,6 +499,7 @@
         "code-alpha-2": "SV",
         "code-alpha-3": "SLV",
         "country": "El Salvador",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Central America"
     },
@@ -444,6 +507,7 @@
         "code-alpha-2": "GB",
         "code-alpha-3": "GBR",
         "country": "England",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -451,6 +515,7 @@
         "code-alpha-2": "GQ",
         "code-alpha-3": "GNQ",
         "country": "Equatorial Guinea",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Central Africa"
     },
@@ -458,6 +523,7 @@
         "code-alpha-2": "ER",
         "code-alpha-3": "ERI",
         "country": "Eritrea",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -465,6 +531,7 @@
         "code-alpha-2": "EE",
         "code-alpha-3": "EST",
         "country": "Estonia",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -472,6 +539,7 @@
         "code-alpha-2": "SZ",
         "code-alpha-3": "SWZ",
         "country": "Eswatini",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Southern Africa"
     },
@@ -479,6 +547,7 @@
         "code-alpha-2": "ET",
         "code-alpha-3": "ETH",
         "country": "Ethiopia",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -486,6 +555,7 @@
         "code-alpha-2": "FK",
         "code-alpha-3": "FLK",
         "country": "Falkland Islands",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Southern South America"
     },
@@ -493,6 +563,7 @@
         "code-alpha-2": "FO",
         "code-alpha-3": "FRO",
         "country": "Faroe Islands",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -500,6 +571,7 @@
         "code-alpha-2": "FJ",
         "code-alpha-3": "FJI",
         "country": "Fiji Islands",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Melanesia"
     },
@@ -507,6 +579,7 @@
         "code-alpha-2": "FI",
         "code-alpha-3": "FIN",
         "country": "Finland",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -514,6 +587,7 @@
         "code-alpha-2": "FR",
         "code-alpha-3": "FRA",
         "country": "France",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Western Europe"
     },
@@ -521,6 +595,7 @@
         "code-alpha-2": "GF",
         "code-alpha-3": "GUF",
         "country": "French Guiana",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Northeastern South America"
     },
@@ -528,6 +603,7 @@
         "code-alpha-2": "PF",
         "code-alpha-3": "PYF",
         "country": "French Polynesia",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -535,6 +611,7 @@
         "code-alpha-2": "TF",
         "code-alpha-3": "ATF",
         "country": "French Southern territories",
+        "alternative_name": [],
         "continent": "Antarctica",
         "subcontinent": "Subantarctic Islands"
     },
@@ -542,6 +619,7 @@
         "code-alpha-2": "GA",
         "code-alpha-3": "GAB",
         "country": "Gabon",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Central Africa"
     },
@@ -549,6 +627,7 @@
         "code-alpha-2": "GM",
         "code-alpha-3": "GMB",
         "country": "Gambia",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -556,6 +635,7 @@
         "code-alpha-2": "GE",
         "code-alpha-3": "GEO",
         "country": "Georgia",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -563,6 +643,7 @@
         "code-alpha-2": "DE",
         "code-alpha-3": "DEU",
         "country": "Germany",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Central Europe"
     },
@@ -570,6 +651,7 @@
         "code-alpha-2": "GH",
         "code-alpha-3": "GHA",
         "country": "Ghana",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -577,6 +659,7 @@
         "code-alpha-2": "GI",
         "code-alpha-3": "GIB",
         "country": "Gibraltar",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southern Europe"
     },
@@ -584,6 +667,7 @@
         "code-alpha-2": "GR",
         "code-alpha-3": "GRC",
         "country": "Greece",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southeastern Europe"
     },
@@ -591,6 +675,7 @@
         "code-alpha-2": "GL",
         "code-alpha-3": "GRL",
         "country": "Greenland",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Northern America"
     },
@@ -598,6 +683,7 @@
         "code-alpha-2": "GD",
         "code-alpha-3": "GRD",
         "country": "Grenada",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -605,6 +691,7 @@
         "code-alpha-2": "GP",
         "code-alpha-3": "GLP",
         "country": "Guadeloupe",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -612,6 +699,7 @@
         "code-alpha-2": "GU",
         "code-alpha-3": "GUM",
         "country": "Guam",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Micronesia"
     },
@@ -619,6 +707,7 @@
         "code-alpha-2": "GT",
         "code-alpha-3": "GTM",
         "country": "Guatemala",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Central America"
     },
@@ -626,6 +715,7 @@
         "code-alpha-2": "GN",
         "code-alpha-3": "GIN",
         "country": "Guinea",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -633,6 +723,7 @@
         "code-alpha-2": "GW",
         "code-alpha-3": "GNB",
         "country": "Guinea-Bissau",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -640,6 +731,7 @@
         "code-alpha-2": "GY",
         "code-alpha-3": "GUY",
         "country": "Guyana",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Northeastern South America"
     },
@@ -647,6 +739,7 @@
         "code-alpha-2": "HT",
         "code-alpha-3": "HTI",
         "country": "Haiti",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -654,6 +747,7 @@
         "code-alpha-2": "HM",
         "code-alpha-3": "HMD",
         "country": "Heard Island and McDonald Islands",
+        "alternative_name": [],
         "continent": "Antarctica",
         "subcontinent": "Subantarctic Islands"
     },
@@ -661,6 +755,7 @@
         "code-alpha-2": "VA",
         "code-alpha-3": "VAT",
         "country": "Holy See (Vatican City State)",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southern Europe"
     },
@@ -668,6 +763,7 @@
         "code-alpha-2": "HN",
         "code-alpha-3": "HND",
         "country": "Honduras",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Central America"
     },
@@ -675,6 +771,7 @@
         "code-alpha-2": "HK",
         "code-alpha-3": "HKG",
         "country": "Hong Kong",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "East Asia"
     },
@@ -682,6 +779,7 @@
         "code-alpha-2": "HU",
         "code-alpha-3": "HUN",
         "country": "Hungary",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Central Europe"
     },
@@ -689,6 +787,7 @@
         "code-alpha-2": "IS",
         "code-alpha-3": "ISL",
         "country": "Iceland",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -696,6 +795,7 @@
         "code-alpha-2": "IN",
         "code-alpha-3": "IND",
         "country": "India",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "South Asia"
     },
@@ -703,6 +803,7 @@
         "code-alpha-2": "ID",
         "code-alpha-3": "IDN",
         "country": "Indonesia",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -710,6 +811,7 @@
         "code-alpha-2": "IR",
         "code-alpha-3": "IRN",
         "country": "Iran",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southern Asia"
     },
@@ -717,6 +819,7 @@
         "code-alpha-2": "IQ",
         "code-alpha-3": "IRQ",
         "country": "Iraq",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -724,6 +827,7 @@
         "code-alpha-2": "IE",
         "code-alpha-3": "IRL",
         "country": "Ireland",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -731,6 +835,7 @@
         "code-alpha-2": "IL",
         "code-alpha-3": "ISR",
         "country": "Israel",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -738,6 +843,7 @@
         "code-alpha-2": "IT",
         "code-alpha-3": "ITA",
         "country": "Italy",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southern Europe"
     },
@@ -745,6 +851,7 @@
         "code-alpha-2": "CI",
         "code-alpha-3": "CIV",
         "country": "Ivory Coast",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -752,6 +859,7 @@
         "code-alpha-2": "JM",
         "code-alpha-3": "JAM",
         "country": "Jamaica",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -759,6 +867,7 @@
         "code-alpha-2": "JP",
         "code-alpha-3": "JPN",
         "country": "Japan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "East Asia"
     },
@@ -766,6 +875,7 @@
         "code-alpha-2": "JO",
         "code-alpha-3": "JOR",
         "country": "Jordan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -773,6 +883,7 @@
         "code-alpha-2": "KZ",
         "code-alpha-3": "KAZ",
         "country": "Kazakhstan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Central Asia"
     },
@@ -780,6 +891,7 @@
         "code-alpha-2": "KE",
         "code-alpha-3": "KEN",
         "country": "Kenya",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -787,6 +899,7 @@
         "code-alpha-2": "KI",
         "code-alpha-3": "KIR",
         "country": "Kiribati",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Micronesia"
     },
@@ -794,6 +907,7 @@
         "code-alpha-2": "KW",
         "code-alpha-3": "KWT",
         "country": "Kuwait",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -801,6 +915,7 @@
         "code-alpha-2": "KG",
         "code-alpha-3": "KGZ",
         "country": "Kyrgyzstan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Central Asia"
     },
@@ -808,6 +923,7 @@
         "code-alpha-2": "LA",
         "code-alpha-3": "LAO",
         "country": "Laos",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -815,6 +931,7 @@
         "code-alpha-2": "LV",
         "code-alpha-3": "LVA",
         "country": "Latvia",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -822,6 +939,7 @@
         "code-alpha-2": "LB",
         "code-alpha-3": "LBN",
         "country": "Lebanon",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -829,6 +947,7 @@
         "code-alpha-2": "LS",
         "code-alpha-3": "LSO",
         "country": "Lesotho",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Southern Africa"
     },
@@ -836,6 +955,7 @@
         "code-alpha-2": "LR",
         "code-alpha-3": "LBR",
         "country": "Liberia",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -843,6 +963,7 @@
         "code-alpha-2": "LY",
         "code-alpha-3": "LBY",
         "country": "Libya",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "North Africa"
     },
@@ -850,6 +971,7 @@
         "code-alpha-2": "LI",
         "code-alpha-3": "LIE",
         "country": "Liechtenstein",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Central Europe"
     },
@@ -857,6 +979,7 @@
         "code-alpha-2": "LT",
         "code-alpha-3": "LTU",
         "country": "Lithuania",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -864,6 +987,7 @@
         "code-alpha-2": "LU",
         "code-alpha-3": "LUX",
         "country": "Luxembourg",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Western Europe"
     },
@@ -871,6 +995,7 @@
         "code-alpha-2": "MO",
         "code-alpha-3": "MAC",
         "country": "Macao",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "East Asia"
     },
@@ -878,6 +1003,7 @@
         "code-alpha-2": "MK",
         "code-alpha-3": "MKD",
         "country": "North Macedonia",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southeastern Europe"
     },
@@ -885,6 +1011,7 @@
         "code-alpha-2": "MG",
         "code-alpha-3": "MDG",
         "country": "Madagascar",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -892,6 +1019,7 @@
         "code-alpha-2": "MW",
         "code-alpha-3": "MWI",
         "country": "Malawi",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -899,6 +1027,7 @@
         "code-alpha-2": "MY",
         "code-alpha-3": "MYS",
         "country": "Malaysia",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -906,6 +1035,7 @@
         "code-alpha-2": "MV",
         "code-alpha-3": "MDV",
         "country": "Maldives",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "South Asia"
     },
@@ -913,6 +1043,7 @@
         "code-alpha-2": "ML",
         "code-alpha-3": "MLI",
         "country": "Mali",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -920,6 +1051,7 @@
         "code-alpha-2": "MT",
         "code-alpha-3": "MLT",
         "country": "Malta",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southern Europe"
     },
@@ -927,6 +1059,7 @@
         "code-alpha-2": "MH",
         "code-alpha-3": "MHL",
         "country": "Marshall Islands",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Micronesia"
     },
@@ -934,6 +1067,7 @@
         "code-alpha-2": "MQ",
         "code-alpha-3": "MTQ",
         "country": "Martinique",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -941,6 +1075,7 @@
         "code-alpha-2": "MR",
         "code-alpha-3": "MRT",
         "country": "Mauritania",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -948,6 +1083,7 @@
         "code-alpha-2": "MU",
         "code-alpha-3": "MUS",
         "country": "Mauritius",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -955,6 +1091,7 @@
         "code-alpha-2": "YT",
         "code-alpha-3": "MYT",
         "country": "Mayotte",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -962,6 +1099,10 @@
         "code-alpha-2": "MX",
         "code-alpha-3": "MEX",
         "country": "Mexico",
+        "alternative_name": [
+            "United States of Mexico",
+            "United Mexican States"
+        ],
         "continent": "North America",
         "subcontinent": "Central America"
     },
@@ -969,6 +1110,7 @@
         "code-alpha-2": "FM",
         "code-alpha-3": "FSM",
         "country": "Micronesia, Federated States of",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Micronesia"
     },
@@ -976,6 +1118,7 @@
         "code-alpha-2": "MD",
         "code-alpha-3": "MDA",
         "country": "Moldova",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Eastern Europe"
     },
@@ -983,6 +1126,7 @@
         "code-alpha-2": "MC",
         "code-alpha-3": "MCO",
         "country": "Monaco",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Western Europe"
     },
@@ -990,6 +1134,7 @@
         "code-alpha-2": "MN",
         "code-alpha-3": "MNG",
         "country": "Mongolia",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "East Asia"
     },
@@ -997,6 +1142,7 @@
         "code-alpha-2": "ME",
         "code-alpha-3": "MNE",
         "country": "Montenegro",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southeastern Europe"
     },
@@ -1004,6 +1150,7 @@
         "code-alpha-2": "MS",
         "code-alpha-3": "MSR",
         "country": "Montserrat",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1011,6 +1158,7 @@
         "code-alpha-2": "MA",
         "code-alpha-3": "MAR",
         "country": "Morocco",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "North Africa"
     },
@@ -1018,6 +1166,7 @@
         "code-alpha-2": "MZ",
         "code-alpha-3": "MOZ",
         "country": "Mozambique",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -1025,6 +1174,7 @@
         "code-alpha-2": "MM",
         "code-alpha-3": "MMR",
         "country": "Myanmar",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -1032,6 +1182,7 @@
         "code-alpha-2": "NA",
         "code-alpha-3": "NAM",
         "country": "Namibia",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Southern Africa"
     },
@@ -1039,6 +1190,7 @@
         "code-alpha-2": "NR",
         "code-alpha-3": "NRU",
         "country": "Nauru",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Micronesia"
     },
@@ -1046,6 +1198,7 @@
         "code-alpha-2": "NP",
         "code-alpha-3": "NPL",
         "country": "Nepal",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "South Asia"
     },
@@ -1053,6 +1206,7 @@
         "code-alpha-2": "NL",
         "code-alpha-3": "NLD",
         "country": "Netherlands",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Western Europe"
     },
@@ -1060,6 +1214,7 @@
         "code-alpha-2": "AN",
         "code-alpha-3": "ANT",
         "country": "Netherlands Antilles",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1067,6 +1222,7 @@
         "code-alpha-2": "NC",
         "code-alpha-3": "NCL",
         "country": "New Caledonia",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Melanesia"
     },
@@ -1074,6 +1230,7 @@
         "code-alpha-2": "NZ",
         "code-alpha-3": "NZL",
         "country": "New Zealand",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Australasia"
     },
@@ -1081,6 +1238,7 @@
         "code-alpha-2": "NI",
         "code-alpha-3": "NIC",
         "country": "Nicaragua",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Central America"
     },
@@ -1088,6 +1246,7 @@
         "code-alpha-2": "NE",
         "code-alpha-3": "NER",
         "country": "Niger",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -1095,6 +1254,7 @@
         "code-alpha-2": "NG",
         "code-alpha-3": "NGA",
         "country": "Nigeria",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -1102,6 +1262,7 @@
         "code-alpha-2": "NU",
         "code-alpha-3": "NIU",
         "country": "Niue",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -1109,6 +1270,7 @@
         "code-alpha-2": "NF",
         "code-alpha-3": "NFK",
         "country": "Norfolk Island",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Australasia"
     },
@@ -1116,6 +1278,7 @@
         "code-alpha-2": "KP",
         "code-alpha-3": "PRK",
         "country": "North Korea",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "East Asia"
     },
@@ -1123,6 +1286,7 @@
         "code-alpha-2": "GB",
         "code-alpha-3": "GBR",
         "country": "Northern Ireland",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -1130,6 +1294,7 @@
         "code-alpha-2": "MP",
         "code-alpha-3": "MNP",
         "country": "Northern Mariana Islands",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Micronesia"
     },
@@ -1137,6 +1302,7 @@
         "code-alpha-2": "NO",
         "code-alpha-3": "NOR",
         "country": "Norway",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -1144,6 +1310,7 @@
         "code-alpha-2": "OM",
         "code-alpha-3": "OMN",
         "country": "Oman",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -1151,6 +1318,7 @@
         "code-alpha-2": "PK",
         "code-alpha-3": "PAK",
         "country": "Pakistan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "South Asia"
     },
@@ -1158,6 +1326,7 @@
         "code-alpha-2": "PW",
         "code-alpha-3": "PLW",
         "country": "Palau",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Micronesia"
     },
@@ -1165,6 +1334,7 @@
         "code-alpha-2": "PS",
         "code-alpha-3": "PSE",
         "country": "Palestine",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -1172,6 +1342,7 @@
         "code-alpha-2": "PA",
         "code-alpha-3": "PAN",
         "country": "Panama",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Central America"
     },
@@ -1179,6 +1350,7 @@
         "code-alpha-2": "PG",
         "code-alpha-3": "PNG",
         "country": "Papua New Guinea",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Melanesia"
     },
@@ -1186,6 +1358,7 @@
         "code-alpha-2": "PY",
         "code-alpha-3": "PRY",
         "country": "Paraguay",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Central South America"
     },
@@ -1193,6 +1366,7 @@
         "code-alpha-2": "PE",
         "code-alpha-3": "PER",
         "country": "Peru",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Western South America"
     },
@@ -1200,6 +1374,7 @@
         "code-alpha-2": "PH",
         "code-alpha-3": "PHL",
         "country": "Philippines",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -1207,6 +1382,7 @@
         "code-alpha-2": "PN",
         "code-alpha-3": "PCN",
         "country": "Pitcairn",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -1214,6 +1390,7 @@
         "code-alpha-2": "PL",
         "code-alpha-3": "POL",
         "country": "Poland",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Central Europe"
     },
@@ -1221,6 +1398,7 @@
         "code-alpha-2": "PT",
         "code-alpha-3": "PRT",
         "country": "Portugal",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southern Europe"
     },
@@ -1228,6 +1406,7 @@
         "code-alpha-2": "PR",
         "code-alpha-3": "PRI",
         "country": "Puerto Rico",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1235,6 +1414,7 @@
         "code-alpha-2": "QA",
         "code-alpha-3": "QAT",
         "country": "Qatar",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -1242,6 +1422,7 @@
         "code-alpha-2": "RE",
         "code-alpha-3": "REU",
         "country": "Reunion",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -1249,6 +1430,7 @@
         "code-alpha-2": "RO",
         "code-alpha-3": "ROU",
         "country": "Romania",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southeastern Europe"
     },
@@ -1256,6 +1438,7 @@
         "code-alpha-2": "RU",
         "code-alpha-3": "RUS",
         "country": "Russia",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Eastern Europe"
     },
@@ -1263,6 +1446,7 @@
         "code-alpha-2": "RW",
         "code-alpha-3": "RWA",
         "country": "Rwanda",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -1270,6 +1454,7 @@
         "code-alpha-2": "SH",
         "code-alpha-3": "SHN",
         "country": "Saint Helena",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -1277,6 +1462,7 @@
         "code-alpha-2": "KN",
         "code-alpha-3": "KNA",
         "country": "Saint Kitts and Nevis",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1284,6 +1470,7 @@
         "code-alpha-2": "LC",
         "code-alpha-3": "LCA",
         "country": "Saint Lucia",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1291,6 +1478,7 @@
         "code-alpha-2": "PM",
         "code-alpha-3": "SPM",
         "country": "Saint Pierre and Miquelon",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Northern America"
     },
@@ -1298,6 +1486,7 @@
         "code-alpha-2": "VC",
         "code-alpha-3": "VCT",
         "country": "Saint Vincent and the Grenadines",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1305,6 +1494,7 @@
         "code-alpha-2": "WS",
         "code-alpha-3": "WSM",
         "country": "Samoa",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -1312,6 +1502,7 @@
         "code-alpha-2": "SM",
         "code-alpha-3": "SMR",
         "country": "San Marino",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southern Europe"
     },
@@ -1319,6 +1510,7 @@
         "code-alpha-2": "ST",
         "code-alpha-3": "STP",
         "country": "Sao Tome and Principe",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Central Africa"
     },
@@ -1326,6 +1518,7 @@
         "code-alpha-2": "SA",
         "code-alpha-3": "SAU",
         "country": "Saudi Arabia",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -1333,6 +1526,7 @@
         "code-alpha-2": "GB",
         "code-alpha-3": "GBR",
         "country": "Scotland",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -1340,6 +1534,7 @@
         "code-alpha-2": "SN",
         "code-alpha-3": "SEN",
         "country": "Senegal",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -1347,6 +1542,7 @@
         "code-alpha-2": "RS",
         "code-alpha-3": "SRB",
         "country": "Serbia",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southeastern Europe"
     },
@@ -1354,6 +1550,7 @@
         "code-alpha-2": "SC",
         "code-alpha-3": "SYC",
         "country": "Seychelles",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -1361,6 +1558,7 @@
         "code-alpha-2": "SL",
         "code-alpha-3": "SLE",
         "country": "Sierra Leone",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -1368,6 +1566,7 @@
         "code-alpha-2": "SG",
         "code-alpha-3": "SGP",
         "country": "Singapore",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -1375,6 +1574,7 @@
         "code-alpha-2": "SK",
         "code-alpha-3": "SVK",
         "country": "Slovakia",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Central Europe"
     },
@@ -1382,6 +1582,7 @@
         "code-alpha-2": "SI",
         "code-alpha-3": "SVN",
         "country": "Slovenia",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southern Europe"
     },
@@ -1389,6 +1590,7 @@
         "code-alpha-2": "SB",
         "code-alpha-3": "SLB",
         "country": "Solomon Islands",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Melanesia"
     },
@@ -1396,6 +1598,7 @@
         "code-alpha-2": "SO",
         "code-alpha-3": "SOM",
         "country": "Somalia",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -1403,6 +1606,7 @@
         "code-alpha-2": "ZA",
         "code-alpha-3": "ZAF",
         "country": "South Africa",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Southern Africa"
     },
@@ -1410,6 +1614,7 @@
         "code-alpha-2": "GS",
         "code-alpha-3": "SGS",
         "country": "South Georgia and the South Sandwich Islands",
+        "alternative_name": [],
         "continent": "Antarctica",
         "subcontinent": "Subantarctic Islands"
     },
@@ -1417,6 +1622,7 @@
         "code-alpha-2": "KR",
         "code-alpha-3": "KOR",
         "country": "South Korea",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "East Asia"
     },
@@ -1424,6 +1630,7 @@
         "code-alpha-2": "SS",
         "code-alpha-3": "SSD",
         "country": "South Sudan",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -1431,6 +1638,7 @@
         "code-alpha-2": "ES",
         "code-alpha-3": "ESP",
         "country": "Spain",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Southern Europe"
     },
@@ -1438,6 +1646,7 @@
         "code-alpha-2": "LK",
         "code-alpha-3": "LKA",
         "country": "Sri Lanka",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "South Asia"
     },
@@ -1445,6 +1654,7 @@
         "code-alpha-2": "SD",
         "code-alpha-3": "SDN",
         "country": "Sudan",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "North Africa"
     },
@@ -1452,6 +1662,7 @@
         "code-alpha-2": "SR",
         "code-alpha-3": "SUR",
         "country": "Suriname",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Northeastern South America"
     },
@@ -1459,6 +1670,7 @@
         "code-alpha-2": "SJ",
         "code-alpha-3": "SJM",
         "country": "Svalbard and Jan Mayen",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -1466,6 +1678,7 @@
         "code-alpha-2": "SE",
         "code-alpha-3": "SWE",
         "country": "Sweden",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -1473,6 +1686,7 @@
         "code-alpha-2": "CH",
         "code-alpha-3": "CHE",
         "country": "Switzerland",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Central Europe"
     },
@@ -1480,6 +1694,7 @@
         "code-alpha-2": "SY",
         "code-alpha-3": "SYR",
         "country": "Syria",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -1487,6 +1702,7 @@
         "code-alpha-2": "TJ",
         "code-alpha-3": "TJK",
         "country": "Tajikistan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Central Asia"
     },
@@ -1494,6 +1710,7 @@
         "code-alpha-2": "TZ",
         "code-alpha-3": "TZA",
         "country": "Tanzania",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -1501,6 +1718,7 @@
         "code-alpha-2": "TH",
         "code-alpha-3": "THA",
         "country": "Thailand",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -1508,6 +1726,7 @@
         "code-alpha-2": "CD",
         "code-alpha-3": "COD",
         "country": "The Democratic Republic of Congo",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "Central Africa"
     },
@@ -1515,6 +1734,7 @@
         "code-alpha-2": "TG",
         "code-alpha-3": "TGO",
         "country": "Togo",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "West Africa"
     },
@@ -1522,6 +1742,7 @@
         "code-alpha-2": "TK",
         "code-alpha-3": "TKL",
         "country": "Tokelau",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -1529,6 +1750,7 @@
         "code-alpha-2": "TO",
         "code-alpha-3": "TON",
         "country": "Tonga",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -1536,6 +1758,7 @@
         "code-alpha-2": "TT",
         "code-alpha-3": "TTO",
         "country": "Trinidad and Tobago",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1543,6 +1766,7 @@
         "code-alpha-2": "TN",
         "code-alpha-3": "TUN",
         "country": "Tunisia",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "North Africa"
     },
@@ -1550,6 +1774,7 @@
         "code-alpha-2": "TR",
         "code-alpha-3": "TUR",
         "country": "Turkey",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -1557,6 +1782,7 @@
         "code-alpha-2": "TM",
         "code-alpha-3": "TKM",
         "country": "Turkmenistan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Central Asia"
     },
@@ -1564,6 +1790,7 @@
         "code-alpha-2": "TC",
         "code-alpha-3": "TCA",
         "country": "Turks and Caicos Islands",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1571,6 +1798,7 @@
         "code-alpha-2": "TV",
         "code-alpha-3": "TUV",
         "country": "Tuvalu",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -1578,6 +1806,7 @@
         "code-alpha-2": "UG",
         "code-alpha-3": "UGA",
         "country": "Uganda",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -1585,6 +1814,7 @@
         "code-alpha-2": "UA",
         "code-alpha-3": "UKR",
         "country": "Ukraine",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Eastern Europe"
     },
@@ -1592,6 +1822,7 @@
         "code-alpha-2": "AE",
         "code-alpha-3": "ARE",
         "country": "United Arab Emirates",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -1599,6 +1830,11 @@
         "code-alpha-2": "GB",
         "code-alpha-3": "GBR",
         "country": "United Kingdom",
+        "alternative_name": [
+            "Britain",
+            "UK",
+            "Great Britain"
+        ],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -1606,6 +1842,11 @@
         "code-alpha-2": "US",
         "code-alpha-3": "USA",
         "country": "United States",
+        "alternative_name": [
+            "America",
+            "USA",
+            "US"
+        ],
         "continent": "North America",
         "subcontinent": "Northern America"
     },
@@ -1613,6 +1854,7 @@
         "code-alpha-2": "UM",
         "code-alpha-3": "UMI",
         "country": "United States Minor Outlying Islands",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Micronesia"
     },
@@ -1620,6 +1862,7 @@
         "code-alpha-2": "UY",
         "code-alpha-3": "URY",
         "country": "Uruguay",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Southern South America"
     },
@@ -1627,6 +1870,7 @@
         "code-alpha-2": "UZ",
         "code-alpha-3": "UZB",
         "country": "Uzbekistan",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Central Asia"
     },
@@ -1634,6 +1878,7 @@
         "code-alpha-2": "VU",
         "code-alpha-3": "VUT",
         "country": "Vanuatu",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Melanesia"
     },
@@ -1641,6 +1886,7 @@
         "code-alpha-2": "VE",
         "code-alpha-3": "VEN",
         "country": "Venezuela",
+        "alternative_name": [],
         "continent": "South America",
         "subcontinent": "Northern South America"
     },
@@ -1648,6 +1894,7 @@
         "code-alpha-2": "VN",
         "code-alpha-3": "VNM",
         "country": "Vietnam",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Southeast Asia"
     },
@@ -1655,6 +1902,7 @@
         "code-alpha-2": "VG",
         "code-alpha-3": "VGB",
         "country": "Virgin Islands, British",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1662,6 +1910,7 @@
         "code-alpha-2": "VI",
         "code-alpha-3": "VIR",
         "country": "Virgin Islands, U.S.",
+        "alternative_name": [],
         "continent": "North America",
         "subcontinent": "Caribbean"
     },
@@ -1669,6 +1918,7 @@
         "code-alpha-2": "GB",
         "code-alpha-3": "GBR",
         "country": "Wales",
+        "alternative_name": [],
         "continent": "Europe",
         "subcontinent": "Northern Europe"
     },
@@ -1676,6 +1926,7 @@
         "code-alpha-2": "WF",
         "code-alpha-3": "WLF",
         "country": "Wallis and Futuna",
+        "alternative_name": [],
         "continent": "Oceania",
         "subcontinent": "Polynesia"
     },
@@ -1683,6 +1934,7 @@
         "code-alpha-2": "EH",
         "code-alpha-3": "ESH",
         "country": "Western Sahara",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "North Africa"
     },
@@ -1690,6 +1942,7 @@
         "code-alpha-2": "YE",
         "code-alpha-3": "YEM",
         "country": "Yemen",
+        "alternative_name": [],
         "continent": "Asia",
         "subcontinent": "Western Asia"
     },
@@ -1697,6 +1950,7 @@
         "code-alpha-2": "ZM",
         "code-alpha-3": "ZMB",
         "country": "Zambia",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     },
@@ -1704,6 +1958,7 @@
         "code-alpha-2": "ZW",
         "code-alpha-3": "ZWE",
         "country": "Zimbabwe",
+        "alternative_name": [],
         "continent": "Africa",
         "subcontinent": "East Africa"
     }

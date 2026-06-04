@@ -2,20 +2,14 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Services: WTA API",
+            "name": "WTA: Json Generator",
             "type": "debugpy",
             "request": "launch",
-            "module": "uvicorn",
-            "cwd": "${workspaceFolder}/services/wtaapi",
-            "envFile": "${workspaceFolder}/services/wtaapi/.env",
-            "args": [
-                "app:app",
-                "--reload"
-            ],
-            "jinja": true,
+            "program": "${workspaceFolder}/wta/json_generator.py",
+            "console": "integratedTerminal",
             "presentation": {
                 "hidden": false,
-                "group": "Python",
+                "group": "WTA",
                 "order": 1
             }
         }
