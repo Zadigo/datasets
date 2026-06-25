@@ -4,10 +4,15 @@ import json
 import re
 import asyncio
 import asyncio
+import logging
+import pandas as pd
 import datetime
 from typing import Any, Callable, Iterator
 from functools import lru_cache
 import argparse
+
+
+logger = logging.getLogger(__name__)
 
 BASE_DIR = pathlib.Path(__file__).parent.absolute()
 
@@ -82,6 +87,56 @@ async def write_to_file(data: list, file_path: pathlib.Path):
     new_file_path = CORRECTED_PATH / (file_path.stem + '_corrected.json')
     with new_file_path.open('w') as f:
         json.dump(data, f, indent=4)
+
+
+async def write_to_csv(data: list[dict[str, Any]], file_path: pathlib.Path):
+    """A helper function that flattens the JSON data structure into a list of dictionnaries
+    that can used to create a pandas DataFrame."""
+    flattened: list[dict[str, Any]] = []
+
+    fields_to_rename = {
+        'code_alpha_2': 'tour_code_alpha_2',
+        'code_alpha_3': 'tour_code_alpha_3',
+        'country_code_m49': 'tour_country_code_m49',
+        'region_code': 'tour_region_code',
+        'region': 'tour_region',
+        'subregion': 'tour_subregion',
+        'fifa': 'tour_fifa',
+    }
+
+    for tournament in data:
+        matches = tournament.pop('matches', [])
+
+        _tournament = {}
+        for key, value in tournament.items():
+            if key in fields_to_rename:
+                _tournament[fields_to_rename[key]] = value
+                continue
+            _tournament[key] = value
+
+        for match in matches:
+            # Convert the splitted_score field from a list
+            # of lists to a string representation
+            _splitted_score: list[
+                list[int | None]
+            ] = match.pop('splitted_score', [])
+            splitted_score = '|'.join(
+                ','.join(map(str, inner))
+                for inner in _splitted_score
+            )
+            match['splitted_score'] = splitted_score
+
+            # Do the same for the alternative_name field
+            _alternative_name: list[str] = match.pop('alternative_name', [])
+            alternative_name = '|'.join(_alternative_name)
+            match['alternative_name'] = alternative_name
+
+            flattened.append(_tournament | match)
+
+    new_file_path = CORRECTED_PATH / (file_path.stem + '_corrected.csv')
+    with new_file_path.open('w') as f:
+        df = pd.DataFrame(flattened)
+        df.to_csv(f, index=False)
 
 
 def clean_location(data: dict):
@@ -491,13 +546,22 @@ def correct_data(tournament: dict[str, str | list[str]]) -> list:
 
 async def main():
     for _, item in enumerate(FILES):
+        logger.info(f'* Correcting data in file: {item.name}')
+
         with item.open() as f:
             data = json.load(f)
-            for tournament in data:
+            for i, tournament in enumerate(data):
+                # Before correcting, ensure that we have a good
+                # numbering for the ID field
+                tournament['id'] = i + 1
                 correct_data(tournament)
 
             task = asyncio.create_task(write_to_file(data, item))
             await task
+
+            task = asyncio.create_task(write_to_csv(data, item))
+            await task
+        logger.info(f'+ Finished correcting data in file: {item.name}')
 
 
 if __name__ == '__main__':
