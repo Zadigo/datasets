@@ -158,21 +158,39 @@ def get_location(data: dict[str, str]):
     if 'UNITED STATES' in location or 'USA' in location:
         regexes = [
             r'^(.*) \• ([A-Z]{2}), .*$',
-            r'^(.*) \• (?:UNITED\s?STATES|USA), ([A-Z]{2})$'
+            r'^(.*) \• (?:UNITED\s?STATES|USA), ([A-Z]{2})$',
+            r'^(.*) \• (?:UNITED\s?STATES|USA)$'
         ]
 
         for regex in regexes:
             match = re.match(regex, location)
             if match:
                 city = match.group(1).title()
-                state = match.group(2)
+                state = match.group(2) if match.lastindex >= 2 else None
+                break
+
+        # Handle special cases for city
+        # names in the United States
+        match city:
+            case 'New York':
+                state = 'NY'
+            case 'Indian Wells':
+                state = 'CA'
+            case 'Miami':
+                state = 'FL'
+            case 'Flushing Meadows':
+                state = 'NY'
+            case 'Newport':
+                state = 'RI'
+            case 'Fort Worth':
+                state = 'TX'
 
         # If both the regexes fail, just split the string
         # and return only the state/city part
         if state is None:
             values = location.split(
                 '•') if '•' in location else location.split(',')
-            result = values[-0]
+            result = values[-1]
             match result.lower():
                 case 'indian wells':
                     state = 'CA'
@@ -190,6 +208,15 @@ def get_location(data: dict[str, str]):
             city = city.title()
             country = country.title()
 
+    # Normalize USA to United States of America
+    if country.lower() == 'usa':
+        country = 'United States of America'
+
+    # Handle special cases for city names
+    match city:
+        case 'Flushing Meadows':
+            city = 'New York'
+
     data['city'] = city.strip() if city is not None else None
     data['country'] = country.strip() if country is not None else None
     data['state'] = state
@@ -206,7 +233,6 @@ def start_end_date(data: dict):
     date_regex = r'\d+ - \d+ .*'
 
     location = data['location']
-    result = re.search(date_regex, location)
 
     if location == '' or location is None:
         data['start_date'] = None
@@ -215,6 +241,7 @@ def start_end_date(data: dict):
         data['month'] = None
         return
 
+    result = re.search(date_regex, location)
     if result is not None:
         # Resolve this format: 22 - 28 Jun 2025
         date_tokens = result.group().split('-')
