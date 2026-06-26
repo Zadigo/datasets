@@ -37,29 +37,6 @@ with COUNTRIES_BY_CONTINENT_PATH.open() as f:
 
 
 @lru_cache(maxsize=None)
-def get_country(country_code: str | None) -> list[dict[str, Any]]:
-    if country_code is None:
-        return []
-
-    result = list(
-        filter(
-            lambda x: x['code_alpha_3'].lower() == country_code.lower(),
-            countries
-        )
-    )
-
-    if not result:
-        result = list(
-            filter(
-                lambda x: x['fifa'].lower() == country_code.lower(),
-                countries
-            )
-        )
-
-    return result
-
-
-@lru_cache(maxsize=None)
 def get_continent_by_country(value: str | None) -> list[dict[str, Any]]:
     """This function is similar to `get_country` but it searches in the 
     `countries_by_continent` dataset which contains additional information about the 
