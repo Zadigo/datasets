@@ -618,7 +618,6 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
     # This is the normalized name of the tournament that will be used for frontend
     # applications. It allows for example for "Wimbledon" also referenced as "The Championships"
     # to be mapped to the same name.
-
     match tournament['title'].lower():
         case 'the championships':
             tournament['title'] = 'Wimbledon'
@@ -629,11 +628,15 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
         case 'roland garros- paris, france':
             tournament['title'] = 'Roland Garros'
         case 'olympic tennis event':
-            tournament['title'] = 'Olympic Games'
+            tournament['title'] = 'Olympic Games'            
         case _:
             # Just use the custom name as the normalized name
             # if no special case is found
             tournament['title'] = tournament['custom_title']
+
+    # Custom case for tiles like "2018 Us Open Tennis Championships"
+    if 'Us Open Tennis Championships' in tournament['title']:
+        tournament['title'] = 'US Open'
 
     # Calculate the total number of games played in the tournament,
     # the average number of games per match, and the total number of
@@ -712,8 +715,8 @@ async def main():
             task = asyncio.create_task(write_to_csv(data, item))
             await task
 
-            async with asyncio.TaskGroup() as tg:
-                tg.create_task(collect_tournament_names(tg, data))
+            # async with asyncio.TaskGroup() as tg:
+            #     tg.create_task(collect_tournament_names(tg, data))
 
         logger.info(f'+ Finished correcting data in file: {item.name}')
 
