@@ -128,6 +128,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -207,6 +208,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -223,14 +225,19 @@
         "city": "New York",
         "country": "United States of America",
         "state": "NY",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 87,
         "points_gain": 10,
         "prize_money": 58000,
@@ -329,6 +336,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -345,14 +353,19 @@
         "city": "Cincinnati",
         "country": "United States of America",
         "state": "OH",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 97,
         "entry_type": "W",
         "points_gain": 60,
@@ -1338,14 +1351,19 @@
         "city": "New York",
         "country": "United States of America",
         "state": "NY",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 22,
         "points_gain": 240,
         "prize_money": 266000,
@@ -1681,6 +1699,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -2471,14 +2490,19 @@
         "city": "Indian Wells",
         "country": "United States of America",
         "state": "CA",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 41,
         "points_gain": 10,
         "prize_money": 15610,
@@ -2873,6 +2897,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -3543,6 +3568,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -3657,14 +3683,19 @@
         "city": "New York",
         "country": "United States of America",
         "state": "NY",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 146,
         "entry_type": "W",
         "points_gain": 240,
@@ -3758,6 +3789,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -3774,14 +3806,19 @@
         "city": "Stanford",
         "country": "United States of America",
         "state": "CA",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 171,
         "entry_type": "W",
         "points_gain": 55,
@@ -3889,6 +3926,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -4310,6 +4348,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -4407,6 +4446,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -5019,6 +5059,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -5072,6 +5113,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -6254,14 +6296,19 @@
         "city": "Miami",
         "country": "United States of America",
         "state": "FL",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 2,
         "points_gain": 10,
         "prize_money": 17100,
@@ -6454,14 +6501,19 @@
         "city": "Indian Wells",
         "country": "United States of America",
         "state": "CA",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 2,
         "points_gain": 120,
         "prize_money": 59185,
@@ -6642,6 +6694,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -6839,6 +6892,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -8215,14 +8269,19 @@
         "city": "New York",
         "country": "United States of America",
         "state": "NY",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 6,
         "points_gain": 240,
         "prize_money": 184362,
@@ -8424,6 +8483,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -8473,14 +8533,19 @@
         "city": "Cincinnati",
         "country": "United States of America",
         "state": "OH",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 6,
         "points_gain": 350,
         "prize_money": 113770,
@@ -8749,6 +8814,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -9627,6 +9693,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -10011,6 +10078,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -10246,14 +10314,19 @@
         "city": "Miami",
         "country": "United States of America",
         "state": "FL",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 7,
         "points_gain": 390,
         "prize_money": 192485,
@@ -10402,14 +10475,19 @@
         "city": "Indian Wells",
         "country": "United States of America",
         "state": "CA",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 5,
         "points_gain": 65,
         "prize_money": 28000,
@@ -10806,6 +10884,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -10884,6 +10963,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -11093,6 +11173,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -11142,14 +11223,19 @@
         "city": "Cincinnati",
         "country": "United States of America",
         "state": "OH",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 3,
         "points_gain": 1,
         "prize_money": 12200,
@@ -11327,6 +11413,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -11473,6 +11560,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -11716,6 +11804,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -11873,6 +11962,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -12053,6 +12143,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -12436,6 +12527,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -12705,14 +12797,19 @@
         "city": "Miami",
         "country": "United States of America",
         "state": "FL",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 2,
         "points_gain": 700,
         "prize_money": 353200,
@@ -13036,14 +13133,19 @@
         "city": "Indian Wells",
         "country": "United States of America",
         "state": "CA",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 3,
         "points_gain": 1000,
         "prize_money": 1000000,
@@ -13098,6 +13200,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -13473,6 +13576,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -13639,6 +13743,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -14547,6 +14652,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -14653,14 +14759,19 @@
         "city": "New York",
         "country": "United States of America",
         "state": "NY",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 3,
         "points_gain": 900,
         "prize_money": 464513,
@@ -14715,6 +14826,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -15679,6 +15791,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -15771,6 +15884,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -15882,6 +15996,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -16511,6 +16626,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -16609,14 +16725,19 @@
         "city": "Miami",
         "country": "United States of America",
         "state": "FL",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 2,
         "points_gain": 700,
         "prize_money": 352000,
@@ -16944,14 +17065,19 @@
         "city": "Indian Wells",
         "country": "United States of America",
         "state": "CA",
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 2,
         "points_gain": 700,
         "prize_money": 500000,
@@ -17461,6 +17587,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -18009,14 +18136,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 4,
         "points_gain": 160,
         "prize_money": 63723,
@@ -18302,14 +18434,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 7,
         "entry_type": "W",
         "points_gain": 900,
@@ -18516,6 +18653,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -18614,14 +18752,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 5,
         "points_gain": 120,
         "prize_money": 17300,
@@ -20058,14 +20201,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 13,
         "points_gain": 700,
         "prize_money": 350000,
@@ -20353,14 +20501,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 18,
         "points_gain": 450,
         "prize_money": 150000,
@@ -21101,6 +21254,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -21210,14 +21364,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 17,
         "points_gain": 280,
         "prize_money": 97807,
@@ -21519,14 +21678,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 15,
         "points_gain": 620,
         "prize_money": 175000,
@@ -21779,14 +21943,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 15,
         "points_gain": 320,
         "prize_money": 57150,
@@ -21841,6 +22010,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -22105,6 +22275,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -22241,6 +22412,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -22962,14 +23134,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 13,
         "points_gain": 80,
         "prize_money": 18740,
@@ -23161,6 +23338,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -23209,6 +23387,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -23225,14 +23404,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 16,
         "points_gain": 280,
         "prize_money": 37000,
@@ -23834,6 +24018,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -23882,6 +24067,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -23942,14 +24128,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 31,
         "points_gain": 160,
         "prize_money": 47016,
@@ -24506,14 +24697,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 61,
         "points_gain": 200,
         "prize_money": 28750,
@@ -24568,6 +24764,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -24677,14 +24874,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 62,
         "points_gain": 120,
         "prize_money": 15925,
@@ -25004,6 +25206,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -25935,6 +26138,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -26305,6 +26509,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -26397,6 +26602,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -26541,6 +26747,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -27718,6 +27925,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -28315,14 +28523,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 2,
         "points_gain": 90,
         "prize_money": 42271,
@@ -28901,6 +29114,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -29302,6 +29516,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -29600,6 +29815,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -29923,6 +30139,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -29976,6 +30193,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -30539,6 +30757,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -31998,14 +32217,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 4,
         "points_gain": 700,
         "prize_money": 1607693,
@@ -32724,6 +32948,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -32772,6 +32997,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -32899,6 +33125,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -33035,6 +33262,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -33293,6 +33521,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -33887,6 +34116,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -33935,6 +34165,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -34095,6 +34326,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -34382,6 +34614,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -34674,6 +34907,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -34845,6 +35079,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -34954,14 +35189,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 3,
         "points_gain": 378,
         "prize_money": 250000,
@@ -35620,14 +35860,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 2,
         "points_gain": 464,
         "prize_money": 246362,
@@ -35871,6 +36116,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -37221,6 +37467,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -37362,6 +37609,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -37517,6 +37765,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -37702,6 +37951,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -38062,6 +38312,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -38310,6 +38561,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -38505,6 +38757,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -38632,6 +38885,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -38829,14 +39083,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 6,
         "points_gain": 684,
         "prize_money": 1000000,
@@ -39186,6 +39445,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -39341,6 +39601,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -40135,6 +40396,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -40151,14 +40413,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 7,
         "points_gain": 92,
         "prize_money": 36475,
@@ -40218,6 +40485,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -40574,6 +40842,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -40685,6 +40954,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -40738,6 +41008,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -40835,6 +41106,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -41241,6 +41513,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -41774,6 +42047,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -41943,6 +42217,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -42396,6 +42671,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -42729,6 +43005,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -42900,6 +43177,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -43797,14 +44075,19 @@
         "city": null,
         "country": "United States of America",
         "state": null,
-        "alternative_name": [],
-        "code_alpha_2": null,
-        "code_alpha_3": null,
-        "country_code_m49": null,
-        "region_code": null,
-        "region": null,
-        "subregion": null,
-        "fifa": "United States of America",
+        "code_alpha_2": "US",
+        "code_alpha_3": "USA",
+        "country_code_m49": "840",
+        "region_code": "019",
+        "alternative_name": [
+            "United States of America",
+            "America",
+            "USA",
+            "US"
+        ],
+        "region": "America",
+        "subregion": "Northern America",
+        "fifa": "USA",
         "rank": 54,
         "points_gain": 48,
         "prize_money": 20953,
@@ -44242,6 +44525,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -45069,6 +45353,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -45399,6 +45684,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -45478,6 +45764,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -45811,6 +46098,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -45864,6 +46152,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -45917,6 +46206,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46097,6 +46387,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46180,6 +46471,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46233,6 +46525,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46325,6 +46618,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46373,6 +46667,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46530,6 +46825,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46578,6 +46874,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46626,6 +46923,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46674,6 +46972,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46800,6 +47099,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -46892,6 +47192,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -47306,6 +47607,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -47359,6 +47661,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -47487,6 +47790,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
@@ -47570,6 +47874,7 @@
                 "country_code_m49": "840",
                 "region_code": "019",
                 "alternative_name": [
+                    "United States of America",
                     "America",
                     "USA",
                     "US"
