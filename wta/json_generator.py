@@ -310,6 +310,23 @@ def _create_tiebreak_tuple(values: list[int], lhv: str, rhv: str = '') -> list[i
 
 
 def score_analysis(data: dict[str, str], value: str):
+    """Analyzes the score and adds additional fields to the data dictionary:
+
+    * `retired`: A boolean indicating if the player retired in the match.
+    * `walkover`: A boolean indicating if the match was a walkover.
+    * `bye`: A boolean indicating if the match was a bye.
+    * `first_set_tiebreak`: A boolean indicating if the first set was a tiebreak.
+    * `second_set_tiebreak`: A boolean indicating if the second set was a tiebreak.
+    * `third_set_tiebreak`: A boolean indicating if the third set was a tiebreak.
+    * `has_tiebreak`: A boolean indicating if any of the sets was a tiebreak.
+    * `splitted_score`: A list of tuples representing the scores for each set.
+    * `number_of_sets`: An integer representing the number of sets played in the match.
+    * `first_set_won`: A boolean indicating if the first set was won by the winner of the match.
+    * `total_games`: An integer representing the total number of games played in the match.
+    * `winner_games`: An integer representing the total number of games won by the winner of the match.
+    * `loser_games`: An integer representing the total number of games won by the loser of the match.
+    * `score`: A string representing the corrected score of the match.
+    """
     # Check if the player retired in the match
     data['retired'] = False
     data['walkover'] = False
@@ -450,7 +467,18 @@ def score_analysis(data: dict[str, str], value: str):
 
 def _set_country_details(data: dict[str, Any]):
     """Sets the country details in the data dictionary by looking up 
-    the country code in the countries_by_continent.json file."""
+    the country code in the countries_by_continent.json file. Adds the
+    following fields to the data dictionary:
+
+    * `alternative_name`: A list of alternative names for the country.
+    * `code_alpha_2`: The ISO 3166-1 alpha-2 code for the country.
+    * `code_alpha_3`: The ISO 3166-1 alpha-3 code for the country.
+    * `country_code_m49`: The UN M.49 code for the country.
+    * `region_code`: The UN M.49 region code for the country.
+    * `region`: The UN M.49 region name for the country.
+    * `subregion`: The UN M.49 subregion name for the country.
+    * `fifa`: The FIFA code for the country.
+    """
     country_code: str = data['country']
 
     result = get_continent_by_country(country_code)
@@ -472,7 +500,8 @@ def _set_country_details(data: dict[str, Any]):
 
 
 async def correct_data(tournament: dict[str, str | list[str]]) -> list:
-    """Main entry function to correct the data by applying all the fixes to the data dictionary."""
+    """Main entry function to correct the data by applying all the fixes to the data dictionary.
+    """
     fixes: list[Callable[[dict[str, str | list[str]]], None]] = [
         clean_location,
         start_end_date,
@@ -507,21 +536,42 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
             result = re.sub(r'\s+', ' ', item['round']).strip()
             match result:
                 case 'Quarterfinals Quarter':
-                    item['round'] = 'Quarterfinals'
+                    item['round'] = 'QF'
                 case 'Semifinals Semi':
-                    item['round'] = 'Semifinals'
+                    item['round'] = 'SF'
                 case 'Final F':
-                    item['round'] = 'Finals'
+                    item['round'] = 'F'
                 case 'Round of 16 R16':
-                    item['round'] = 'Round of 16'
+                    item['round'] = 'R16'
                 case 'Round of 32 R32':
-                    item['round'] = 'Round of 32'
+                    item['round'] = 'R32'
                 case 'Round of 64 R64':
-                    item['round'] = 'Round of 64'
+                    item['round'] = 'R64'
                 case 'Round of 128 R128':
-                    item['round'] = 'Round of 128'
+                    item['round'] = 'R128'
+                case 'Qualifying R3 Qual. R3':
+                    item['round'] = 'QR3'
+                case 'Qualifying R2 Qual. R2':
+                    item['round'] = 'QR2'
+                case 'Qualifying R1 Qual. R1':
+                    item['round'] = 'QR1'
+                case 'Group Stage Group':
+                    item['round'] = 'RR'
                 case _:
                     item['round'] = result
+
+        # Add a numeric win/loss indicator for the
+        # winner and loser of the match
+        if item['win_loss'] == 'W':
+            item['win_loss_numeric'] = 1
+        elif item['win_loss'] == 'L':
+            item['win_loss_numeric'] = 0
+
+        if item['bye']:
+            item['win_loss_numeric'] = 0
+
+        if item['walkover']:
+            item['win_loss_numeric'] = 0
 
         # Add country details for the player
         _set_country_details(item)
@@ -535,8 +585,13 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
         if 'Rank:' in item:
             tournament['rank'] = int(item.removeprefix('Rank:').strip())
 
+        # Add simple boolean field to indicate if the
+        # player entered the tournament as a wild card
         if 'Entry Type:' in item:
             tournament['entry_type'] = item.removeprefix('Entry Type:').strip()
+            tournament['wild_card_entry'] = False
+            if tournament['entry_type'] == 'W':
+                tournament['wild_card_entry'] = True
 
         if 'WTA Points Gain: WTA Points:' in item:
             points = item.removeprefix('WTA Points Gain: WTA Points:').strip()
@@ -580,6 +635,31 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
             # if no special case is found
             tournament['title'] = tournament['custom_title']
 
+    # Calculate the total number of games played in the tournament,
+    # the average number of games per match, and the total number of
+    # matches played in the tournament.
+    valid_matches = list(
+        filter(
+            lambda x: x['bye'] is False and x['walkover'] is False,
+            tournament['matches']
+        )
+    )
+    games = sum(match['total_games'] for match in valid_matches)
+    matches = len(valid_matches)
+    avg_games = games / matches if matches > 0 else 0
+
+    tournament['tour_total_games'] = games
+    tournament['tour_total_matches'] = matches
+    tournament['tour_avg_games'] = avg_games
+
+    tournament['tour_sets_played'] = sum(
+        match['number_of_sets']
+        for match in valid_matches
+    )
+
+    tournament['tour_avg_sets_played'] = tournament['tour_sets_played'] / \
+        matches if matches > 0 else 0
+
     return tournament
 
 
@@ -593,7 +673,7 @@ async def write_tournament_name(data: dict):
             json.dump(actual_data, f, indent=4)
 
 
-async def collect_tournment_names(task_group: asyncio.TaskGroup, data: list[dict[str, str | list[str]]]):
+async def collect_tournament_names(task_group: asyncio.TaskGroup, data: list[dict[str, str | list[str]]]):
     """Collects the tournament names from the data dictionary and adds them to the task group."""
     await LOCK.acquire()
     names = {tournament['title'] for tournament in data}
@@ -633,7 +713,7 @@ async def main():
             await task
 
             async with asyncio.TaskGroup() as tg:
-                tg.create_task(collect_tournment_names(tg, data))
+                tg.create_task(collect_tournament_names(tg, data))
 
         logger.info(f'+ Finished correcting data in file: {item.name}')
 
