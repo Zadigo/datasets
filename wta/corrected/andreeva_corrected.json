@@ -342,11 +342,13 @@
         "rank": 8,
         "points_gain": 2000,
         "prize_money": 3266702,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Roland Garros",
+        "alt_titles": ""
     },
     {
         "id": 2,
-        "title": "Internazionali BNL d'Italia",
+        "title": "Internazionali Bnl D'Italia",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/2c058ad8-b3d8-49a9-a863-85d7b87a6783/WTA-Tournament_Rome-2018.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/rome",
         "level": "WTA 1000",
@@ -596,7 +598,9 @@
         "rank": 7,
         "points_gain": 215,
         "prize_money": 154210,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Internazionali Bnl D'Italia",
+        "alt_titles": ""
     },
     {
         "id": 3,
@@ -935,7 +939,9 @@
         "rank": 8,
         "points_gain": 650,
         "prize_money": 535585,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Mutua Madrid Open",
+        "alt_titles": ""
     },
     {
         "id": 4,
@@ -1156,7 +1162,9 @@
         "rank": 9,
         "points_gain": 195,
         "prize_money": 66003,
-        "draw": "32M/16Q/16D"
+        "draw": "32M/16Q/16D",
+        "custom_title": "Porsche Tennis Grand Prix",
+        "alt_titles": ""
     },
     {
         "id": 5,
@@ -1410,11 +1418,13 @@
         "rank": 10,
         "points_gain": 500,
         "prize_money": 185500,
-        "draw": "32M/16Q/16D"
+        "draw": "32M/16Q/16D",
+        "custom_title": "Upper Austria Ladies Linz",
+        "alt_titles": ""
     },
     {
         "id": 6,
-        "title": "Miami Open presented by Ita\u00fa",
+        "title": "Miami Open Presented By Ita\u00fa",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/miami-open",
         "level": "WTA 1000",
@@ -1625,11 +1635,13 @@
         "rank": 10,
         "points_gain": 120,
         "prize_money": 105720,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Miami Open Presented By Ita\u00fa",
+        "alt_titles": ""
     },
     {
         "id": 7,
-        "title": "BNP Paribas Open",
+        "title": "Bnp Paribas Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/a1736320-dd92-4829-8aa8-846c2edef410/WTA-Tournament_Indian-Wells-2017.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/indian-wells",
         "level": "WTA 1000",
@@ -1786,7 +1798,9 @@
         "rank": 8,
         "points_gain": 65,
         "prize_money": 47375,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Bnp Paribas Open",
+        "alt_titles": ""
     },
     {
         "id": 8,
@@ -1980,11 +1994,13 @@
         "rank": 7,
         "points_gain": 215,
         "prize_money": 98500,
-        "draw": "64M/32Q/32D"
+        "draw": "64M/32Q/32D",
+        "custom_title": "Dubai Duty Free Tennis Championships",
+        "alt_titles": ""
     },
     {
         "id": 9,
-        "title": "Qatar TotalEnergies Open 2026",
+        "title": "Qatar Totalenergies Open 2026",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/c44d1d24-32ae-4ebe-b5e8-bd228bfb4fc8/1003_Doha_2026.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/doha",
         "level": "WTA 1000",
@@ -2136,7 +2152,9 @@
         "rank": 7,
         "points_gain": 120,
         "prize_money": 49250,
-        "draw": "64M/32Q/32D"
+        "draw": "64M/32Q/32D",
+        "custom_title": "Qatar Totalenergies Open 2026",
+        "alt_titles": ""
     },
     {
         "id": 10,
@@ -2347,7 +2365,9 @@
         "rank": 7,
         "points_gain": 240,
         "prize_money": 310761,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Australian Open",
+        "alt_titles": ""
     },
     {
         "id": 11,
@@ -2586,7 +2606,9 @@
         "rank": 8,
         "points_gain": 500,
         "prize_money": 185500,
-        "draw": "32M/24Q/16D"
+        "draw": "32M/24Q/16D",
+        "custom_title": "Adelaide International",
+        "alt_titles": ""
     },
     {
         "id": 12,
@@ -2791,11 +2813,13 @@
         "rank": 9,
         "points_gain": 108,
         "prize_money": 37640,
-        "draw": "64M/24Q/16D"
+        "draw": "64M/24Q/16D",
+        "custom_title": "Brisbane International",
+        "alt_titles": ""
     },
     {
         "id": 13,
-        "title": "2025 AUX \u00b7 NINGBO OPEN",
+        "title": "2025 Aux \u00b7 Ningbo Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e3b17e7f-021d-45b3-8b0a-b8e6d57aec1e/WTA-Tournamnet-Logo_Ningbo.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/2092/ningbo/2025",
         "level": "WTA 500",
@@ -2903,7 +2927,9 @@
         "rank": 6,
         "points_gain": 1,
         "prize_money": 15170,
-        "draw": "32M/24Q/16D"
+        "draw": "32M/24Q/16D",
+        "custom_title": "2025 Aux \u00b7 Ningbo Open",
+        "alt_titles": ""
     },
     {
         "id": 14,
@@ -3015,7 +3041,9 @@
         "rank": 5,
         "points_gain": 10,
         "prize_money": 23450,
-        "draw": "64M/32Q/32D"
+        "draw": "64M/32Q/32D",
+        "custom_title": "Dongfeng \u00b7 Voyah Wuhan Open 2025",
+        "alt_titles": ""
     },
     {
         "id": 15,
@@ -3222,11 +3250,13 @@
         "rank": 5,
         "points_gain": 120,
         "prize_money": 103225,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "China Open",
+        "alt_titles": ""
     },
     {
         "id": 16,
-        "title": "US Open",
+        "title": "Us Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2025",
         "level": "Grand Slam",
@@ -3399,11 +3429,13 @@
         "rank": 5,
         "points_gain": 130,
         "prize_money": 237000,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Us Open",
+        "alt_titles": ""
     },
     {
         "id": 17,
-        "title": "Omnium Banque Nationale pr\u00e9sent\u00e9 par Rogers ",
+        "title": "Omnium Banque Nationale Pr\u00e9sent\u00e9 Par Rogers ",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/12d4c93e-8e56-4d81-ac72-ea0d1498127e/WTA-Tournament_Canada-English-2021.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/806/montreal/2025",
         "level": "WTA 1000",
@@ -3544,11 +3576,13 @@
         "rank": 5,
         "points_gain": 35,
         "prize_money": 33000,
-        "draw": "128M/32Q/32D"
+        "draw": "128M/32Q/32D",
+        "custom_title": "Omnium Banque Nationale Pr\u00e9sent\u00e9 Par Rogers ",
+        "alt_titles": ""
     },
     {
         "id": 18,
-        "title": "The Championships, Wimbledon",
+        "title": "Wimbledon",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/d29814e6-6e80-4015-b680-9a7f3cb065c3/WTA-Tournament_Wimbledon.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/904/wimbledon/2025",
         "level": "Grand Slam",
@@ -3809,11 +3843,13 @@
         "rank": 7,
         "points_gain": 430,
         "prize_money": 542210,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "The Championships, Wimbledon",
+        "alt_titles": ""
     },
     {
         "id": 19,
-        "title": "Bad Homburg Open powered by Solarwatt",
+        "title": "Bad Homburg Open Powered By Solarwatt",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/4ae17020-01fc-4d27-a041-001034ed25de/WTA-Tournament_BadHomburg-2021.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/2017/bad-homburg/2025",
         "level": "WTA 500",
@@ -3965,11 +4001,13 @@
         "rank": 7,
         "points_gain": 108,
         "prize_money": 27940,
-        "draw": "32M/16Q/16D"
+        "draw": "32M/16Q/16D",
+        "custom_title": "Bad Homburg Open Powered By Solarwatt",
+        "alt_titles": ""
     },
     {
         "id": 20,
-        "title": "BERLIN TENNIS OPEN by HYLO",
+        "title": "Berlin Tennis Open By Hylo",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2025/05/23/7fdec664-b1a6-44fc-8772-ecfb34d7aca2/WTA-Tournament_Berlin-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/2012/berlin/2025",
         "level": "WTA 500",
@@ -4044,7 +4082,9 @@
         "rank": 7,
         "points_gain": 1,
         "prize_money": 10190,
-        "draw": "32M/24Q/16D"
+        "draw": "32M/24Q/16D",
+        "custom_title": "Berlin Tennis Open By Hylo",
+        "alt_titles": ""
     },
     {
         "id": 21,
@@ -4301,11 +4341,13 @@
         "rank": 6,
         "points_gain": 430,
         "prize_money": 476398,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Roland Garros",
+        "alt_titles": ""
     },
     {
         "id": 22,
-        "title": "Internazionali BNL d'Italia",
+        "title": "Internazionali Bnl D'Italia",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/2c058ad8-b3d8-49a9-a863-85d7b87a6783/WTA-Tournament_Rome-2018.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/709/rome/2025",
         "level": "WTA 1000",
@@ -4550,7 +4592,9 @@
         "rank": 7,
         "points_gain": 215,
         "prize_money": 143400,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Internazionali Bnl D'Italia",
+        "alt_titles": ""
     },
     {
         "id": 23,
@@ -4796,7 +4840,9 @@
         "rank": 7,
         "points_gain": 215,
         "prize_money": 189075,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Mutua Madrid Open",
+        "alt_titles": ""
     },
     {
         "id": 24,
@@ -4917,11 +4963,13 @@
         "rank": 7,
         "points_gain": 60,
         "prize_money": 13651,
-        "draw": "32M/16Q/16D"
+        "draw": "32M/16Q/16D",
+        "custom_title": "Porsche Tennis Grand Prix",
+        "alt_titles": ""
     },
     {
         "id": 25,
-        "title": "Miami Open presented by Ita\u00fa",
+        "title": "Miami Open Presented By Ita\u00fa",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2025",
         "level": "WTA 1000",
@@ -5083,11 +5131,13 @@
         "rank": 6,
         "points_gain": 65,
         "prize_money": 60400,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Miami Open Presented By Ita\u00fa",
+        "alt_titles": ""
     },
     {
         "id": 26,
-        "title": "BNP Paribas Open",
+        "title": "Bnp Paribas Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/a1736320-dd92-4829-8aa8-846c2edef410/WTA-Tournament_Indian-Wells-2017.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/609/indian-wells/2025",
         "level": "WTA 1000",
@@ -5425,7 +5475,9 @@
         "rank": 11,
         "points_gain": 1000,
         "prize_money": 1127500,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Bnp Paribas Open",
+        "alt_titles": ""
     },
     {
         "id": 27,
@@ -5729,11 +5781,13 @@
         "rank": 14,
         "points_gain": 1000,
         "prize_money": 597000,
-        "draw": "64M/32Q/32D"
+        "draw": "64M/32Q/32D",
+        "custom_title": "Dubai Duty Free Tennis Championships",
+        "alt_titles": ""
     },
     {
         "id": 28,
-        "title": "Qatar TotalEnergies Open 2025",
+        "title": "Qatar Totalenergies Open 2025",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/c44d1d24-32ae-4ebe-b5e8-bd228bfb4fc8/1003_Doha_2026.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/1003/doha/2025",
         "level": "WTA 1000",
@@ -5862,7 +5916,9 @@
         "rank": 15,
         "points_gain": 65,
         "prize_money": 23500,
-        "draw": "64M/32Q/32D"
+        "draw": "64M/32Q/32D",
+        "custom_title": "Qatar Totalenergies Open 2025",
+        "alt_titles": ""
     },
     {
         "id": 29,
@@ -6078,11 +6134,13 @@
         "rank": 15,
         "points_gain": 240,
         "prize_money": 265093,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Australian Open",
+        "alt_titles": ""
     },
     {
         "id": 30,
-        "title": "Brisbane International presented by Evie",
+        "title": "Brisbane International Presented By Evie",
         "url": "https://www.wtatennis.com/tournaments/800/brisbane/2025",
         "level": "WTA 500",
         "surface": "Hard",
@@ -6316,7 +6374,9 @@
         "rank": 16,
         "points_gain": 195,
         "prize_money": 69950,
-        "draw": "64M/24Q/16D"
+        "draw": "64M/24Q/16D",
+        "custom_title": "Brisbane International Presented By Evie",
+        "alt_titles": ""
     },
     {
         "id": 31,
@@ -6581,7 +6641,9 @@
         "rank": 19,
         "points_gain": 325,
         "prize_money": 87655,
-        "draw": "32M/24Q/16D"
+        "draw": "32M/24Q/16D",
+        "custom_title": "Ningbo Open",
+        "alt_titles": ""
     },
     {
         "id": 32,
@@ -6698,7 +6760,9 @@
         "rank": 19,
         "points_gain": 65,
         "prize_money": 20714,
-        "draw": "64M/32Q/32D"
+        "draw": "64M/32Q/32D",
+        "custom_title": "Dongfeng Voyah \u00b7 Wuhan Open",
+        "alt_titles": ""
     },
     {
         "id": 33,
@@ -6951,11 +7015,13 @@
         "rank": 22,
         "points_gain": 215,
         "prize_money": 185000,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "China Open",
+        "alt_titles": ""
     },
     {
         "id": 34,
-        "title": "US Open",
+        "title": "Us Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2024",
         "level": "Grand Slam",
@@ -7079,7 +7145,9 @@
         "rank": 23,
         "points_gain": 70,
         "prize_money": 140000,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Us Open",
+        "alt_titles": ""
     },
     {
         "id": 35,
@@ -7304,11 +7372,13 @@
         "rank": 24,
         "points_gain": 215,
         "prize_money": 72965,
-        "draw": "64M/32Q/32D"
+        "draw": "64M/32Q/32D",
+        "custom_title": "Cincinnati Open",
+        "alt_titles": ""
     },
     {
         "id": 36,
-        "title": "OLYMPICS TENNIS EVENT",
+        "title": "Olympics Tennis Event",
         "url": "https://www.wtatennis.com/tournaments/650/olympics/2024",
         "level": "OLYMPICS",
         "surface": "Clay",
@@ -7374,11 +7444,13 @@
         "subregion": "Western Europe",
         "fifa": "FRA",
         "rank": 32,
-        "draw": "64M/0Q/32D"
+        "draw": "64M/0Q/32D",
+        "custom_title": "Olympics Tennis Event",
+        "alt_titles": ""
     },
     {
         "id": 37,
-        "title": "UniCredit Iasi Open ",
+        "title": "Unicredit Iasi Open ",
         "url": "https://www.wtatennis.com/tournaments/2063/iasi/2024",
         "level": "WTA 250",
         "surface": "Clay",
@@ -7636,11 +7708,13 @@
         "rank": 32,
         "points_gain": 250,
         "prize_money": 30650,
-        "draw": "32M/24Q/16D"
+        "draw": "32M/24Q/16D",
+        "custom_title": "Unicredit Iasi Open ",
+        "alt_titles": ""
     },
     {
         "id": 38,
-        "title": "The Championships, Wimbledon",
+        "title": "Wimbledon",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/d29814e6-6e80-4015-b680-9a7f3cb065c3/WTA-Tournament_Wimbledon.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/904/wimbledon/2024",
         "level": "Grand Slam",
@@ -7720,11 +7794,13 @@
         "rank": 23,
         "points_gain": 10,
         "prize_money": 75677,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "The Championships, Wimbledon",
+        "alt_titles": ""
     },
     {
         "id": 39,
-        "title": "Bad Homburg Open powered by Solarwatt ",
+        "title": "Bad Homburg Open Powered By Solarwatt ",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/4ae17020-01fc-4d27-a041-001034ed25de/WTA-Tournament_BadHomburg-2021.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/2017/bad-homburg/2024",
         "level": "WTA 500",
@@ -7799,7 +7875,9 @@
         "rank": 24,
         "points_gain": 1,
         "prize_money": 8825,
-        "draw": "32M/8Q/16D"
+        "draw": "32M/8Q/16D",
+        "custom_title": "Bad Homburg Open Powered By Solarwatt ",
+        "alt_titles": ""
     },
     {
         "id": 40,
@@ -8113,11 +8191,13 @@
         "rank": 38,
         "points_gain": 780,
         "prize_money": 744414,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Roland Garros",
+        "alt_titles": ""
     },
     {
         "id": 41,
-        "title": "Internazionali BNL d'Italia",
+        "title": "Internazionali Bnl D'Italia",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/2c058ad8-b3d8-49a9-a863-85d7b87a6783/WTA-Tournament_Rome-2018.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/709/rome/2024",
         "level": "WTA 1000",
@@ -8189,7 +8269,9 @@
         "rank": 40,
         "points_gain": 10,
         "prize_money": 10495,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Internazionali Bnl D'Italia",
+        "alt_titles": ""
     },
     {
         "id": 42,
@@ -8456,7 +8538,9 @@
         "rank": 43,
         "points_gain": 215,
         "prize_money": 161995,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Mutua Madrid Open",
+        "alt_titles": ""
     },
     {
         "id": 43,
@@ -8617,11 +8701,13 @@
         "rank": 43,
         "points_gain": 54,
         "prize_money": 5750,
-        "draw": "32M/24Q/16D"
+        "draw": "32M/24Q/16D",
+        "custom_title": "Open Capfinances Rouen M\u00e9tropole",
+        "alt_titles": ""
     },
     {
         "id": 44,
-        "title": "BNP Paribas Open",
+        "title": "Bnp Paribas Open",
         "url": "https://www.wtatennis.com/tournaments/609/indian-wells/2024",
         "level": "WTA 1000",
         "surface": "Hard",
@@ -8700,7 +8786,9 @@
         "rank": 38,
         "points_gain": 10,
         "prize_money": 30050,
-        "draw": "128M/48Q/32D"
+        "draw": "128M/48Q/32D",
+        "custom_title": "Bnp Paribas Open",
+        "alt_titles": ""
     },
     {
         "id": 45,
@@ -8783,7 +8871,9 @@
         "rank": 38,
         "points_gain": 10,
         "prize_money": 14800,
-        "draw": "64M/32Q/32D"
+        "draw": "64M/32Q/32D",
+        "custom_title": "Dubai Duty Free Tennis Championships",
+        "alt_titles": ""
     },
     {
         "id": 46,
@@ -9003,11 +9093,13 @@
         "rank": 47,
         "points_gain": 240,
         "prize_money": 248020,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Australian Open",
+        "alt_titles": ""
     },
     {
         "id": 47,
-        "title": "Brisbane International presented by Evie",
+        "title": "Brisbane International Presented By Evie",
         "url": "https://www.wtatennis.com/tournaments/800/brisbane/2024",
         "level": "WTA 500",
         "surface": "Hard",
@@ -9208,7 +9300,9 @@
         "rank": 58,
         "points_gain": 108,
         "prize_money": 38000,
-        "draw": "64M/24Q/32D"
+        "draw": "64M/24Q/32D",
+        "custom_title": "Brisbane International Presented By Evie",
+        "alt_titles": ""
     },
     {
         "id": 48,
@@ -9330,7 +9424,9 @@
         "rank": 50,
         "points_gain": 30,
         "prize_money": 3920,
-        "draw": "32M/16Q/16D"
+        "draw": "32M/16Q/16D",
+        "custom_title": "Prudential Hong Kong Tennis Open 2023",
+        "alt_titles": ""
     },
     {
         "id": 49,
@@ -9589,11 +9685,13 @@
         "entry_type": "Q",
         "points_gain": 150,
         "prize_money": 92500,
-        "draw": "64M/32Q/32D"
+        "draw": "64M/32Q/32D",
+        "custom_title": "China Open",
+        "alt_titles": ""
     },
     {
         "id": 50,
-        "title": "US Open",
+        "title": "Us Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2023",
         "level": "Grand Slam",
@@ -9722,11 +9820,13 @@
         "rank": 63,
         "points_gain": 70,
         "prize_money": 123000,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Us Open",
+        "alt_titles": ""
     },
     {
         "id": 51,
-        "title": "Tennis in the Land",
+        "title": "Tennis In The Land",
         "url": "https://www.wtatennis.com/tournaments/2040/cleveland/2023",
         "level": "WTA 250",
         "surface": "Hard",
@@ -9854,7 +9954,9 @@
         "rank": 67,
         "points_gain": 30,
         "prize_money": 3920,
-        "draw": "32M/24Q/16D"
+        "draw": "32M/24Q/16D",
+        "custom_title": "Tennis In The Land",
+        "alt_titles": ""
     },
     {
         "id": 52,
@@ -9976,11 +10078,13 @@
         "rank": 64,
         "points_gain": 30,
         "prize_money": 4770,
-        "draw": "32M/8Q/16D"
+        "draw": "32M/8Q/16D",
+        "custom_title": "Ladies Open Lausanne",
+        "alt_titles": ""
     },
     {
         "id": 53,
-        "title": "The Championships, Wimbledon",
+        "title": "Wimbledon",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/d29814e6-6e80-4015-b680-9a7f3cb065c3/WTA-Tournament_Wimbledon.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/904/wimbledon/2023",
         "level": "Grand Slam",
@@ -10345,7 +10449,9 @@
         "entry_type": "Q",
         "points_gain": 280,
         "prize_money": 262005,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "The Championships, Wimbledon",
+        "alt_titles": ""
     },
     {
         "id": 54,
@@ -10655,7 +10761,9 @@
         "entry_type": "Q",
         "points_gain": 170,
         "prize_money": 142000,
-        "draw": "128M/128Q/64D"
+        "draw": "128M/128Q/64D",
+        "custom_title": "Roland Garros",
+        "alt_titles": ""
     },
     {
         "id": 55,
@@ -10777,7 +10885,9 @@
         "rank": 146,
         "entry_type": "W",
         "prize_money": 2000,
-        "draw": "32M/8Q/8D"
+        "draw": "32M/8Q/8D",
+        "custom_title": "Troph\u00e9e Clarins ",
+        "alt_titles": ""
     },
     {
         "id": 56,
@@ -10986,11 +11096,13 @@
         "entry_type": "W",
         "points_gain": 120,
         "prize_money": 84900,
-        "draw": "96M/48Q/32D"
+        "draw": "96M/48Q/32D",
+        "custom_title": "Mutua Madrid Open",
+        "alt_titles": ""
     },
     {
         "id": 57,
-        "title": "ITF/TENNIS EUROPE $60,000",
+        "title": "Itf/Tennis Europe $60,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Clay",
@@ -11290,11 +11402,13 @@
         "fifa": "SUI",
         "rank": 243,
         "prize_money": 7344,
-        "draw": "48M/32Q/16D"
+        "draw": "48M/32Q/16D",
+        "custom_title": "Itf/Tennis Europe $60,000",
+        "alt_titles": ""
     },
     {
         "id": 58,
-        "title": "ITF/TENNIS EUROPE $60,000",
+        "title": "Itf/Tennis Europe $60,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Clay",
@@ -11632,11 +11746,13 @@
         "rank": 312,
         "entry_type": "Q",
         "prize_money": 7344,
-        "draw": "32M/32Q/16D"
+        "draw": "32M/32Q/16D",
+        "custom_title": "Itf/Tennis Europe $60,000",
+        "alt_titles": ""
     },
     {
         "id": 59,
-        "title": "ITF $25,000",
+        "title": "Itf $25,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Hard",
@@ -11797,11 +11913,13 @@
         "fifa": "TUN",
         "rank": 298,
         "prize_money": 672,
-        "draw": "32M/64Q/16D"
+        "draw": "32M/64Q/16D",
+        "custom_title": "Itf $25,000",
+        "alt_titles": ""
     },
     {
         "id": 60,
-        "title": "ITF $60,000",
+        "title": "Itf $60,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Hard",
@@ -12045,11 +12163,13 @@
         "fifa": "ISR",
         "rank": 405,
         "prize_money": 9142,
-        "draw": "32M/32Q/16D"
+        "draw": "32M/32Q/16D",
+        "custom_title": "Itf $60,000",
+        "alt_titles": ""
     },
     {
         "id": 61,
-        "title": "ITF/TENNIS EUROPE $25,000",
+        "title": "Itf/Tennis Europe $25,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Hard",
@@ -12213,7 +12333,9 @@
         "fifa": "POR",
         "rank": 420,
         "prize_money": 672,
-        "draw": "32M/64Q/6D"
+        "draw": "32M/64Q/6D",
+        "custom_title": "Itf/Tennis Europe $25,000",
+        "alt_titles": ""
     },
     {
         "id": 62,
@@ -12292,11 +12414,13 @@
         "entry_type": "W",
         "points_gain": 1,
         "prize_money": 2200,
-        "draw": "32M/24Q/16D"
+        "draw": "32M/24Q/16D",
+        "custom_title": "Jasmin Open Monastir",
+        "alt_titles": ""
     },
     {
         "id": 63,
-        "title": "ITF/TENNIS EUROPE $25,000",
+        "title": "Itf/Tennis Europe $25,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Hard",
@@ -12639,11 +12763,13 @@
         "rank": 612,
         "entry_type": "Q",
         "prize_money": 3935,
-        "draw": "32M/24Q/16D"
+        "draw": "32M/24Q/16D",
+        "custom_title": "Itf/Tennis Europe $25,000",
+        "alt_titles": ""
     },
     {
         "id": 64,
-        "title": "ITF/TENNIS EUROPE $60,000",
+        "title": "Itf/Tennis Europe $60,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Clay",
@@ -12853,11 +12979,13 @@
         "rank": 834,
         "entry_type": "Q",
         "prize_money": 935,
-        "draw": "32M/32Q/16D"
+        "draw": "32M/32Q/16D",
+        "custom_title": "Itf/Tennis Europe $60,000",
+        "alt_titles": ""
     },
     {
         "id": 65,
-        "title": "ITF/TENNIS EUROPE $25,000",
+        "title": "Itf/Tennis Europe $25,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Clay",
@@ -13072,11 +13200,13 @@
         "fifa": "FRA",
         "rank": 838,
         "prize_money": 1162,
-        "draw": "32M/32Q/16D"
+        "draw": "32M/32Q/16D",
+        "custom_title": "Itf/Tennis Europe $25,000",
+        "alt_titles": ""
     },
     {
         "id": 66,
-        "title": "ITF/TENNIS EUROPE $15,000",
+        "title": "Itf/Tennis Europe $15,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Clay",
@@ -13327,11 +13457,13 @@
         "fifa": "TUR",
         "rank": 1269,
         "prize_money": 2352,
-        "draw": "32M/64Q/16D"
+        "draw": "32M/64Q/16D",
+        "custom_title": "Itf/Tennis Europe $15,000",
+        "alt_titles": ""
     },
     {
         "id": 67,
-        "title": "ITF/TENNIS EUROPE $15,000",
+        "title": "Itf/Tennis Europe $15,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Clay",
@@ -13585,11 +13717,13 @@
         "fifa": "TUR",
         "rank": 1272,
         "prize_money": 2352,
-        "draw": "32M/64Q/16D"
+        "draw": "32M/64Q/16D",
+        "custom_title": "Itf/Tennis Europe $15,000",
+        "alt_titles": ""
     },
     {
         "id": 68,
-        "title": "ITF/ TENNIS EUROPE $15,000",
+        "title": "Itf/ Tennis Europe $15,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Clay",
@@ -13662,11 +13796,13 @@
         "fifa": "TUR",
         "rank": 9999,
         "prize_money": 147,
-        "draw": "32M/64Q/16D"
+        "draw": "32M/64Q/16D",
+        "custom_title": "Itf/ Tennis Europe $15,000",
+        "alt_titles": ""
     },
     {
         "id": 69,
-        "title": "ITF $15,000",
+        "title": "Itf $15,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Clay",
@@ -13822,11 +13958,13 @@
         "fifa": "MAR",
         "rank": 9999,
         "prize_money": 367,
-        "draw": "32M/64Q/16D"
+        "draw": "32M/64Q/16D",
+        "custom_title": "Itf $15,000",
+        "alt_titles": ""
     },
     {
         "id": 70,
-        "title": "ITF $15,000",
+        "title": "Itf $15,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Hard",
@@ -14079,11 +14217,13 @@
         "subregion": "North Africa",
         "fifa": "EGY",
         "prize_money": 1470,
-        "draw": "32M/64Q/16D"
+        "draw": "32M/64Q/16D",
+        "custom_title": "Itf $15,000",
+        "alt_titles": ""
     },
     {
         "id": 71,
-        "title": "ITF $15,000",
+        "title": "Itf $15,000",
         "logo": "https://www.wtatennis.com/resources/v7.46.6/i/elements/itf.png",
         "level": "ITF",
         "surface": "Hard",
@@ -14199,6 +14339,8 @@
         "subregion": "North Africa",
         "fifa": "EGY",
         "prize_money": 294,
-        "draw": "32M/64Q/16D"
+        "draw": "32M/64Q/16D",
+        "custom_title": "Itf $15,000",
+        "alt_titles": ""
     }
 ]

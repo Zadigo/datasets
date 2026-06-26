@@ -553,34 +553,32 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
             tournament['draw'] = draw
 
     # The custom name is the name listed exactly as it appears in the WTA website.
-    tournament['custom_name'] = tournament['name'].lower().title()
+    tournament['custom_title'] = tournament['title'].lower().title()
     # Add and alternative name field for the tournament. This is done because some events have
     # rebranded anems over the years. For example, the "Australian Open" was previously
     # known as the "Australian Championships" and for Nuxt, we need to have a way to map
     # the old name to the new name.
-    tournament['alt_names'] = '|'.joing([])
+    tournament['alt_titles'] = '|'.join([])
 
-    # This is the normalized name of the tournament that will be used for frontend 
-    # applications. It allows for example for "Wimbledon" also referenced as "The Championships" 
+    # This is the normalized name of the tournament that will be used for frontend
+    # applications. It allows for example for "Wimbledon" also referenced as "The Championships"
     # to be mapped to the same name.
-    tournament['name'] = None
 
-    # Normalize the name field 
-    match tournament['name'].lower():
+    match tournament['title'].lower():
         case 'the championships':
-            tournament['name'] = 'Wimbledon'
+            tournament['title'] = 'Wimbledon'
         case 'the championships, wimbledon':
-            tournament['name'] = 'Wimbledon'
+            tournament['title'] = 'Wimbledon'
         case 'championnats internationaux de france':
-            tournament['name'] = 'Roland Garros'
+            tournament['title'] = 'Roland Garros'
         case 'roland garros- paris, france':
-            tournament['name'] = 'Roland Garros'
+            tournament['title'] = 'Roland Garros'
         case 'olympic tennis event':
-            tournament['name'] = 'Olympic Games'
+            tournament['title'] = 'Olympic Games'
         case _:
-            # Just use the custom name as the normalized name 
+            # Just use the custom name as the normalized name
             # if no special case is found
-            tournament['name'] = tournament['custom_name']
+            tournament['title'] = tournament['custom_title']
 
     return tournament
 
@@ -588,27 +586,30 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
 async def write_tournament_name(data: dict):
     """Writes the tournament name to a text file."""
     async with LOCK:
-        with TOURNAMENT_NAMES_PATH.open('a') as f:
-            json.dumps(data, f, indent=4)
+        with TOURNAMENT_NAMES_PATH.open('r+') as f:
+            actual_data = json.load(f)
+            actual_data.append(data)
+            f.seek(0)
+            json.dump(actual_data, f, indent=4)
 
 
 async def collect_tournment_names(task_group: asyncio.TaskGroup, data: list[dict[str, str | list[str]]]):
     """Collects the tournament names from the data dictionary and adds them to the task group."""
     await LOCK.acquire()
-    names = {tournament['name'] for tournament in data}
+    names = {tournament['title'] for tournament in data}
     SEEN_TOURNAMENT_NAMES.update(names)
 
     for name in SEEN_TOURNAMENT_NAMES:
         data: dict = {
-            'name': name,
-            'alt_name': None,
-            'related_name': None,
+            'title': name,
+            'alt_title': None,
+            'related_titles': None,
             'geo': {
                 'lat': None,
                 'lng': None,
             }
         }
-        task_group.create_task(write_tournament_name(name))
+        task_group.create_task(write_tournament_name(data))
 
     LOCK.release()
 
