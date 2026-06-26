@@ -24,10 +24,16 @@ CORRECTED_PATH = BASE_DIR.joinpath('corrected')
 
 COUNTRIES_PATH = BASE_DIR.parent.joinpath('geo', 'countries.json')
 
+TOURNAMENT_NAMES_PATH = BASE_DIR.joinpath('tournament_names.json')
+
 COUNTRIES_BY_CONTINENT_PATH = BASE_DIR.parent.joinpath(
     'geo',
     'countries_by_continent_and_fifa.json'
 )
+
+LOCK = asyncio.Lock()
+
+SEEN_TOURNAMENT_NAMES: set[str] = set()
 
 with COUNTRIES_PATH.open() as f:
     countries: list[dict[str, Any]] = json.load(f)
@@ -465,7 +471,7 @@ def _set_country_details(data: dict[str, Any]):
     data.update(result)
 
 
-def correct_data(tournament: dict[str, str | list[str]]) -> list:
+async def correct_data(tournament: dict[str, str | list[str]]) -> list:
     """Main entry function to correct the data by applying all the fixes to the data dictionary."""
     fixes: list[Callable[[dict[str, str | list[str]]], None]] = [
         clean_location,
@@ -545,7 +551,66 @@ def correct_data(tournament: dict[str, str | list[str]]) -> list:
         if 'Draw:' in item:
             draw = item.removeprefix('Draw:').strip()
             tournament['draw'] = draw
+
+    # The custom name is the name listed exactly as it appears in the WTA website.
+    tournament['custom_name'] = tournament['name'].lower().title()
+    # Add and alternative name field for the tournament. This is done because some events have
+    # rebranded anems over the years. For example, the "Australian Open" was previously
+    # known as the "Australian Championships" and for Nuxt, we need to have a way to map
+    # the old name to the new name.
+    tournament['alt_names'] = '|'.joing([])
+
+    # This is the normalized name of the tournament that will be used for frontend 
+    # applications. It allows for example for "Wimbledon" also referenced as "The Championships" 
+    # to be mapped to the same name.
+    tournament['name'] = None
+
+    # Normalize the name field 
+    match tournament['name'].lower():
+        case 'the championships':
+            tournament['name'] = 'Wimbledon'
+        case 'the championships, wimbledon':
+            tournament['name'] = 'Wimbledon'
+        case 'championnats internationaux de france':
+            tournament['name'] = 'Roland Garros'
+        case 'roland garros- paris, france':
+            tournament['name'] = 'Roland Garros'
+        case 'olympic tennis event':
+            tournament['name'] = 'Olympic Games'
+        case _:
+            # Just use the custom name as the normalized name 
+            # if no special case is found
+            tournament['name'] = tournament['custom_name']
+
     return tournament
+
+
+async def write_tournament_name(data: dict):
+    """Writes the tournament name to a text file."""
+    async with LOCK:
+        with TOURNAMENT_NAMES_PATH.open('a') as f:
+            json.dumps(data, f, indent=4)
+
+
+async def collect_tournment_names(task_group: asyncio.TaskGroup, data: list[dict[str, str | list[str]]]):
+    """Collects the tournament names from the data dictionary and adds them to the task group."""
+    await LOCK.acquire()
+    names = {tournament['name'] for tournament in data}
+    SEEN_TOURNAMENT_NAMES.update(names)
+
+    for name in SEEN_TOURNAMENT_NAMES:
+        data: dict = {
+            'name': name,
+            'alt_name': None,
+            'related_name': None,
+            'geo': {
+                'lat': None,
+                'lng': None,
+            }
+        }
+        task_group.create_task(write_tournament_name(name))
+
+    LOCK.release()
 
 
 async def main():
@@ -553,18 +618,22 @@ async def main():
         logger.info(f'* Correcting data in file: {item.name}')
 
         with item.open() as f:
-            data = json.load(f)
+            data: list[dict[str, str | list[str]]] = json.load(f)
             for i, tournament in enumerate(data):
                 # Before correcting, ensure that we have a good
                 # numbering for the ID field
                 tournament['id'] = i + 1
-                correct_data(tournament)
+                await correct_data(tournament)
 
             task = asyncio.create_task(write_to_file(data, item))
             await task
 
             task = asyncio.create_task(write_to_csv(data, item))
             await task
+
+            async with asyncio.TaskGroup() as tg:
+                tg.create_task(collect_tournment_names(tg, data))
+
         logger.info(f'+ Finished correcting data in file: {item.name}')
 
 
