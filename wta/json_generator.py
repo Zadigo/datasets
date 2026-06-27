@@ -615,10 +615,11 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
     # the old name to the new name.
     tournament['alt_titles'] = '|'.join([])
 
+    lowered_title = tournament['title'].lower()
     # This is the normalized name of the tournament that will be used for frontend
     # applications. It allows for example for "Wimbledon" also referenced as "The Championships"
     # to be mapped to the same name.
-    match tournament['title'].lower():
+    match lowered_title:
         case 'the championships':
             tournament['title'] = 'Wimbledon'
         case 'the championships, wimbledon':
@@ -635,28 +636,28 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
             tournament['title'] = tournament['custom_title']
 
     # Custom case for tiles like "2018 Us Open Tennis Championships"
-    if 'Us Open Tennis Championships' in tournament['title']:
+    if 'us open tennis championships' in lowered_title or 'us open' in lowered_title:
         tournament['title'] = 'US Open'
 
-    if 'Dongfeng Motor Wuhan' in tournament['title'] or 'Wuhan Open' in tournament['title']:
+    if 'dongfeng motor wuhan' in lowered_title or 'wuhan open' in lowered_title:
         tournament['title'] = 'Wuhan Open'
 
-    if 'Bett1Open' in tournament['title']:
+    if 'bett1open' in lowered_title:
         tournament['title'] = 'Berlin Open'
 
-    if 'Dubai Duty Free' in tournament['title']:
+    if 'dubai duty free' in lowered_title:
         tournament['title'] = 'Dubai Tennis Championships'
 
-    if 'WTA Elite Trophy' in tournament['title']:
+    if 'wta elite trophy' in lowered_title:
         tournament['title'] = 'WTA Elite Trophy'
 
-    if 'Miami Open presented by' in tournament['title']:
+    if 'miami open presented by' in lowered_title:
         tournament['title'] = 'Miami Open'
 
-    if 'Qatar Total' in tournament['title']:
+    if 'qatar total' in lowered_title:
         tournament['title'] = 'Qatar Total Open'
 
-    if 'WTA Finals' in tournament['title']:
+    if 'wta finals' in lowered_title:
         tournament['title'] = 'WTA Finals'
 
     # Calculate the total number of games played in the tournament,

@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2025",
         "level": "Grand Slam",
@@ -857,7 +857,7 @@
     },
     {
         "id": 7,
-        "title": "Miami Open Presented By Ita\u00fa",
+        "title": "Miami Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2025",
         "level": "WTA 1000",
@@ -1713,7 +1713,7 @@
     },
     {
         "id": 14,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2024",
         "level": "Grand Slam",
@@ -3286,7 +3286,7 @@
     },
     {
         "id": 22,
-        "title": "Miami Open Presented By Ita\u00fa",
+        "title": "Miami Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2024",
         "level": "WTA 1000",
@@ -4975,7 +4975,7 @@
     },
     {
         "id": 31,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2023",
         "level": "Grand Slam",
@@ -6444,7 +6444,7 @@
     },
     {
         "id": 42,
-        "title": "Miami Open Presented By Ita\u00fa",
+        "title": "Miami Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2023",
         "level": "WTA 1000",
@@ -8032,7 +8032,7 @@
     },
     {
         "id": 51,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2022",
         "level": "Grand Slam",
@@ -9126,7 +9126,7 @@
     },
     {
         "id": 57,
-        "title": "Miami Open Presented By Ita\u00fa",
+        "title": "Miami Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2022",
         "level": "WTA 1000",
@@ -10609,7 +10609,7 @@
     },
     {
         "id": 65,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2021",
         "level": "Grand Slam",
@@ -12080,7 +12080,7 @@
     },
     {
         "id": 73,
-        "title": "Miami Open Presented By Ita\u00fa",
+        "title": "Miami Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2021",
         "level": "WTA 1000",
@@ -13354,7 +13354,7 @@
     },
     {
         "id": 80,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2020",
         "level": "Grand Slam",
@@ -16061,7 +16061,7 @@
     },
     {
         "id": 96,
-        "title": "Miami Open Presented By Itau",
+        "title": "Miami Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2019",
         "level": "Premier Mandatory",
@@ -18220,7 +18220,7 @@
     },
     {
         "id": 112,
-        "title": "Miami Open Presented By Itau",
+        "title": "Miami Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2018",
         "level": "Premier Mandatory",
@@ -19592,7 +19592,7 @@
     },
     {
         "id": 120,
-        "title": "Miami Open Presented By Itau",
+        "title": "Miami Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2016",
         "level": "Premier Mandatory",
@@ -21099,7 +21099,7 @@
     },
     {
         "id": 126,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2015",
         "level": "Grand Slam",
@@ -22741,7 +22741,7 @@
     },
     {
         "id": 134,
-        "title": "Miami Open Presented By Itau",
+        "title": "Miami Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/e0f2d5a2-cc05-4b2a-8377-f57edf6eaaa2/WTA-Tournament_Miami-2024.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/902/miami/2015",
         "level": "Premier Mandatory",
@@ -23811,7 +23811,7 @@
     },
     {
         "id": 140,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2014",
         "level": "Grand Slam",
@@ -25712,7 +25712,7 @@
     },
     {
         "id": 151,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2013",
         "level": "Grand Slam",
@@ -29676,7 +29676,7 @@
     },
     {
         "id": 166,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2012",
         "level": "Grand Slam",
@@ -38592,7 +38592,7 @@
     },
     {
         "id": 203,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2010",
         "level": "Grand Slam",
@@ -42255,7 +42255,7 @@
     },
     {
         "id": 223,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2009",
         "level": "Grand Slam",
@@ -45882,7 +45882,7 @@
     },
     {
         "id": 240,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2008",
         "level": "Grand Slam",
@@ -49613,7 +49613,7 @@
     },
     {
         "id": 260,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2007",
         "level": "Grand Slam",
@@ -52680,7 +52680,7 @@
     },
     {
         "id": 278,
-        "title": "Us Open",
+        "title": "US Open",
         "logo": "https://photoresources.wtatennis.com/photo-resources/2026/04/16/8d0a3d41-7b45-434b-a75b-b7d2eb0922b4/WTA-Tournament_US-Open.png?height=128",
         "url": "https://www.wtatennis.com/tournaments/905/us-open/2006",
         "level": "Grand Slam",
