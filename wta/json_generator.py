@@ -638,6 +638,27 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
     if 'Us Open Tennis Championships' in tournament['title']:
         tournament['title'] = 'US Open'
 
+    if 'Dongfeng Motor Wuhan' in tournament['title'] or 'Wuhan Open' in tournament['title']:
+        tournament['title'] = 'Wuhan Open'
+
+    if 'Bett1Open' in tournament['title']:
+        tournament['title'] = 'Berlin Open'
+
+    if 'Dubai Duty Free' in tournament['title']:
+        tournament['title'] = 'Dubai Tennis Championships'
+
+    if 'WTA Elite Trophy' in tournament['title']:
+        tournament['title'] = 'WTA Elite Trophy'
+
+    if 'Miami Open presented by' in tournament['title']:
+        tournament['title'] = 'Miami Open'
+
+    if 'Qatar Total' in tournament['title']:
+        tournament['title'] = 'Qatar Total Open'
+
+    if 'WTA Finals' in tournament['title']:
+        tournament['title'] = 'WTA Finals'
+
     # Calculate the total number of games played in the tournament,
     # the average number of games per match, and the total number of
     # matches played in the tournament.
