@@ -410,7 +410,7 @@
     },
     {
         "id": 5,
-        "title": "Rogers Cup Presented By National Bank",
+        "title": "Rogers Cup",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/806/montreal/2019",
         "level": "Premier 5",
@@ -1475,7 +1475,7 @@
     },
     {
         "id": 12,
-        "title": "Rogers Cup Presented By National Bank",
+        "title": "Rogers Cup",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/806/montreal/2018",
         "level": "Premier 5",
@@ -6932,7 +6932,7 @@
     },
     {
         "id": 41,
-        "title": "Abierto Mexicano Telcel Presentado Por Hsbc",
+        "title": "Abierto Mexicano",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/1002/acapulco/2015",
         "level": "International",
@@ -8078,7 +8078,7 @@
     },
     {
         "id": 46,
-        "title": "China Open 2014",
+        "title": "China Open",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/1020/beijing/2014",
         "level": "Premier Mandatory",
@@ -27088,7 +27088,7 @@
     },
     {
         "id": 124,
-        "title": "Rogers Cup Presented By National Bank",
+        "title": "Rogers Cup",
         "logo": "https://www.wtatennis.com/resources/v7.42.0/i/elements/itf.png",
         "url": null,
         "level": "ITF",

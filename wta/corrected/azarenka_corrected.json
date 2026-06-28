@@ -1591,7 +1591,7 @@
     },
     {
         "id": 13,
-        "title": "Guadalajara Open Akron Presented By Santander",
+        "title": "Guadalajara Open",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/2075/guadalajara-500/2024",
         "level": "WTA 500",
@@ -4750,7 +4750,7 @@
     },
     {
         "id": 30,
-        "title": "Guadalajara Open Akron Presented By Santander",
+        "title": "Guadalajara Open",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/2075/guadalajara-500/2023",
         "level": "WTA 1000",
@@ -7655,7 +7655,7 @@
     },
     {
         "id": 49,
-        "title": "Guadalajara Open Akron",
+        "title": "Guadalajara Open",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/2075/guadalajara-500/2022",
         "level": "WTA 1000",
@@ -14446,7 +14446,7 @@
     },
     {
         "id": 86,
-        "title": "Rogers Cup Presented By National Bank",
+        "title": "Rogers Cup",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/806/montreal/2019",
         "level": "Premier 5",
@@ -16335,7 +16335,7 @@
     },
     {
         "id": 98,
-        "title": "Abierto Mexicano Telcel Presentado Por Hsbc",
+        "title": "Abierto Mexicano",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/1002/acapulco/2019",
         "level": "International",
@@ -17332,7 +17332,7 @@
     },
     {
         "id": 105,
-        "title": "Rogers Cup Presented By National Bank",
+        "title": "Rogers Cup",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/806/montreal/2018",
         "level": "Premier 5",
@@ -20306,7 +20306,7 @@
     },
     {
         "id": 122,
-        "title": "Abierto Mexicano Telcel Presentado Por Hsbc",
+        "title": "Abierto Mexicano",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/1002/acapulco/2016",
         "level": "International",
@@ -21566,7 +21566,7 @@
     },
     {
         "id": 128,
-        "title": "Rogers Cup Presented By National Bank",
+        "title": "Rogers Cup",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/806/montreal/2015",
         "level": "Premier 5",
@@ -24574,7 +24574,7 @@
     },
     {
         "id": 144,
-        "title": "Aegon International",
+        "title": "Eastbourne International",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/710/eastbourne/2014",
         "level": "WTA 250",
@@ -30058,7 +30058,7 @@
     },
     {
         "id": 167,
-        "title": "Rogers Cup Presented By National Bank",
+        "title": "Rogers Cup",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/806/montreal/2012",
         "level": "Premier 5",
@@ -35150,7 +35150,7 @@
     },
     {
         "id": 187,
-        "title": "Aegon International",
+        "title": "Eastbourne International",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/710/eastbourne/2011",
         "level": "WTA 250",
@@ -38727,7 +38727,7 @@
     },
     {
         "id": 204,
-        "title": "Rogers Cup Presented By National Bank",
+        "title": "Rogers Cup",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/806/montreal/2010",
         "level": "Premier 5",
@@ -39540,7 +39540,7 @@
     },
     {
         "id": 208,
-        "title": "Aegon International- Eastbourne, Great Britain",
+        "title": "Eastbourne International",
         "logo": null,
         "url": "https://www.wtatennis.com/tournaments/710/eastbourne/2010",
         "level": "WTA 250",
@@ -46240,7 +46240,7 @@
     },
     {
         "id": 242,
-        "title": "Rogers Cup Presented By National Bank",
+        "title": "Rogers Cup",
         "logo": "https://www.wtatennis.com/resources/v7.42.0/i/elements/itf.png",
         "url": null,
         "level": "ITF",

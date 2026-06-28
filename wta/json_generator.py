@@ -629,7 +629,7 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
         case 'roland garros- paris, france':
             tournament['title'] = 'Roland Garros'
         case 'olympic tennis event':
-            tournament['title'] = 'Olympic Games'            
+            tournament['title'] = 'Olympic Games'
         case _:
             # Just use the custom name as the normalized name
             # if no special case is found
@@ -659,6 +659,24 @@ async def correct_data(tournament: dict[str, str | list[str]]) -> list:
 
     if 'wta finals' in lowered_title:
         tournament['title'] = 'WTA Finals'
+
+    if 'guadalajara open' in lowered_title:
+        tournament['title'] = 'Guadalajara Open'
+
+    if 'hp japan women' in lowered_title:
+        tournament['title'] = 'Japan Open'
+
+    if 'rogers cup' in lowered_title:
+        tournament['title'] = 'Rogers Cup'
+
+    if 'abierto mexicano' in lowered_title:
+        tournament['title'] = 'Abierto Mexicano'
+
+    if 'aegon international' in lowered_title or 'eastbourne' in lowered_title:
+        tournament['title'] = 'Eastbourne International'
+
+    if 'china open' in lowered_title:
+        tournament['title'] = 'China Open'
 
     # Calculate the total number of games played in the tournament,
     # the average number of games per match, and the total number of
